@@ -54,7 +54,7 @@ section {
     align-items: center;
 }
 
-.team:before {
+.team::before {
     content: '';
     width: 24px;
     height: 100%;
@@ -76,7 +76,7 @@ section {
     position: relative;
 }
 
-.gametime:before {
+.gametime::before {
     position: absolute;
     top: 10%;
     left: -5px;
@@ -86,26 +86,26 @@ section {
     content: '';
 }
 
-.nba-den:before {
+.nba-den::before {
     background-image: url('/logos/nba-den.png');
 }
 
-.nba-por:before {
+.nba-por::before {
     background-image: url('logos/nba-por.png');
 }
 
-.nba-phx:before {
+.nba-phx::before {
     background-image: url('logos/nba-phx.png');
 }
 
-.nba-lal:before {
+.nba-lal::before {
     background-image: url('logos/nba-lal.png');
 }
 
-.nba-lac:before {
+.nba-lac::before {
     background-image: url('logos/nba-lac.png');
 }
 
-.nba-dal:before {
+.nba-dal::before {
     background-image: url('/logos/nba-dal.png');
 }
