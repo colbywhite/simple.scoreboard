@@ -87,7 +87,7 @@ section {
 }
 
 .nba-den::before {
-    background-image: url('/logos/nba-den.png');
+    background-image: url('logos/nba-den.png');
 }
 
 .nba-por::before {
@@ -107,5 +107,5 @@ section {
 }
 
 .nba-dal::before {
-    background-image: url('/logos/nba-dal.png');
+    background-image: url('logos/nba-dal.png');
 }
