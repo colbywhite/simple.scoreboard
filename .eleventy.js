@@ -15,11 +15,11 @@ module.exports = function (eleventyConfig) {
     ) {
       return 'Today';
     } else {
-      return date.toLocaleString([], {weekday: 'short', day: 'numeric', month: 'short'});
+      return date.toLocaleString('en-US', {weekday: 'short', day: 'numeric', month: 'short'});
     }
   });
   eleventyConfig.addFilter('humanTime', dateString => {
     const date = new Date(dateString);
-    return date.toLocaleString([], {hour: 'numeric', minute: 'numeric', timeZoneName: 'short'});
+    return date.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', timeZoneName: 'short'});
   });
 };
