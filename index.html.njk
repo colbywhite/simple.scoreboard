@@ -1,0 +1,39 @@
+---
+permalink: index.html
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Sports Skeds</title>
+    <link rel="stylesheet" type="text/css" href="index.css" media="screen"/>
+</head>
+<body>
+<main>
+    <h1>NBA Schedule</h1>
+
+
+    <section>
+    {% for game in games %}
+        <button class="game">
+            <div class="description">{{game.description}}</div>
+            <div class="team nba-{{game.away.abbreviation | lower}}">{{game.away.nickname}}</div>
+            <div class="team nba-{{game.home.abbreviation | lower}}">{{game.home.nickname}}</div>
+            <div class="gametime">
+                {% if game.status === 'tbd' %}
+                <div>TBD</div>
+                {% elif game.status === 'complete' %}
+                <div>{{game.date | humanDate}}</div>
+                <div>FINAL</div>
+                {% else %}
+                <div>{{game.date | humanDate}}</div>
+                <div>{{game.date | humanTime}}</div>
+                {% endif %}
+            </div>
+        </button>
+    {% endfor %}
+    </section>
+</main>
+</body>
+</html>

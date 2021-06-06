@@ -5,11 +5,15 @@
   "main": "index.js",
   "scripts": {
     "build": "eleventy",
-    "start": "eleventy --serve"
+    "start": "eleventy --serve",
+    "hydration": "ts-node _hydration/games.ts"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "0.12.1"
+    "@11ty/eleventy": "0.12.1",
+    "@types/node": "15.12.1",
+    "ts-node": "10.0.0",
+    "typescript": "4.3.2"
   }
 }

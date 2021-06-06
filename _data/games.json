@@ -1,0 +1,514 @@
+[
+  {
+    "code": "20210601/BOSBKN",
+    "description": "BKN wins series 4-1",
+    "status": "complete",
+    "home": {
+      "abbreviation": "BKN",
+      "nickname": "Nets",
+      "city": "Brooklyn"
+    },
+    "away": {
+      "abbreviation": "BOS",
+      "nickname": "Celtics",
+      "city": "Boston"
+    },
+    "date": "2021-06-01T23:30:00.000Z"
+  },
+  {
+    "code": "20210601/PORDEN",
+    "description": "DEN leads series 3-2",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver"
+    },
+    "away": {
+      "abbreviation": "POR",
+      "nickname": "Trail Blazers",
+      "city": "Portland"
+    },
+    "date": "2021-06-02T01:00:00.000Z"
+  },
+  {
+    "code": "20210601/LALPHX",
+    "description": "PHX leads series 3-2",
+    "status": "complete",
+    "home": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix"
+    },
+    "away": {
+      "abbreviation": "LAL",
+      "nickname": "Lakers",
+      "city": "Los Angeles"
+    },
+    "date": "2021-06-02T02:00:00.000Z"
+  },
+  {
+    "code": "20210602/WASPHI",
+    "description": "PHI wins series 4-1",
+    "status": "complete",
+    "home": {
+      "abbreviation": "PHI",
+      "nickname": "76ers",
+      "city": "Philadelphia"
+    },
+    "away": {
+      "abbreviation": "WAS",
+      "nickname": "Wizards",
+      "city": "Washington"
+    },
+    "date": "2021-06-02T23:00:00.000Z"
+  },
+  {
+    "code": "20210602/ATLNYK",
+    "description": "ATL wins series 4-1",
+    "status": "complete",
+    "home": {
+      "abbreviation": "NYK",
+      "nickname": "Knicks",
+      "city": "New York"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta"
+    },
+    "date": "2021-06-02T23:30:00.000Z"
+  },
+  {
+    "code": "20210602/MEMUTA",
+    "description": "UTA wins series 4-1",
+    "status": "complete",
+    "home": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis"
+    },
+    "date": "2021-06-03T01:30:00.000Z"
+  },
+  {
+    "code": "20210602/DALLAC",
+    "description": "DAL leads series 3-2",
+    "status": "complete",
+    "home": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA"
+    },
+    "away": {
+      "abbreviation": "DAL",
+      "nickname": "Mavericks",
+      "city": "Dallas"
+    },
+    "date": "2021-06-03T02:00:00.000Z"
+  },
+  {
+    "code": "20210603/DENPOR",
+    "description": "DEN wins series 4-2",
+    "status": "complete",
+    "home": {
+      "abbreviation": "POR",
+      "nickname": "Trail Blazers",
+      "city": "Portland"
+    },
+    "away": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver"
+    },
+    "date": "2021-06-04T00:00:00.000Z"
+  },
+  {
+    "code": "20210603/PHXLAL",
+    "description": "PHX wins series 4-2",
+    "status": "complete",
+    "home": {
+      "abbreviation": "LAL",
+      "nickname": "Lakers",
+      "city": "Los Angeles"
+    },
+    "away": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix"
+    },
+    "date": "2021-06-04T02:30:00.000Z"
+  },
+  {
+    "code": "20210604/LACDAL",
+    "description": "Series tied 3-3",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DAL",
+      "nickname": "Mavericks",
+      "city": "Dallas"
+    },
+    "away": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA"
+    },
+    "date": "2021-06-05T01:00:00.000Z"
+  },
+  {
+    "code": "20210605/MILBKN",
+    "description": "BKN leads series 1-0",
+    "status": "complete",
+    "home": {
+      "abbreviation": "BKN",
+      "nickname": "Nets",
+      "city": "Brooklyn"
+    },
+    "away": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee"
+    },
+    "date": "2021-06-05T23:30:00.000Z"
+  },
+  {
+    "code": "20210606/ATLPHI",
+    "description": "Series tied 0-0",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHI",
+      "nickname": "76ers",
+      "city": "Philadelphia"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta"
+    },
+    "date": "2021-06-06T17:00:00.000Z"
+  },
+  {
+    "code": "20210606/DALLAC",
+    "description": "Series tied 3-3",
+    "status": "future",
+    "home": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA"
+    },
+    "away": {
+      "abbreviation": "DAL",
+      "nickname": "Mavericks",
+      "city": "Dallas"
+    },
+    "date": "2021-06-06T19:30:00.000Z"
+  },
+  {
+    "code": "20210607/MILBKN",
+    "description": "BKN leads series 1-0",
+    "status": "future",
+    "home": {
+      "abbreviation": "BKN",
+      "nickname": "Nets",
+      "city": "Brooklyn"
+    },
+    "away": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee"
+    },
+    "date": "2021-06-07T23:30:00.000Z"
+  },
+  {
+    "code": "20210607/DENPHX",
+    "description": "Series tied 0-0",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix"
+    },
+    "away": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver"
+    },
+    "date": "2021-06-08T02:00:00.000Z"
+  },
+  {
+    "code": "20210608/ATLPHI",
+    "description": "Series tied 0-0",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHI",
+      "nickname": "76ers",
+      "city": "Philadelphia"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta"
+    },
+    "date": "2021-06-08T23:30:00.000Z"
+  },
+  {
+    "code": "20210609/DENPHX",
+    "description": "Series tied 0-0",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix"
+    },
+    "away": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver"
+    },
+    "date": "2021-06-10T01:30:00.000Z"
+  },
+  {
+    "code": "20210610/BKNMIL",
+    "description": "BKN leads series 1-0",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee"
+    },
+    "away": {
+      "abbreviation": "BKN",
+      "nickname": "Nets",
+      "city": "Brooklyn"
+    },
+    "date": "2021-06-10T23:30:00.000Z"
+  },
+  {
+    "code": "20210611/PHIATL",
+    "description": "Series tied 0-0",
+    "status": "future",
+    "home": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta"
+    },
+    "away": {
+      "abbreviation": "PHI",
+      "nickname": "76ers",
+      "city": "Philadelphia"
+    },
+    "date": "2021-06-11T23:30:00.000Z"
+  },
+  {
+    "code": "20210611/PHXDEN",
+    "description": "Series tied 0-0",
+    "status": "future",
+    "home": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver"
+    },
+    "away": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix"
+    },
+    "date": "2021-06-12T02:00:00.000Z"
+  },
+  {
+    "code": "20210613/BKNMIL",
+    "description": "BKN leads series 1-0",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee"
+    },
+    "away": {
+      "abbreviation": "BKN",
+      "nickname": "Nets",
+      "city": "Brooklyn"
+    },
+    "date": "2021-06-13T19:00:00.000Z"
+  },
+  {
+    "code": "20210613/PHXDEN",
+    "description": "Series tied 0-0",
+    "status": "future",
+    "home": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver"
+    },
+    "away": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix"
+    },
+    "date": "2021-06-14T00:00:00.000Z"
+  },
+  {
+    "code": "20210614/PHIATL",
+    "description": "Series tied 0-0",
+    "status": "tbd",
+    "home": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta"
+    },
+    "away": {
+      "abbreviation": "PHI",
+      "nickname": "76ers",
+      "city": "Philadelphia"
+    },
+    "date": "2021-06-14T23:00:00.000Z"
+  },
+  {
+    "code": "20210615/MILBKN",
+    "description": "BKN leads series 1-0",
+    "status": "tbd",
+    "home": {
+      "abbreviation": "BKN",
+      "nickname": "Nets",
+      "city": "Brooklyn"
+    },
+    "away": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee"
+    },
+    "date": "2021-06-15T23:00:00.000Z"
+  },
+  {
+    "code": "20210615/DENPHX",
+    "description": "Series tied 0-0",
+    "status": "tbd",
+    "home": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix"
+    },
+    "away": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver"
+    },
+    "date": "2021-06-15T23:00:00.000Z"
+  },
+  {
+    "code": "20210616/ATLPHI",
+    "description": "Series tied 0-0",
+    "status": "tbd",
+    "home": {
+      "abbreviation": "PHI",
+      "nickname": "76ers",
+      "city": "Philadelphia"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta"
+    },
+    "date": "2021-06-16T23:00:00.000Z"
+  },
+  {
+    "code": "20210617/BKNMIL",
+    "description": "BKN leads series 1-0",
+    "status": "tbd",
+    "home": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee"
+    },
+    "away": {
+      "abbreviation": "BKN",
+      "nickname": "Nets",
+      "city": "Brooklyn"
+    },
+    "date": "2021-06-17T23:00:00.000Z"
+  },
+  {
+    "code": "20210617/PHXDEN",
+    "description": "Series tied 0-0",
+    "status": "tbd",
+    "home": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver"
+    },
+    "away": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix"
+    },
+    "date": "2021-06-17T23:00:00.000Z"
+  },
+  {
+    "code": "20210618/PHIATL",
+    "description": "Series tied 0-0",
+    "status": "tbd",
+    "home": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta"
+    },
+    "away": {
+      "abbreviation": "PHI",
+      "nickname": "76ers",
+      "city": "Philadelphia"
+    },
+    "date": "2021-06-18T23:00:00.000Z"
+  },
+  {
+    "code": "20210619/MILBKN",
+    "description": "BKN leads series 1-0",
+    "status": "tbd",
+    "home": {
+      "abbreviation": "BKN",
+      "nickname": "Nets",
+      "city": "Brooklyn"
+    },
+    "away": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee"
+    },
+    "date": "2021-06-19T23:00:00.000Z"
+  },
+  {
+    "code": "20210620/ATLPHI",
+    "description": "Series tied 0-0",
+    "status": "tbd",
+    "home": {
+      "abbreviation": "PHI",
+      "nickname": "76ers",
+      "city": "Philadelphia"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta"
+    },
+    "date": "2021-06-20T23:00:00.000Z"
+  },
+  {
+    "code": "20210620/DENPHX",
+    "description": "Series tied 0-0",
+    "status": "tbd",
+    "home": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix"
+    },
+    "away": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver"
+    },
+    "date": "2021-06-20T23:00:00.000Z"
+  }
+]
