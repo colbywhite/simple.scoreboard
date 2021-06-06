@@ -13,7 +13,7 @@ module.exports = function (eleventyConfig) {
       && date.getDate() === today.getDate()
       && date.getFullYear() === today.getFullYear()
     ) {
-      return 'Today';
+      return 'Today' + Intl.DateTimeFormat().resolvedOptions().timeZone;
     } else {
       return new Intl.DateTimeFormat([], {weekday: 'short', day: 'numeric', month: 'short'}).format(date);
     }
