@@ -177,8 +177,8 @@
   },
   {
     "code": "20210606/ATLPHI",
-    "description": "Series tied 0-0",
-    "status": "future",
+    "description": "ATL leads series 1-0",
+    "status": "complete",
     "home": {
       "abbreviation": "PHI",
       "nickname": "76ers",
@@ -193,8 +193,8 @@
   },
   {
     "code": "20210606/DALLAC",
-    "description": "Series tied 3-3",
-    "status": "future",
+    "description": "LAC wins series 4-3",
+    "status": "complete",
     "home": {
       "abbreviation": "LAC",
       "nickname": "Clippers",
@@ -241,7 +241,7 @@
   },
   {
     "code": "20210608/ATLPHI",
-    "description": "Series tied 0-0",
+    "description": "ATL leads series 1-0",
     "status": "future",
     "home": {
       "abbreviation": "PHI",
@@ -254,6 +254,22 @@
       "city": "Atlanta"
     },
     "date": "2021-06-08T23:30:00.000Z"
+  },
+  {
+    "code": "20210608/LACUTA",
+    "description": "Series tied 0-0",
+    "status": "future",
+    "home": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah"
+    },
+    "away": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA"
+    },
+    "date": "2021-06-09T02:00:00.000Z"
   },
   {
     "code": "20210609/DENPHX",
@@ -288,8 +304,24 @@
     "date": "2021-06-10T23:30:00.000Z"
   },
   {
-    "code": "20210611/PHIATL",
+    "code": "20210610/LACUTA",
     "description": "Series tied 0-0",
+    "status": "future",
+    "home": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah"
+    },
+    "away": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA"
+    },
+    "date": "2021-06-11T02:00:00.000Z"
+  },
+  {
+    "code": "20210611/PHIATL",
+    "description": "ATL leads series 1-0",
     "status": "future",
     "home": {
       "abbreviation": "ATL",
@@ -318,6 +350,22 @@
       "city": "Phoenix"
     },
     "date": "2021-06-12T02:00:00.000Z"
+  },
+  {
+    "code": "20210612/UTALAC",
+    "description": "Series tied 0-0",
+    "status": "future",
+    "home": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA"
+    },
+    "away": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah"
+    },
+    "date": "2021-06-13T00:30:00.000Z"
   },
   {
     "code": "20210613/BKNMIL",
@@ -353,8 +401,8 @@
   },
   {
     "code": "20210614/PHIATL",
-    "description": "Series tied 0-0",
-    "status": "tbd",
+    "description": "ATL leads series 1-0",
+    "status": "future",
     "home": {
       "abbreviation": "ATL",
       "nickname": "Hawks",
@@ -365,7 +413,23 @@
       "nickname": "76ers",
       "city": "Philadelphia"
     },
-    "date": "2021-06-14T23:00:00.000Z"
+    "date": "2021-06-14T23:30:00.000Z"
+  },
+  {
+    "code": "20210614/UTALAC",
+    "description": "Series tied 0-0",
+    "status": "future",
+    "home": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA"
+    },
+    "away": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah"
+    },
+    "date": "2021-06-15T02:00:00.000Z"
   },
   {
     "code": "20210615/MILBKN",
@@ -401,7 +465,7 @@
   },
   {
     "code": "20210616/ATLPHI",
-    "description": "Series tied 0-0",
+    "description": "ATL leads series 1-0",
     "status": "tbd",
     "home": {
       "abbreviation": "PHI",
@@ -412,6 +476,22 @@
       "abbreviation": "ATL",
       "nickname": "Hawks",
       "city": "Atlanta"
+    },
+    "date": "2021-06-16T23:00:00.000Z"
+  },
+  {
+    "code": "20210616/LACUTA",
+    "description": "Series tied 0-0",
+    "status": "tbd",
+    "home": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah"
+    },
+    "away": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA"
     },
     "date": "2021-06-16T23:00:00.000Z"
   },
@@ -449,7 +529,7 @@
   },
   {
     "code": "20210618/PHIATL",
-    "description": "Series tied 0-0",
+    "description": "ATL leads series 1-0",
     "status": "tbd",
     "home": {
       "abbreviation": "ATL",
@@ -460,6 +540,22 @@
       "abbreviation": "PHI",
       "nickname": "76ers",
       "city": "Philadelphia"
+    },
+    "date": "2021-06-18T23:00:00.000Z"
+  },
+  {
+    "code": "20210618/UTALAC",
+    "description": "Series tied 0-0",
+    "status": "tbd",
+    "home": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA"
+    },
+    "away": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah"
     },
     "date": "2021-06-18T23:00:00.000Z"
   },
@@ -481,7 +577,7 @@
   },
   {
     "code": "20210620/ATLPHI",
-    "description": "Series tied 0-0",
+    "description": "ATL leads series 1-0",
     "status": "tbd",
     "home": {
       "abbreviation": "PHI",
@@ -492,6 +588,22 @@
       "abbreviation": "ATL",
       "nickname": "Hawks",
       "city": "Atlanta"
+    },
+    "date": "2021-06-20T23:00:00.000Z"
+  },
+  {
+    "code": "20210620/LACUTA",
+    "description": "Series tied 0-0",
+    "status": "tbd",
+    "home": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah"
+    },
+    "away": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA"
     },
     "date": "2021-06-20T23:00:00.000Z"
   },
