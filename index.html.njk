@@ -8,11 +8,11 @@ permalink: index.html
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Simple Sports Skeds</title>
     <link rel="stylesheet" type="text/css" href="index.css" media="screen"/>
+    <script src="js/timeFormatter.js"></script>
 </head>
-<body>
+<body onload="updateDateTimesWithTimezoneContent()">
 <main>
     <h1>NBA Schedule</h1>
-
 
     <section>
     {% for game in games %}
@@ -24,11 +24,17 @@ permalink: index.html
                 {% if game.status === 'tbd' %}
                 <div>TBD</div>
                 {% elif game.status === 'complete' %}
-                <div>{{game.date | humanDate}}</div>
+                <time class="date" datetime="{{game.date | toDate | iso}}">
+                    {{game.date | toDate | utcDate}}
+                </time>
                 <div>FINAL</div>
                 {% else %}
-                <div>{{game.date | humanDate}}</div>
-                <div>{{game.date | humanTime}}</div>
+                <time class="date" datetime="{{game.date | toDate | iso}}">
+                    {{game.date | toDate | utcDate}}
+                </time>
+                <time class="time" datetime="{{game.date | toDate | iso}}">
+                    {{game.date | toDate | utcTime}}
+                </time>
                 {% endif %}
             </div>
         </button>
