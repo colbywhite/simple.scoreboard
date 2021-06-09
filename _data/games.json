@@ -209,8 +209,8 @@
   },
   {
     "code": "20210607/MILBKN",
-    "description": "BKN leads series 1-0",
-    "status": "future",
+    "description": "BKN leads series 2-0",
+    "status": "complete",
     "home": {
       "abbreviation": "BKN",
       "nickname": "Nets",
@@ -225,8 +225,8 @@
   },
   {
     "code": "20210607/DENPHX",
-    "description": "Series tied 0-0",
-    "status": "future",
+    "description": "PHX leads series 1-0",
+    "status": "complete",
     "home": {
       "abbreviation": "PHX",
       "nickname": "Suns",
@@ -273,7 +273,7 @@
   },
   {
     "code": "20210609/DENPHX",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "status": "future",
     "home": {
       "abbreviation": "PHX",
@@ -289,7 +289,7 @@
   },
   {
     "code": "20210610/BKNMIL",
-    "description": "BKN leads series 1-0",
+    "description": "BKN leads series 2-0",
     "status": "future",
     "home": {
       "abbreviation": "MIL",
@@ -337,7 +337,7 @@
   },
   {
     "code": "20210611/PHXDEN",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "status": "future",
     "home": {
       "abbreviation": "DEN",
@@ -369,7 +369,7 @@
   },
   {
     "code": "20210613/BKNMIL",
-    "description": "BKN leads series 1-0",
+    "description": "BKN leads series 2-0",
     "status": "future",
     "home": {
       "abbreviation": "MIL",
@@ -385,7 +385,7 @@
   },
   {
     "code": "20210613/PHXDEN",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "status": "future",
     "home": {
       "abbreviation": "DEN",
@@ -433,7 +433,7 @@
   },
   {
     "code": "20210615/MILBKN",
-    "description": "BKN leads series 1-0",
+    "description": "BKN leads series 2-0",
     "status": "tbd",
     "home": {
       "abbreviation": "BKN",
@@ -449,7 +449,7 @@
   },
   {
     "code": "20210615/DENPHX",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "status": "tbd",
     "home": {
       "abbreviation": "PHX",
@@ -497,7 +497,7 @@
   },
   {
     "code": "20210617/BKNMIL",
-    "description": "BKN leads series 1-0",
+    "description": "BKN leads series 2-0",
     "status": "tbd",
     "home": {
       "abbreviation": "MIL",
@@ -513,7 +513,7 @@
   },
   {
     "code": "20210617/PHXDEN",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "status": "tbd",
     "home": {
       "abbreviation": "DEN",
@@ -561,7 +561,7 @@
   },
   {
     "code": "20210619/MILBKN",
-    "description": "BKN leads series 1-0",
+    "description": "BKN leads series 2-0",
     "status": "tbd",
     "home": {
       "abbreviation": "BKN",
@@ -609,7 +609,7 @@
   },
   {
     "code": "20210620/DENPHX",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "status": "tbd",
     "home": {
       "abbreviation": "PHX",
