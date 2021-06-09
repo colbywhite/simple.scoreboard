@@ -1,5 +1,6 @@
 name: hydration
 on:
+  workflow_dispatch:
   schedule:
     # 4am EDT / 8am UTC daily
     - cron: '0 8 * * *'
