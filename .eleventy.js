@@ -4,7 +4,7 @@ const fs = require('fs');
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('logos');
   eleventyConfig.addPassthroughCopy('js');
-  eleventyConfig.addCollection('logos', _api => {
+  eleventyConfig.addCollection('logos', () => {
     const regex = /(.*)\.png/;
     return fs.readdirSync('logos').map(logo => ({path: `logos/${logo}`, name: logo.match(regex)[1]}));
   });
@@ -21,8 +21,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('nextWeek', games => {
     const startOfDay = DateTime.now().setZone('America/New_York').startOf('day');
     const endOfWeek = startOfDay.plus({week: 1}).endOf('day');
-    return games
-      .filter(game => {
+    return games.filter(game => {
         const dateTime = DateTime.fromISO(game.date);
         return startOfDay <= dateTime && dateTime <= endOfWeek;
       });
