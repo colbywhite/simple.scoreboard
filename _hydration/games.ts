@@ -75,23 +75,26 @@ function getNBASchedule(): Promise<RawNBASchedule> {
 
 function parseRawGames(games: RawNBASchedule): Game[] {
   // TODO only parse out the last 15 and the next 15
-  const june = games.lscd[6].mscd.g;
-  return june.map(game => ({
-    code: game.gcode,
-    description: game.seri,
-    status: parseStatus(game),
-    home: {
-      abbreviation: game.h.ta,
-      nickname: game.h.tn,
-      city: game.h.tc
-    },
-    away: {
-      abbreviation: game.v.ta,
-      nickname: game.v.tn,
-      city: game.v.tc
-    },
-    date: (game.stt === 'TBD') ? new Date(`${game.gdte}T19:00:00-0400`) : new Date(`${game.etm}-0400`)
-  }));
+  return games.lscd.reduce((games: Game[], currentMonth) => {
+    const parsedMonth = currentMonth.mscd.g
+      .map(game => ({
+        code: game.gcode,
+        description: game.seri,
+        status: parseStatus(game),
+        home: {
+          abbreviation: game.h.ta,
+          nickname: game.h.tn,
+          city: game.h.tc
+        },
+        away: {
+          abbreviation: game.v.ta,
+          nickname: game.v.tn,
+          city: game.v.tc
+        },
+        date: (game.stt === 'TBD') ? new Date(`${game.gdte}T19:00:00-0400`) : new Date(`${game.etm}-0400`)
+      }));
+    return games.concat(parsedMonth);
+  }, [] as Game[]);
 }
 
 function parseStatus(game: RawNBAGame): GameStatus {
