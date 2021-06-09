@@ -18,8 +18,13 @@ module.exports = function (eleventyConfig) {
     const formatOptions = {timeZone: 'UTC', hour: 'numeric', minute: 'numeric', timeZoneName: 'short'};
     return date.toLocaleString(undefined, formatOptions);
   });
-  eleventyConfig.addFilter('next15', games => {
+  eleventyConfig.addFilter('nextWeek', games => {
     const startOfDay = DateTime.now().setZone('America/New_York').startOf('day');
-    return games.filter(game => startOfDay <= DateTime.fromISO(game.date));
+    const endOfWeek = startOfDay.plus({week: 1}).endOf('day');
+    return games
+      .filter(game => {
+        const dateTime = DateTime.fromISO(game.date);
+        return startOfDay <= dateTime && dateTime <= endOfWeek;
+      });
   });
 };

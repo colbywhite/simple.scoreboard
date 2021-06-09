@@ -12,10 +12,9 @@ permalink: index.html
 </head>
 <body onload="updateDateTimesWithTimezoneContent()">
 <main>
-    <h1>NBA Schedule</h1>
-
+    <h1>Upcoming week of NBA games</h1>
     <section>
-    {% for game in games | next15 %}
+    {% for game in games | nextWeek %}
         <button class="game">
             <div class="description">{{game.description}}</div>
             <div class="team nba-{{game.away.abbreviation | lower}}">{{game.away.nickname}}</div>
