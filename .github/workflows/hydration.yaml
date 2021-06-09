@@ -1,0 +1,24 @@
+name: hydration
+on:
+  schedule:
+    # 4am EDT / 8am UTC daily
+    - cron: '0 8 * * *'
+jobs:
+  hydration:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      - name: Check out repository code
+        uses: actions/checkout@v2.3.4
+      - name: Setup Node
+        uses: actions/setup-node@v2.1.5
+        with:
+          node-version: '14.x'
+      - name: npm i
+        uses: Jaid/action-npm-install@v1.2.4
+      - run: npm run hydration
+      - uses: github-actions-x/commit@v2.8
+        with:
+          push-branch: master
+          commit-message: 'data: daily hydration'
+          files: _data
