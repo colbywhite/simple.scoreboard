@@ -15,7 +15,7 @@ permalink: index.html
     <h1>Upcoming week of NBA games</h1>
     <section>
     {% for game in games | nextWeek %}
-        <button class="game">
+        <div class="game">
             <div class="description">{{game.description}}</div>
             <div class="team nba-{{game.away.abbreviation | lower}}">{{game.away.nickname}}</div>
             <div class="team nba-{{game.home.abbreviation | lower}}">{{game.home.nickname}}</div>
@@ -33,7 +33,7 @@ permalink: index.html
                 </time>
                 {% endif %}
             </div>
-        </button>
+        </div>
     {% endfor %}
     </section>
 </main>
