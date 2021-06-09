@@ -15,7 +15,7 @@ permalink: index.html
     <h1>NBA Schedule</h1>
 
     <section>
-    {% for game in games %}
+    {% for game in games | next15 %}
         <button class="game">
             <div class="description">{{game.description}}</div>
             <div class="team nba-{{game.away.abbreviation | lower}}">{{game.away.nickname}}</div>

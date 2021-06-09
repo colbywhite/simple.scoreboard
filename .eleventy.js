@@ -1,4 +1,6 @@
+const {DateTime} = require('luxon');
 const fs = require('fs');
+
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('logos');
   eleventyConfig.addPassthroughCopy('js');
@@ -15,5 +17,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('utcTime', date => {
     const formatOptions = {timeZone: 'UTC', hour: 'numeric', minute: 'numeric', timeZoneName: 'short'};
     return date.toLocaleString(undefined, formatOptions);
+  });
+  eleventyConfig.addFilter('next15', games => {
+    const startOfDay = DateTime.now().setZone('America/New_York').startOf('day');
+    return games.filter(game => startOfDay <= DateTime.fromISO(game.date));
   });
 };
