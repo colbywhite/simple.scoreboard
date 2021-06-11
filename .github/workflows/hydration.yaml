@@ -18,8 +18,8 @@ jobs:
       - name: npm i
         uses: Jaid/action-npm-install@v1.2.4
       - run: npm run hydration
-      - uses: github-actions-x/commit@v2.8
+      - name: push
+        uses: actions-x/commit@v2
         with:
-          push-branch: master
-          commit-message: 'data: daily hydration'
+          message: 'data: daily hydration'
           files: _data
