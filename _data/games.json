@@ -19009,8 +19009,8 @@
   },
   {
     "code": "20210611/PHIATL",
-    "description": "Series tied 1-1",
-    "status": "future",
+    "description": "PHI leads series 2-1",
+    "status": "complete",
     "home": {
       "abbreviation": "ATL",
       "nickname": "Hawks",
@@ -19025,8 +19025,8 @@
   },
   {
     "code": "20210611/PHXDEN",
-    "description": "PHX leads series 2-0",
-    "status": "future",
+    "description": "PHX leads series 3-0",
+    "status": "complete",
     "home": {
       "abbreviation": "DEN",
       "nickname": "Nuggets",
@@ -19073,7 +19073,7 @@
   },
   {
     "code": "20210613/PHXDEN",
-    "description": "PHX leads series 2-0",
+    "description": "PHX leads series 3-0",
     "status": "future",
     "home": {
       "abbreviation": "DEN",
@@ -19089,7 +19089,7 @@
   },
   {
     "code": "20210614/PHIATL",
-    "description": "Series tied 1-1",
+    "description": "PHI leads series 2-1",
     "status": "future",
     "home": {
       "abbreviation": "ATL",
@@ -19137,7 +19137,7 @@
   },
   {
     "code": "20210615/DENPHX",
-    "description": "PHX leads series 2-0",
+    "description": "PHX leads series 3-0",
     "status": "tbd",
     "home": {
       "abbreviation": "PHX",
@@ -19153,7 +19153,7 @@
   },
   {
     "code": "20210616/ATLPHI",
-    "description": "Series tied 1-1",
+    "description": "PHI leads series 2-1",
     "status": "tbd",
     "home": {
       "abbreviation": "PHI",
@@ -19201,7 +19201,7 @@
   },
   {
     "code": "20210617/PHXDEN",
-    "description": "PHX leads series 2-0",
+    "description": "PHX leads series 3-0",
     "status": "tbd",
     "home": {
       "abbreviation": "DEN",
@@ -19217,7 +19217,7 @@
   },
   {
     "code": "20210618/PHIATL",
-    "description": "Series tied 1-1",
+    "description": "PHI leads series 2-1",
     "status": "tbd",
     "home": {
       "abbreviation": "ATL",
@@ -19265,7 +19265,7 @@
   },
   {
     "code": "20210620/ATLPHI",
-    "description": "Series tied 1-1",
+    "description": "PHI leads series 2-1",
     "status": "tbd",
     "home": {
       "abbreviation": "PHI",
@@ -19297,7 +19297,7 @@
   },
   {
     "code": "20210620/DENPHX",
-    "description": "PHX leads series 2-0",
+    "description": "PHX leads series 3-0",
     "status": "tbd",
     "home": {
       "abbreviation": "PHX",
