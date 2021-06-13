@@ -19041,8 +19041,8 @@
   },
   {
     "code": "20210612/UTALAC",
-    "description": "UTA leads series 2-0",
-    "status": "future",
+    "description": "UTA leads series 2-1",
+    "status": "complete",
     "home": {
       "abbreviation": "LAC",
       "nickname": "Clippers",
@@ -19105,7 +19105,7 @@
   },
   {
     "code": "20210614/UTALAC",
-    "description": "UTA leads series 2-0",
+    "description": "UTA leads series 2-1",
     "status": "future",
     "home": {
       "abbreviation": "LAC",
@@ -19154,7 +19154,7 @@
   {
     "code": "20210616/ATLPHI",
     "description": "PHI leads series 2-1",
-    "status": "tbd",
+    "status": "future",
     "home": {
       "abbreviation": "PHI",
       "nickname": "76ers",
@@ -19165,12 +19165,12 @@
       "nickname": "Hawks",
       "city": "Atlanta"
     },
-    "date": "2021-06-16T23:00:00.000Z"
+    "date": "2021-06-16T23:30:00.000Z"
   },
   {
     "code": "20210616/LACUTA",
-    "description": "UTA leads series 2-0",
-    "status": "tbd",
+    "description": "UTA leads series 2-1",
+    "status": "future",
     "home": {
       "abbreviation": "UTA",
       "nickname": "Jazz",
@@ -19181,7 +19181,7 @@
       "nickname": "Clippers",
       "city": "LA"
     },
-    "date": "2021-06-16T23:00:00.000Z"
+    "date": "2021-06-17T02:00:00.000Z"
   },
   {
     "code": "20210617/BKNMIL",
@@ -19233,7 +19233,7 @@
   },
   {
     "code": "20210618/UTALAC",
-    "description": "UTA leads series 2-0",
+    "description": "UTA leads series 2-1",
     "status": "tbd",
     "home": {
       "abbreviation": "LAC",
@@ -19281,7 +19281,7 @@
   },
   {
     "code": "20210620/LACUTA",
-    "description": "UTA leads series 2-0",
+    "description": "UTA leads series 2-1",
     "status": "tbd",
     "home": {
       "abbreviation": "UTA",
