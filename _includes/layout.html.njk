@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{title}}</title>
+    {% for logo in collections.nbaLogos -%}
+    <link rel="preload" as="image" href="/{{ logo.path }}">
+    {% endfor %}
+    <link rel="stylesheet" type="text/css" href="index.css" media="screen"/>
+    <script src="js/timeFormatter.js"></script>
+    <script>
+      window.addEventListener('DOMContentLoaded', updateDateTimesWithTimezoneContent);
+    </script>
+</head>
+<body>
+
+<main>
+    {{ content | safe }}
+</main>
+</body>
+</html>

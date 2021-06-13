@@ -1,47 +1,28 @@
 ---
+layout: layout.html.njk
 permalink: index.html
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Sports Skeds</title>
-    {% for logo in collections.nbaLogos -%}
-        <link rel="preload" as="image" href="/{{ logo.path }}">
-    {% endfor %}
-    <link rel="stylesheet" type="text/css" href="index.css" media="screen"/>
-    <script src="js/timeFormatter.js"></script>
-    <script>
-      window.addEventListener('DOMContentLoaded', updateDateTimesWithTimezoneContent);
-    </script>
-</head>
-<body>
-<main>
-    <h1>Upcoming week of NBA games</h1>
-    <section>
-        {% for game in nba.games | nextWeek %}
-            <div class="game">
-                <div class="description">{{ game.description }}</div>
-                <div class="team nba-{{ game.away.abbreviation | lower }}">{{ game.away.nickname }}</div>
-                <div class="team nba-{{ game.home.abbreviation | lower }}">{{ game.home.nickname }}</div>
-                <div class="gametime">
-                    <time class="date" datetime="{{ game.date | toDate | iso }}">
-                        {{ game.date | toDate | utcDate }}
+<h1>Upcoming week of NBA games</h1>
+<section>
+    {% for game in nba.games | nextWeek %}
+        <div class="game">
+            <div class="description">{{ game.description }}</div>
+            <div class="team nba-{{ game.away.abbreviation | lower }}">{{ game.away.nickname }}</div>
+            <div class="team nba-{{ game.home.abbreviation | lower }}">{{ game.home.nickname }}</div>
+            <div class="gametime">
+                <time class="date" datetime="{{ game.date | toDate | iso }}">
+                    {{ game.date | toDate | utcDate }}
+                </time>
+                {% if game.status === 'tbd' %}
+                    <div>TBD</div>
+                    {% elif game.status === 'complete' %}
+                    <div>FINAL</div>
+                {% else %}
+                    <time class="time" datetime="{{ game.date | toDate | iso }}">
+                        {{ game.date | toDate | utcTime }}
                     </time>
-                    {% if game.status === 'tbd' %}
-                        <div>TBD</div>
-                        {% elif game.status === 'complete' %}
-                        <div>FINAL</div>
-                    {% else %}
-                        <time class="time" datetime="{{ game.date | toDate | iso }}">
-                            {{ game.date | toDate | utcTime }}
-                        </time>
-                    {% endif %}
-                </div>
+                {% endif %}
             </div>
-        {% endfor %}
-    </section>
-</main>
-</body>
-</html>
+        </div>
+    {% endfor %}
+</section>
