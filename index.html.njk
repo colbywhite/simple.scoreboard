@@ -12,8 +12,11 @@ permalink: index.html
     {% endfor %}
     <link rel="stylesheet" type="text/css" href="index.css" media="screen"/>
     <script src="js/timeFormatter.js"></script>
+    <script>
+        window.addEventListener('DOMContentLoaded', updateDateTimesWithTimezoneContent());
+    </script>
 </head>
-<body onload="updateDateTimesWithTimezoneContent()">
+<body>
 <main>
     <h1>Upcoming week of NBA games</h1>
     <section>
