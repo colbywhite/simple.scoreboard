@@ -1,0 +1,594 @@
+[
+  {
+    "code": "chivsmtl-05-29-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "CHI",
+      "nickname": "Chicago Fire FC",
+      "city": "Chicago"
+    },
+    "away": {
+      "abbreviation": "MTL",
+      "nickname": "CF Montréal",
+      "city": "Montréal"
+    },
+    "date": "2021-05-29T17:00:00.000Z"
+  },
+  {
+    "code": "rbnyvsorl-05-29-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "RBNY",
+      "nickname": "New York Red Bulls",
+      "city": "New York"
+    },
+    "away": {
+      "abbreviation": "ORL",
+      "nickname": "Orlando City",
+      "city": "Orlando"
+    },
+    "date": "2021-05-29T17:00:00.000Z"
+  },
+  {
+    "code": "cinvsne-05-29-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "CIN",
+      "nickname": "FC Cincinnati",
+      "city": "Cincinnati"
+    },
+    "away": {
+      "abbreviation": "NE",
+      "nickname": "New England Revolution",
+      "city": "New England"
+    },
+    "date": "2021-05-29T19:00:00.000Z"
+  },
+  {
+    "code": "clbvstor-05-29-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus Crew",
+      "city": "Columbus"
+    },
+    "away": {
+      "abbreviation": "TOR",
+      "nickname": "Toronto FC",
+      "city": "Toronto"
+    },
+    "date": "2021-05-29T19:00:00.000Z"
+  },
+  {
+    "code": "atlvsnsh-05-29-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "ATL",
+      "nickname": "Atlanta United",
+      "city": "Atlanta"
+    },
+    "away": {
+      "abbreviation": "NSH",
+      "nickname": "Nashville SC",
+      "city": "Nashville"
+    },
+    "date": "2021-05-29T19:30:00.000Z"
+  },
+  {
+    "code": "lafcvsnyc-05-29-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "LAFC",
+      "nickname": "Los Angeles Football Club",
+      "city": "LAFC"
+    },
+    "away": {
+      "abbreviation": "NYC",
+      "nickname": "New York City FC",
+      "city": "New York City"
+    },
+    "date": "2021-05-29T21:00:00.000Z"
+  },
+  {
+    "code": "lavssj-05-29-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "LA",
+      "nickname": "LA Galaxy",
+      "city": "LA"
+    },
+    "away": {
+      "abbreviation": "SJ",
+      "nickname": "San Jose Earthquakes",
+      "city": "San Jose"
+    },
+    "date": "2021-05-29T23:00:00.000Z"
+  },
+  {
+    "code": "miavsdc-05-29-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIA",
+      "nickname": "Inter Miami CF",
+      "city": "Miami"
+    },
+    "away": {
+      "abbreviation": "DC",
+      "nickname": "D.C. United",
+      "city": "D.C."
+    },
+    "date": "2021-05-30T00:00:00.000Z"
+  },
+  {
+    "code": "skcvshou-05-29-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "SKC",
+      "nickname": "Sporting Kansas City",
+      "city": "Kansas City"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Houston Dynamo FC",
+      "city": "Houston"
+    },
+    "date": "2021-05-30T00:30:00.000Z"
+  },
+  {
+    "code": "colvsdal-05-29-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "COL",
+      "nickname": "Colorado Rapids",
+      "city": "Colorado"
+    },
+    "away": {
+      "abbreviation": "DAL",
+      "nickname": "FC Dallas",
+      "city": "Dallas"
+    },
+    "date": "2021-05-30T01:00:00.000Z"
+  },
+  {
+    "code": "mexvsisl-05-29-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "MEX",
+      "nickname": "Mexico",
+      "city": "Mexico"
+    },
+    "away": {
+      "abbreviation": "ICE",
+      "nickname": "Iceland",
+      "city": "Iceland"
+    },
+    "date": "2021-05-30T01:00:00.000Z"
+  },
+  {
+    "code": "rslvsmin-05-29-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "RSL",
+      "nickname": "Real Salt Lake",
+      "city": "Salt Lake"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Minnesota United",
+      "city": "Minnesota"
+    },
+    "date": "2021-05-30T01:30:00.000Z"
+  },
+  {
+    "code": "suivsusa-05-30-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "SUI",
+      "nickname": "Switzerland",
+      "city": "Switzerland"
+    },
+    "away": {
+      "abbreviation": "USA",
+      "nickname": "U.S. Men's National Team",
+      "city": "United States"
+    },
+    "date": "2021-05-30T18:00:00.000Z"
+  },
+  {
+    "code": "phivspor-05-30-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHI",
+      "nickname": "Philadelphia Union",
+      "city": "Philadelphia"
+    },
+    "away": {
+      "abbreviation": "POR",
+      "nickname": "Portland Timbers",
+      "city": "Portland"
+    },
+    "date": "2021-05-30T23:00:00.000Z"
+  },
+  {
+    "code": "seavsatx-05-30-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle Sounders FC",
+      "city": "Seattle"
+    },
+    "away": {
+      "abbreviation": "ATX",
+      "nickname": "Austin FC",
+      "city": "Austin"
+    },
+    "date": "2021-05-31T01:30:00.000Z"
+  },
+  {
+    "code": "honvsusa-06-03-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "HON",
+      "nickname": "Honduras",
+      "city": "Honduras"
+    },
+    "away": {
+      "abbreviation": "USA",
+      "nickname": "U.S. Men's National Team",
+      "city": "United States"
+    },
+    "date": "2021-06-03T23:30:00.000Z"
+  },
+  {
+    "code": "mexvscri-06-03-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "MEX",
+      "nickname": "Mexico",
+      "city": "Mexico"
+    },
+    "away": {
+      "abbreviation": "CRC",
+      "nickname": "Costa Rica",
+      "city": "Costa Rica"
+    },
+    "date": "2021-06-04T02:00:00.000Z"
+  },
+  {
+    "code": "aruvscan-06-05-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "ARU",
+      "nickname": "Aruba",
+      "city": "Aruba"
+    },
+    "away": {
+      "abbreviation": "CAN",
+      "nickname": "Canada",
+      "city": "Canada"
+    },
+    "date": "2021-06-06T00:00:00.000Z"
+  },
+  {
+    "code": "usavsmex-06-06-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "USA",
+      "nickname": "U.S. Men's National Team",
+      "city": "United States"
+    },
+    "away": {
+      "abbreviation": "MEX",
+      "nickname": "Mexico",
+      "city": "Mexico"
+    },
+    "date": "2021-06-07T01:36:00.000Z"
+  },
+  {
+    "code": "canvssur-06-08-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "CAN",
+      "nickname": "Canada",
+      "city": "Canada"
+    },
+    "away": {
+      "abbreviation": "SUR",
+      "nickname": "Suriname",
+      "city": "Suriname"
+    },
+    "date": "2021-06-09T01:05:00.000Z"
+  },
+  {
+    "code": "usavscri-06-09-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "USA",
+      "nickname": "U.S. Men's National Team",
+      "city": "United States"
+    },
+    "away": {
+      "abbreviation": "CRC",
+      "nickname": "Costa Rica",
+      "city": "Costa Rica"
+    },
+    "date": "2021-06-09T23:00:00.000Z"
+  },
+  {
+    "code": "skcvsatx-06-12-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "SKC",
+      "nickname": "Sporting Kansas City",
+      "city": "Kansas City"
+    },
+    "away": {
+      "abbreviation": "ATX",
+      "nickname": "Austin FC",
+      "city": "Austin"
+    },
+    "date": "2021-06-12T19:00:00.000Z"
+  },
+  {
+    "code": "haivscan-06-12-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "HAI",
+      "nickname": "Haiti",
+      "city": "Haiti"
+    },
+    "away": {
+      "abbreviation": "CAN",
+      "nickname": "Canada",
+      "city": "Canada"
+    },
+    "date": "2021-06-12T21:00:00.000Z"
+  },
+  {
+    "code": "canvshai-06-15-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "CAN",
+      "nickname": "Canada",
+      "city": "Canada"
+    },
+    "away": {
+      "abbreviation": "HAI",
+      "nickname": "Haiti",
+      "city": "Haiti"
+    },
+    "date": "2021-06-16T01:05:00.000Z"
+  },
+  {
+    "code": "rbnyvsnsh-06-18-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "RBNY",
+      "nickname": "New York Red Bulls",
+      "city": "New York"
+    },
+    "away": {
+      "abbreviation": "NSH",
+      "nickname": "Nashville SC",
+      "city": "Nashville"
+    },
+    "date": "2021-06-19T00:00:00.000Z"
+  },
+  {
+    "code": "rslvsvan-06-18-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "RSL",
+      "nickname": "Real Salt Lake",
+      "city": "Salt Lake"
+    },
+    "away": {
+      "abbreviation": "VAN",
+      "nickname": "Vancouver Whitecaps FC",
+      "city": "Vancouver"
+    },
+    "date": "2021-06-19T02:00:00.000Z"
+  },
+  {
+    "code": "cinvscol-06-19-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "CIN",
+      "nickname": "FC Cincinnati",
+      "city": "Cincinnati"
+    },
+    "away": {
+      "abbreviation": "COL",
+      "nickname": "Colorado Rapids",
+      "city": "Colorado"
+    },
+    "date": "2021-06-19T23:30:00.000Z"
+  },
+  {
+    "code": "clbvschi-06-19-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus Crew",
+      "city": "Columbus"
+    },
+    "away": {
+      "abbreviation": "CHI",
+      "nickname": "Chicago Fire FC",
+      "city": "Chicago"
+    },
+    "date": "2021-06-19T23:30:00.000Z"
+  },
+  {
+    "code": "nycvsne-06-19-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "NYC",
+      "nickname": "New York City FC",
+      "city": "New York City"
+    },
+    "away": {
+      "abbreviation": "NE",
+      "nickname": "New England Revolution",
+      "city": "New England"
+    },
+    "date": "2021-06-19T23:30:00.000Z"
+  },
+  {
+    "code": "torvsorl-06-19-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "TOR",
+      "nickname": "Toronto FC",
+      "city": "Toronto"
+    },
+    "away": {
+      "abbreviation": "ORL",
+      "nickname": "Orlando City",
+      "city": "Orlando"
+    },
+    "date": "2021-06-19T23:30:00.000Z"
+  },
+  {
+    "code": "dcvsmia-06-19-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "DC",
+      "nickname": "D.C. United",
+      "city": "D.C."
+    },
+    "away": {
+      "abbreviation": "MIA",
+      "nickname": "Inter Miami CF",
+      "city": "Miami"
+    },
+    "date": "2021-06-20T00:00:00.000Z"
+  },
+  {
+    "code": "dalvsmin-06-19-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "DAL",
+      "nickname": "FC Dallas",
+      "city": "Dallas"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Minnesota United",
+      "city": "Minnesota"
+    },
+    "date": "2021-06-20T00:30:00.000Z"
+  },
+  {
+    "code": "atxvssj-06-19-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "ATX",
+      "nickname": "Austin FC",
+      "city": "Austin"
+    },
+    "away": {
+      "abbreviation": "SJ",
+      "nickname": "San Jose Earthquakes",
+      "city": "San Jose"
+    },
+    "date": "2021-06-20T01:00:00.000Z"
+  },
+  {
+    "code": "lavssea-06-19-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "LA",
+      "nickname": "LA Galaxy",
+      "city": "LA"
+    },
+    "away": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle Sounders FC",
+      "city": "Seattle"
+    },
+    "date": "2021-06-20T01:00:00.000Z"
+  },
+  {
+    "code": "porvsskc-06-19-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "POR",
+      "nickname": "Portland Timbers",
+      "city": "Portland"
+    },
+    "away": {
+      "abbreviation": "SKC",
+      "nickname": "Sporting Kansas City",
+      "city": "Kansas City"
+    },
+    "date": "2021-06-20T02:30:00.000Z"
+  },
+  {
+    "code": "lafcvshou-06-19-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "LAFC",
+      "nickname": "Los Angeles Football Club",
+      "city": "LAFC"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Houston Dynamo FC",
+      "city": "Houston"
+    },
+    "date": "2021-06-20T03:00:00.000Z"
+  },
+  {
+    "code": "atlvsphi-06-20-2021",
+    "description": "",
+    "status": "future",
+    "home": {
+      "abbreviation": "ATL",
+      "nickname": "Atlanta United",
+      "city": "Atlanta"
+    },
+    "away": {
+      "abbreviation": "PHI",
+      "nickname": "Philadelphia Union",
+      "city": "Philadelphia"
+    },
+    "date": "2021-06-20T18:00:00.000Z"
+  }
+]

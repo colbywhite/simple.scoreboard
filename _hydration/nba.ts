@@ -1,0 +1,98 @@
+/**
+ * This is a script to update the schedule data via the NBA's schedule JSON at
+ * https://data.nba.com/data/10s/v2015/json/mobile_teams/nba/2020/league/00_full_schedule.json
+ *
+ * TODO: do this as part of the 11ty build; have to figure out how to add Typescript support
+ */
+import * as http from 'https';
+import { RequestOptions } from 'https';
+import { Game, GameStatus } from './model';
+import { writeGamesJson } from './utils';
+
+interface RawNBAGame {
+  gcode: string;
+  seri: string;
+  stt: string;
+  v: {
+    ta: string;
+    tn: string;
+    tc: string;
+  }
+  h: {
+    ta: string;
+    tn: string;
+    tc: string;
+  }
+  gdutc: string;
+  gdte: string;
+  utctm: string;
+  etm: string;
+}
+
+interface RawNBASchedule {
+  lscd: Array<{
+    mscd: {
+      g: RawNBAGame[]
+    }
+  }>
+}
+
+function getNBASchedule(): Promise<RawNBASchedule> {
+  const options: RequestOptions = {
+    method: 'GET',
+    hostname: 'data.nba.com',
+    path: '/data/10s/v2015/json/mobile_teams/nba/2020/league/00_full_schedule.json',
+    port: null
+  };
+  return new Promise((resolve, reject) => {
+    const req = http.request(options, response => {
+      const chunks: any[] = [];
+      response.on('data', chunk => chunks.push(chunk));
+      response.on('end', () => resolve(JSON.parse(Buffer.concat(chunks).toString())));
+    });
+    req.on('error', reject);
+    req.end();
+  })
+}
+
+function parseRawGames(games: RawNBASchedule): Game[] {
+  return games.lscd.reduce((games: Game[], currentMonth) => {
+    const parsedMonth = currentMonth.mscd.g
+      .map(game => ({
+        code: game.gcode,
+        description: game.seri,
+        status: parseStatus(game),
+        home: {
+          abbreviation: game.h.ta,
+          nickname: game.h.tn,
+          city: game.h.tc
+        },
+        away: {
+          abbreviation: game.v.ta,
+          nickname: game.v.tn,
+          city: game.v.tc
+        },
+        date: (game.stt === 'TBD') ? new Date(`${game.gdte}T19:00:00-0400`) : new Date(`${game.etm}-0400`)
+      }));
+    return games.concat(parsedMonth);
+  }, [] as Game[]);
+}
+
+function parseStatus(game: RawNBAGame): GameStatus {
+  if (game.stt === 'TBD') {
+    return 'tbd';
+  } else if (game.stt === 'Final') {
+    return 'complete';
+  } else if (game.stt.match(/\d{1,2}:\d\d [ap]m \w\w/)) {
+    return 'future';
+  } else {
+    // TODO: it's not clear how the feed denotes active
+    return 'active';
+  }
+}
+
+export function loadNbaGames(): Promise<string> {
+  return getNBASchedule()
+    .then(parseRawGames)
+    .then(writeGamesJson.bind(null, '_data/nba'));
+}

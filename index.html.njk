@@ -20,7 +20,7 @@ permalink: index.html
 <main>
     <h1>Upcoming week of NBA games</h1>
     <section>
-    {% for game in games | nextWeek %}
+    {% for game in nba.games | nextWeek %}
         <div class="game">
             <div class="description">{{game.description}}</div>
             <div class="team nba-{{game.away.abbreviation | lower}}">{{game.away.nickname}}</div>
