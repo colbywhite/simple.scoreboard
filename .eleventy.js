@@ -4,6 +4,11 @@ const fs = require('fs');
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('logos');
   eleventyConfig.addPassthroughCopy('js');
+  eleventyConfig.addPassthroughCopy({'src/index.css': 'index.css'});
+  eleventyConfig.addCollection('mlsLogos', () => {
+    const regex = /(.*)\.png/;
+    return fs.readdirSync('logos/mls').map(logo => ({path: `logos/mls/${logo}`, name: logo.match(regex)[1]}));
+  });
   eleventyConfig.addCollection('nbaLogos', () => {
     const regex = /(.*)\.png/;
     return fs.readdirSync('logos/nba').map(logo => ({path: `logos/nba/${logo}`, name: logo.match(regex)[1]}));
@@ -22,8 +27,8 @@ module.exports = function (eleventyConfig) {
     const startOfDay = DateTime.now().setZone('America/New_York').startOf('day');
     const endOfWeek = startOfDay.plus({week: 1}).endOf('day');
     return games.filter(game => {
-        const dateTime = DateTime.fromISO(game.date);
-        return startOfDay <= dateTime && dateTime <= endOfWeek;
-      });
+      const dateTime = DateTime.fromISO(game.date);
+      return startOfDay <= dateTime && dateTime <= endOfWeek;
+    });
   });
 };

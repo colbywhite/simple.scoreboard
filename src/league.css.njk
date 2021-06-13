@@ -1,0 +1,14 @@
+---
+pagination:
+    data: leagues
+    size: 1
+    alias: league
+permalink: "{{ league }}.css"
+---
+{% set logos = collections[league + 'Logos'] -%}
+{% for logo in logos -%}
+.{{ logo.name }}:before {
+    background-image: url('{{logo.path}}');
+}
+
+{% endfor %}

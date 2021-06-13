@@ -19057,8 +19057,8 @@
   },
   {
     "code": "20210613/BKNMIL",
-    "description": "BKN leads series 2-1",
-    "status": "future",
+    "description": "Series tied 2-2",
+    "status": "complete",
     "home": {
       "abbreviation": "MIL",
       "nickname": "Bucks",
@@ -19121,7 +19121,7 @@
   },
   {
     "code": "20210615/MILBKN",
-    "description": "BKN leads series 2-1",
+    "description": "Series tied 2-2",
     "status": "tbd",
     "home": {
       "abbreviation": "BKN",
@@ -19185,7 +19185,7 @@
   },
   {
     "code": "20210617/BKNMIL",
-    "description": "BKN leads series 2-1",
+    "description": "Series tied 2-2",
     "status": "tbd",
     "home": {
       "abbreviation": "MIL",
@@ -19249,7 +19249,7 @@
   },
   {
     "code": "20210619/MILBKN",
-    "description": "BKN leads series 2-1",
+    "description": "Series tied 2-2",
     "status": "tbd",
     "home": {
       "abbreviation": "BKN",

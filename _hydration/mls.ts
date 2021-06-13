@@ -10,27 +10,33 @@ import { Game } from './model';
 import { writeGamesJson } from './utils';
 
 interface RawMLSGame {
-  slug: string,
-  leagueMatchTitle: string,
+  slug: string;
+  leagueMatchTitle: string;
   home: {
-    fullName: string,
-    shortName: string,
-    abbreviation: string
-  },
+    fullName: string;
+    shortName: string;
+    abbreviation: string;
+    logoColorUrl: string;
+  };
   away: {
-    fullName: string,
-    shortName: string,
-    abbreviation: string
-  },
-  matchDate: string,
-  isTimeTbd: boolean
+    fullName: string;
+    shortName: string;
+    abbreviation: string;
+    logoColorUrl: string;
+  };
+  matchDate: string;
+  competition: {
+    name: string;
+  };
+  isTimeTbd: boolean;
 }
 
 function getMLSSchedule(): Promise<RawMLSGame[]> {
+  // TODO get the non league games too
   const options: RequestOptions = {
     method: 'GET',
     hostname: 'sportapi.mlssoccer.com',
-    path: 'https://sportapi.mlssoccer.com/api/matches?culture=en-us&dateFrom=2021-05-27&dateTo=2021-06-21&excludeSecondaryTeams=true&excludeVenue=true',
+    path: '/api/matches?culture=en-us&dateFrom=2021-06-01&dateTo=2021-12-31&competition=98&matchType=Regular&matchType=Cup&excludeSecondaryTeams=true&excludeVenue=true',
     port: null
   };
   return new Promise((resolve, reject) => {
@@ -47,16 +53,16 @@ function getMLSSchedule(): Promise<RawMLSGame[]> {
 function parseRawGames(games: RawMLSGame[]): Game[] {
   return games.map(game => ({
     code: game.slug,
-    description: game.leagueMatchTitle,
+    description: game.competition.name,
     status: (game.isTimeTbd) ? 'tbd' : 'future',
     home: {
       abbreviation: game.home.abbreviation,
-      nickname: game.home.fullName, // TODO better model a team to avoid this
+      nickname: game.home.shortName, // TODO better model a team to avoid this
       city: game.home.shortName
     },
     away: {
       abbreviation: game.away.abbreviation,
-      nickname: game.away.fullName, // TODO better model a team to avoid this
+      nickname: game.away.shortName, // TODO better model a team to avoid this
       city: game.away.shortName
     },
     date: new Date(game.matchDate)
