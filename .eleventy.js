@@ -4,9 +4,9 @@ const fs = require('fs');
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('logos');
   eleventyConfig.addPassthroughCopy('js');
-  eleventyConfig.addCollection('logos', () => {
+  eleventyConfig.addCollection('nbaLogos', () => {
     const regex = /(.*)\.png/;
-    return fs.readdirSync('logos').map(logo => ({path: `logos/${logo}`, name: logo.match(regex)[1]}));
+    return fs.readdirSync('logos/nba').map(logo => ({path: `logos/nba/${logo}`, name: logo.match(regex)[1]}));
   });
   eleventyConfig.addFilter('toDate', dateString => new Date(dateString));
   eleventyConfig.addFilter('iso', date => date.toISOString());

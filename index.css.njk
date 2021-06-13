@@ -87,8 +87,9 @@ section {
     content: '';
 }
 
-{% for logo in collections.logos %}
+{% for logo in collections.nbaLogos -%}
 .{{ logo.name }}:before {
     background-image: url('{{logo.path}}');
 }
+
 {% endfor %}
