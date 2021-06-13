@@ -1,0 +1,14 @@
+---
+layout: layout.html.njk
+permalink: index.html
+---
+<h1>Schedules</h1>
+<section>
+    <ul>
+        {% for league in leagues %}
+            <li>
+                <a href="{{ league }}.html">{{ league | upper }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</section>
