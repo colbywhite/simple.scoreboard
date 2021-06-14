@@ -19073,8 +19073,8 @@
   },
   {
     "code": "20210613/PHXDEN",
-    "description": "PHX leads series 3-0",
-    "status": "future",
+    "description": "PHX wins series 4-0",
+    "status": "complete",
     "home": {
       "abbreviation": "DEN",
       "nickname": "Nuggets",
@@ -19122,7 +19122,7 @@
   {
     "code": "20210615/MILBKN",
     "description": "Series tied 2-2",
-    "status": "tbd",
+    "status": "future",
     "home": {
       "abbreviation": "BKN",
       "nickname": "Nets",
@@ -19133,23 +19133,7 @@
       "nickname": "Bucks",
       "city": "Milwaukee"
     },
-    "date": "2021-06-15T23:00:00.000Z"
-  },
-  {
-    "code": "20210615/DENPHX",
-    "description": "PHX leads series 3-0",
-    "status": "tbd",
-    "home": {
-      "abbreviation": "PHX",
-      "nickname": "Suns",
-      "city": "Phoenix"
-    },
-    "away": {
-      "abbreviation": "DEN",
-      "nickname": "Nuggets",
-      "city": "Denver"
-    },
-    "date": "2021-06-15T23:00:00.000Z"
+    "date": "2021-06-16T00:30:00.000Z"
   },
   {
     "code": "20210616/ATLPHI",
@@ -19186,7 +19170,7 @@
   {
     "code": "20210617/BKNMIL",
     "description": "Series tied 2-2",
-    "status": "tbd",
+    "status": "future",
     "home": {
       "abbreviation": "MIL",
       "nickname": "Bucks",
@@ -19197,23 +19181,7 @@
       "nickname": "Nets",
       "city": "Brooklyn"
     },
-    "date": "2021-06-17T23:00:00.000Z"
-  },
-  {
-    "code": "20210617/PHXDEN",
-    "description": "PHX leads series 3-0",
-    "status": "tbd",
-    "home": {
-      "abbreviation": "DEN",
-      "nickname": "Nuggets",
-      "city": "Denver"
-    },
-    "away": {
-      "abbreviation": "PHX",
-      "nickname": "Suns",
-      "city": "Phoenix"
-    },
-    "date": "2021-06-17T23:00:00.000Z"
+    "date": "2021-06-18T00:30:00.000Z"
   },
   {
     "code": "20210618/PHIATL",
@@ -19292,22 +19260,6 @@
       "abbreviation": "LAC",
       "nickname": "Clippers",
       "city": "LA"
-    },
-    "date": "2021-06-20T23:00:00.000Z"
-  },
-  {
-    "code": "20210620/DENPHX",
-    "description": "PHX leads series 3-0",
-    "status": "tbd",
-    "home": {
-      "abbreviation": "PHX",
-      "nickname": "Suns",
-      "city": "Phoenix"
-    },
-    "away": {
-      "abbreviation": "DEN",
-      "nickname": "Nuggets",
-      "city": "Denver"
     },
     "date": "2021-06-20T23:00:00.000Z"
   }
