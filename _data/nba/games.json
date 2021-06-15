@@ -19089,8 +19089,8 @@
   },
   {
     "code": "20210614/PHIATL",
-    "description": "PHI leads series 2-1",
-    "status": "future",
+    "description": "Series tied 2-2",
+    "status": "complete",
     "home": {
       "abbreviation": "ATL",
       "nickname": "Hawks",
@@ -19105,8 +19105,8 @@
   },
   {
     "code": "20210614/UTALAC",
-    "description": "UTA leads series 2-1",
-    "status": "future",
+    "description": "Series tied 2-2",
+    "status": "complete",
     "home": {
       "abbreviation": "LAC",
       "nickname": "Clippers",
@@ -19137,7 +19137,7 @@
   },
   {
     "code": "20210616/ATLPHI",
-    "description": "PHI leads series 2-1",
+    "description": "Series tied 2-2",
     "status": "future",
     "home": {
       "abbreviation": "PHI",
@@ -19153,7 +19153,7 @@
   },
   {
     "code": "20210616/LACUTA",
-    "description": "UTA leads series 2-1",
+    "description": "Series tied 2-2",
     "status": "future",
     "home": {
       "abbreviation": "UTA",
@@ -19185,8 +19185,8 @@
   },
   {
     "code": "20210618/PHIATL",
-    "description": "PHI leads series 2-1",
-    "status": "tbd",
+    "description": "Series tied 2-2",
+    "status": "future",
     "home": {
       "abbreviation": "ATL",
       "nickname": "Hawks",
@@ -19197,12 +19197,12 @@
       "nickname": "76ers",
       "city": "Philadelphia"
     },
-    "date": "2021-06-18T23:00:00.000Z"
+    "date": "2021-06-18T23:30:00.000Z"
   },
   {
     "code": "20210618/UTALAC",
-    "description": "UTA leads series 2-1",
-    "status": "tbd",
+    "description": "Series tied 2-2",
+    "status": "future",
     "home": {
       "abbreviation": "LAC",
       "nickname": "Clippers",
@@ -19213,7 +19213,7 @@
       "nickname": "Jazz",
       "city": "Utah"
     },
-    "date": "2021-06-18T23:00:00.000Z"
+    "date": "2021-06-19T02:00:00.000Z"
   },
   {
     "code": "20210619/MILBKN",
@@ -19233,7 +19233,7 @@
   },
   {
     "code": "20210620/ATLPHI",
-    "description": "PHI leads series 2-1",
+    "description": "Series tied 2-2",
     "status": "tbd",
     "home": {
       "abbreviation": "PHI",
@@ -19249,7 +19249,7 @@
   },
   {
     "code": "20210620/LACUTA",
-    "description": "UTA leads series 2-1",
+    "description": "Series tied 2-2",
     "status": "tbd",
     "home": {
       "abbreviation": "UTA",
