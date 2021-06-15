@@ -69,7 +69,7 @@ function parseRawGames(games: RawMLSGame[]): Game[] {
   }));
 }
 
-export function loadMlsGames(): Promise<string> {
+export function loadMlsGames(): Promise<Game[]> {
   return getMLSSchedule()
     .then(parseRawGames)
     .then(writeGamesJson.bind(null, '_data/mls'));

@@ -2,13 +2,27 @@
 layout: layout.html.njk
 permalink: index.html
 ---
-<h1>Schedules</h1>
+<h1>Upcoming week of games</h1>
 <section>
-    <ul>
-        {% for league in leagues %}
-            <li>
-                <a href="{{ league }}.html">{{ league | upper }}</a>
-            </li>
-        {% endfor %}
-    </ul>
+    {% for game in games | nextWeek %}
+        <div class="game">
+            <div class="description">{{ game.description }}</div>
+            <div class="team {{ league | lower }}-{{ game.away.abbreviation | lower }}">{{ game.away.nickname }}</div>
+            <div class="team {{ league | lower }}-{{ game.home.abbreviation | lower }}">{{ game.home.nickname }}</div>
+            <div class="gametime">
+                <time class="date" datetime="{{ game.date | toDate | iso }}">
+                    {{ game.date | toDate | utcDate }}
+                </time>
+                {% if game.status === 'tbd' %}
+                    <div>TBD</div>
+                    {% elif game.status === 'complete' %}
+                    <div>FINAL</div>
+                {% else %}
+                    <time class="time" datetime="{{ game.date | toDate | iso }}">
+                        {{ game.date | toDate | utcTime }}
+                    </time>
+                {% endif %}
+            </div>
+        </div>
+    {% endfor %}
 </section>
