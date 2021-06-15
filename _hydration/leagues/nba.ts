@@ -6,8 +6,8 @@
  */
 import * as http from 'https';
 import { RequestOptions } from 'https';
-import { Game, GameStatus } from './model';
-import { writeGamesJson } from './utils';
+import { Game, GameStatus } from '../model';
+import { writeGamesJson } from '../utils';
 
 interface RawNBAGame {
   gcode: string;

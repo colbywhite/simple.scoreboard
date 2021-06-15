@@ -1,10 +1,11 @@
-import { loadNbaGames } from './nba';
-import { loadMlsGames } from './mls';
+import { loadNbaGames } from './leagues/nba';
+import { loadMlsGames } from './leagues/mls';
+import { tap } from './utils';
 
 const nba = loadNbaGames()
-  .then(file => console.log('NBA games loaded to', file));
+  .then(tap(data => console.log('NBA games loaded to', data)));
 const mls = loadMlsGames()
-  .then(file => console.log('MLS games loaded to', file));
+  .then(tap(data => console.log('MLS games loaded to', data)));
 
 Promise.all([nba, mls])
-  .then(() => console.log('Data hydration complete'));
+  .then(tap(_ => console.log('Data hydration complete')));

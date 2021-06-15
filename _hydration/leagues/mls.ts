@@ -6,8 +6,8 @@
  */
 import { RequestOptions } from 'https';
 import * as http from 'https';
-import { Game } from './model';
-import { writeGamesJson } from './utils';
+import { Game } from '../model';
+import { writeGamesJson } from '../utils';
 
 interface RawMLSGame {
   slug: string;
@@ -69,7 +69,7 @@ function parseRawGames(games: RawMLSGame[]): Game[] {
   }));
 }
 
-export function loadMlsGames(): Promise<any> {
+export function loadMlsGames(): Promise<string> {
   return getMLSSchedule()
     .then(parseRawGames)
     .then(writeGamesJson.bind(null, '_data/mls'));

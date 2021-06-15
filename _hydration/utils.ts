@@ -11,3 +11,10 @@ export function writeGamesJson(dataDir: string, games: Game[]): string {
   fs.writeFileSync(fileName, JSON.stringify(games, null, 2));
   return fileName;
 }
+
+export function tap<T>(func: (data: T) => void): (data: T) => T {
+  return (data: T) => {
+    func(data);
+    return data;
+  }
+}
