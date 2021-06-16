@@ -1552,22 +1552,6 @@
     "date": "2021-07-25T02:30:00.000Z"
   },
   {
-    "code": "miavsphi-07-25-2021",
-    "description": "MLS Regular Season",
-    "status": "tbd",
-    "home": {
-      "abbreviation": "MIA",
-      "nickname": "Miami",
-      "city": "Miami"
-    },
-    "away": {
-      "abbreviation": "PHI",
-      "nickname": "Philadelphia",
-      "city": "Philadelphia"
-    },
-    "date": "2021-07-25T11:00:00.000Z"
-  },
-  {
     "code": "nevsmtl-07-25-2021",
     "description": "MLS Regular Season",
     "status": "future",
@@ -1598,6 +1582,22 @@
       "city": "Orlando"
     },
     "date": "2021-07-25T22:00:00.000Z"
+  },
+  {
+    "code": "miavsphi-07-25-2021",
+    "description": "MLS Regular Season",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIA",
+      "nickname": "Miami",
+      "city": "Miami"
+    },
+    "away": {
+      "abbreviation": "PHI",
+      "nickname": "Philadelphia",
+      "city": "Philadelphia"
+    },
+    "date": "2021-07-25T23:30:00.000Z"
   },
   {
     "code": "dcvsrbny-07-25-2021",
@@ -1712,22 +1712,6 @@
     "date": "2021-07-31T02:00:00.000Z"
   },
   {
-    "code": "miavsmtl-07-31-2021",
-    "description": "MLS Regular Season",
-    "status": "tbd",
-    "home": {
-      "abbreviation": "MIA",
-      "nickname": "Miami",
-      "city": "Miami"
-    },
-    "away": {
-      "abbreviation": "MTL",
-      "nickname": "Montréal",
-      "city": "Montréal"
-    },
-    "date": "2021-07-31T11:00:00.000Z"
-  },
-  {
     "code": "seavssj-07-31-2021",
     "description": "MLS Regular Season",
     "status": "future",
@@ -1774,6 +1758,22 @@
       "city": "D.C."
     },
     "date": "2021-07-31T23:30:00.000Z"
+  },
+  {
+    "code": "miavsmtl-07-31-2021",
+    "description": "MLS Regular Season",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIA",
+      "nickname": "Miami",
+      "city": "Miami"
+    },
+    "away": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal"
+    },
+    "date": "2021-08-01T00:00:00.000Z"
   },
   {
     "code": "houvsrsl-07-31-2021",
@@ -1920,22 +1920,6 @@
     "date": "2021-08-04T23:30:00.000Z"
   },
   {
-    "code": "orlvsmia-08-04-2021",
-    "description": "MLS Regular Season",
-    "status": "future",
-    "home": {
-      "abbreviation": "ORL",
-      "nickname": "Orlando",
-      "city": "Orlando"
-    },
-    "away": {
-      "abbreviation": "MIA",
-      "nickname": "Miami",
-      "city": "Miami"
-    },
-    "date": "2021-08-04T23:30:00.000Z"
-  },
-  {
     "code": "phivstor-08-04-2021",
     "description": "MLS Regular Season",
     "status": "future",
@@ -1980,6 +1964,22 @@
       "abbreviation": "CIN",
       "nickname": "Cincinnati",
       "city": "Cincinnati"
+    },
+    "date": "2021-08-05T00:00:00.000Z"
+  },
+  {
+    "code": "orlvsmia-08-04-2021",
+    "description": "MLS Regular Season",
+    "status": "future",
+    "home": {
+      "abbreviation": "ORL",
+      "nickname": "Orlando",
+      "city": "Orlando"
+    },
+    "away": {
+      "abbreviation": "MIA",
+      "nickname": "Miami",
+      "city": "Miami"
     },
     "date": "2021-08-05T00:00:00.000Z"
   },
@@ -2176,22 +2176,6 @@
     "date": "2021-08-08T02:30:00.000Z"
   },
   {
-    "code": "miavsnsh-08-08-2021",
-    "description": "MLS Regular Season",
-    "status": "tbd",
-    "home": {
-      "abbreviation": "MIA",
-      "nickname": "Miami",
-      "city": "Miami"
-    },
-    "away": {
-      "abbreviation": "NSH",
-      "nickname": "Nashville",
-      "city": "Nashville"
-    },
-    "date": "2021-08-08T11:00:00.000Z"
-  },
-  {
     "code": "chivsrbny-08-08-2021",
     "description": "MLS Regular Season",
     "status": "future",
@@ -2204,6 +2188,22 @@
       "abbreviation": "RBNY",
       "nickname": "New York",
       "city": "New York"
+    },
+    "date": "2021-08-08T22:00:00.000Z"
+  },
+  {
+    "code": "miavsnsh-08-08-2021",
+    "description": "MLS Regular Season",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIA",
+      "nickname": "Miami",
+      "city": "Miami"
+    },
+    "away": {
+      "abbreviation": "NSH",
+      "nickname": "Nashville",
+      "city": "Nashville"
     },
     "date": "2021-08-08T22:00:00.000Z"
   },
@@ -2685,23 +2685,7 @@
       "nickname": "San Jose",
       "city": "San Jose"
     },
-    "date": "2021-08-21T02:00:00.000Z"
-  },
-  {
-    "code": "miavstor-08-21-2021",
-    "description": "MLS Regular Season",
-    "status": "tbd",
-    "home": {
-      "abbreviation": "MIA",
-      "nickname": "Miami",
-      "city": "Miami"
-    },
-    "away": {
-      "abbreviation": "TOR",
-      "nickname": "Toronto",
-      "city": "Toronto"
-    },
-    "date": "2021-08-21T11:00:00.000Z"
+    "date": "2021-08-21T02:30:00.000Z"
   },
   {
     "code": "minvsskc-08-21-2021",
@@ -2780,6 +2764,22 @@
       "abbreviation": "ATL",
       "nickname": "Atlanta",
       "city": "Atlanta"
+    },
+    "date": "2021-08-22T00:00:00.000Z"
+  },
+  {
+    "code": "miavstor-08-21-2021",
+    "description": "MLS Regular Season",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIA",
+      "nickname": "Miami",
+      "city": "Miami"
+    },
+    "away": {
+      "abbreviation": "TOR",
+      "nickname": "Toronto",
+      "city": "Toronto"
     },
     "date": "2021-08-22T00:00:00.000Z"
   },
@@ -3248,22 +3248,6 @@
     "date": "2021-09-11T02:00:00.000Z"
   },
   {
-    "code": "miavsclb-09-11-2021",
-    "description": "MLS Regular Season",
-    "status": "tbd",
-    "home": {
-      "abbreviation": "MIA",
-      "nickname": "Miami",
-      "city": "Miami"
-    },
-    "away": {
-      "abbreviation": "CLB",
-      "nickname": "Columbus",
-      "city": "Columbus"
-    },
-    "date": "2021-09-11T11:00:00.000Z"
-  },
-  {
     "code": "colvsla-09-11-2021",
     "description": "MLS Regular Season",
     "status": "future",
@@ -3340,6 +3324,22 @@
       "abbreviation": "TOR",
       "nickname": "Toronto",
       "city": "Toronto"
+    },
+    "date": "2021-09-12T00:00:00.000Z"
+  },
+  {
+    "code": "miavsclb-09-11-2021",
+    "description": "MLS Regular Season",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIA",
+      "nickname": "Miami",
+      "city": "Miami"
+    },
+    "away": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus"
     },
     "date": "2021-09-12T00:00:00.000Z"
   },
@@ -4384,22 +4384,6 @@
     "date": "2021-10-03T02:00:00.000Z"
   },
   {
-    "code": "porvsmia-10-03-2021",
-    "description": "MLS Regular Season",
-    "status": "tbd",
-    "home": {
-      "abbreviation": "POR",
-      "nickname": "Portland",
-      "city": "Portland"
-    },
-    "away": {
-      "abbreviation": "MIA",
-      "nickname": "Miami",
-      "city": "Miami"
-    },
-    "date": "2021-10-03T11:00:00.000Z"
-  },
-  {
     "code": "skcvshou-10-03-2021",
     "description": "MLS Regular Season",
     "status": "future",
@@ -4430,6 +4414,22 @@
       "city": "Chicago"
     },
     "date": "2021-10-03T20:00:00.000Z"
+  },
+  {
+    "code": "porvsmia-10-03-2021",
+    "description": "MLS Regular Season",
+    "status": "future",
+    "home": {
+      "abbreviation": "POR",
+      "nickname": "Portland",
+      "city": "Portland"
+    },
+    "away": {
+      "abbreviation": "MIA",
+      "nickname": "Miami",
+      "city": "Miami"
+    },
+    "date": "2021-10-03T21:30:00.000Z"
   },
   {
     "code": "nycvsnsh-10-03-2021",
@@ -4912,22 +4912,6 @@
     "date": "2021-10-21T02:30:00.000Z"
   },
   {
-    "code": "miavscin-10-23-2021",
-    "description": "MLS Regular Season",
-    "status": "tbd",
-    "home": {
-      "abbreviation": "MIA",
-      "nickname": "Miami",
-      "city": "Miami"
-    },
-    "away": {
-      "abbreviation": "CIN",
-      "nickname": "Cincinnati",
-      "city": "Cincinnati"
-    },
-    "date": "2021-10-23T11:00:00.000Z"
-  },
-  {
     "code": "torvsmtl-10-23-2021",
     "description": "MLS Regular Season",
     "status": "tbd",
@@ -5020,6 +5004,22 @@
       "abbreviation": "RSL",
       "nickname": "Salt Lake",
       "city": "Salt Lake"
+    },
+    "date": "2021-10-24T00:00:00.000Z"
+  },
+  {
+    "code": "miavscin-10-23-2021",
+    "description": "MLS Regular Season",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIA",
+      "nickname": "Miami",
+      "city": "Miami"
+    },
+    "away": {
+      "abbreviation": "CIN",
+      "nickname": "Cincinnati",
+      "city": "Cincinnati"
     },
     "date": "2021-10-24T00:00:00.000Z"
   },

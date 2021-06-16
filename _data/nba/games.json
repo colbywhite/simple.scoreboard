@@ -19121,8 +19121,8 @@
   },
   {
     "code": "20210615/MILBKN",
-    "description": "Series tied 2-2",
-    "status": "future",
+    "description": "BKN leads series 3-2",
+    "status": "complete",
     "home": {
       "abbreviation": "BKN",
       "nickname": "Nets",
@@ -19169,7 +19169,7 @@
   },
   {
     "code": "20210617/BKNMIL",
-    "description": "Series tied 2-2",
+    "description": "BKN leads series 3-2",
     "status": "future",
     "home": {
       "abbreviation": "MIL",
@@ -19217,8 +19217,8 @@
   },
   {
     "code": "20210619/MILBKN",
-    "description": "Series tied 2-2",
-    "status": "tbd",
+    "description": "BKN leads series 3-2",
+    "status": "future",
     "home": {
       "abbreviation": "BKN",
       "nickname": "Nets",
@@ -19229,28 +19229,12 @@
       "nickname": "Bucks",
       "city": "Milwaukee"
     },
-    "date": "2021-06-19T23:00:00.000Z"
-  },
-  {
-    "code": "20210620/ATLPHI",
-    "description": "Series tied 2-2",
-    "status": "tbd",
-    "home": {
-      "abbreviation": "PHI",
-      "nickname": "76ers",
-      "city": "Philadelphia"
-    },
-    "away": {
-      "abbreviation": "ATL",
-      "nickname": "Hawks",
-      "city": "Atlanta"
-    },
-    "date": "2021-06-20T23:00:00.000Z"
+    "date": "2021-06-20T00:30:00.000Z"
   },
   {
     "code": "20210620/LACUTA",
     "description": "Series tied 2-2",
-    "status": "tbd",
+    "status": "future",
     "home": {
       "abbreviation": "UTA",
       "nickname": "Jazz",
@@ -19261,6 +19245,22 @@
       "nickname": "Clippers",
       "city": "LA"
     },
-    "date": "2021-06-20T23:00:00.000Z"
+    "date": "2021-06-20T19:30:00.000Z"
+  },
+  {
+    "code": "20210620/ATLPHI",
+    "description": "Series tied 2-2",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHI",
+      "nickname": "76ers",
+      "city": "Philadelphia"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta"
+    },
+    "date": "2021-06-21T00:00:00.000Z"
   }
 ]
