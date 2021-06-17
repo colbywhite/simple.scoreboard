@@ -19137,8 +19137,8 @@
   },
   {
     "code": "20210616/ATLPHI",
-    "description": "Series tied 2-2",
-    "status": "future",
+    "description": "ATL leads series 3-2",
+    "status": "complete",
     "home": {
       "abbreviation": "PHI",
       "nickname": "76ers",
@@ -19153,8 +19153,8 @@
   },
   {
     "code": "20210616/LACUTA",
-    "description": "Series tied 2-2",
-    "status": "future",
+    "description": "LAC leads series 3-2",
+    "status": "complete",
     "home": {
       "abbreviation": "UTA",
       "nickname": "Jazz",
@@ -19185,7 +19185,7 @@
   },
   {
     "code": "20210618/PHIATL",
-    "description": "Series tied 2-2",
+    "description": "ATL leads series 3-2",
     "status": "future",
     "home": {
       "abbreviation": "ATL",
@@ -19201,7 +19201,7 @@
   },
   {
     "code": "20210618/UTALAC",
-    "description": "Series tied 2-2",
+    "description": "LAC leads series 3-2",
     "status": "future",
     "home": {
       "abbreviation": "LAC",
@@ -19233,7 +19233,7 @@
   },
   {
     "code": "20210620/LACUTA",
-    "description": "Series tied 2-2",
+    "description": "LAC leads series 3-2",
     "status": "future",
     "home": {
       "abbreviation": "UTA",
@@ -19249,7 +19249,7 @@
   },
   {
     "code": "20210620/ATLPHI",
-    "description": "Series tied 2-2",
+    "description": "ATL leads series 3-2",
     "status": "future",
     "home": {
       "abbreviation": "PHI",
