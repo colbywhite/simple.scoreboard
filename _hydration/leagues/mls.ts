@@ -27,6 +27,8 @@ interface RawMLSGame {
   matchDate: string;
   competition: {
     name: string;
+    shortName: string;
+    matchType: string;
   };
   isTimeTbd: boolean;
 }
@@ -53,20 +55,28 @@ function getMLSSchedule(): Promise<RawMLSGame[]> {
 function parseRawGames(games: RawMLSGame[]): Game[] {
   return games.map(game => ({
     code: game.slug,
-    description: game.competition.name,
+    description: '',
+    competitionDescription: parseDescription(game),
+    league: 'MLS',
     status: (game.isTimeTbd) ? 'tbd' : 'future',
     home: {
       abbreviation: game.home.abbreviation,
       nickname: game.home.shortName, // TODO better model a team to avoid this
-      city: game.home.shortName
+      city: game.home.shortName,
+      logoClass: `mls-${game.home.abbreviation.toLowerCase()}`
     },
     away: {
       abbreviation: game.away.abbreviation,
       nickname: game.away.shortName, // TODO better model a team to avoid this
-      city: game.away.shortName
+      city: game.away.shortName,
+      logoClass: `mls-${game.away.abbreviation.toLowerCase()}`
     },
     date: new Date(game.matchDate)
   }));
+}
+
+function parseDescription(game: RawMLSGame): string {
+  return game.leagueMatchTitle || (game.competition.matchType === 'Regular') ? game.competition.name : game.competition.shortName
 }
 
 export function loadMlsGames(): Promise<Game[]> {

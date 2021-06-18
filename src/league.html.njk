@@ -12,8 +12,8 @@ permalink: "{{ league }}.html"
     {% for game in leagueGames | nextWeek %}
         <div class="game">
             <div class="description">{{ game.description }}</div>
-            <div class="team {{ league | lower }}-{{ game.away.abbreviation | lower }}">{{ game.away.nickname }}</div>
-            <div class="team {{ league | lower }}-{{ game.home.abbreviation | lower }}">{{ game.home.nickname }}</div>
+            <div class="team {{ game.away.logoClass }}">{{ game.away.nickname }}</div>
+            <div class="team {{ game.home.logoClass }}">{{ game.home.nickname }}</div>
             <div class="gametime">
                 <time class="date" datetime="{{ game.date | toDate | iso }}">
                     {{ game.date | toDate | utcDate }}

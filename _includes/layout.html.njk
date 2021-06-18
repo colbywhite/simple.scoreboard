@@ -4,11 +4,21 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{league | upper}} schedule</title>
-    {% set logos = collections[league + 'Logos'] -%}
+    {% if league !== undefined -%}
+        {% set logos = collections[league + 'Logos'] -%}
+    {% else %}
+        {% set logos = collections.logos -%}
+    {% endif %}
     {% for logo in logos -%}
     <link rel="preload" as="image" href="/{{ logo.path }}">
     {% endfor %}
-    <link rel="stylesheet" type="text/css" href="{{ league | lower }}.css" media="screen"/>
+    {% if league !== undefined -%}
+        <link rel="stylesheet" type="text/css" href="{{ league | lower }}.css" media="screen"/>
+    {% else %}
+        {% for league in leagues -%}
+            <link rel="stylesheet" type="text/css" href="{{ league | lower }}.css" media="screen"/>
+        {% endfor %}
+    {% endif %}
     <link rel="stylesheet" type="text/css" href="index.css" media="screen"/>
     <script src="js/timeFormatter.js"></script>
     <script>
