@@ -24001,10 +24001,10 @@
   },
   {
     "code": "20210618/PHIATL",
-    "description": "ATL leads series 3-2",
+    "description": "Series tied 3-3",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "ATL",
       "nickname": "Hawks",
@@ -24041,10 +24041,10 @@
   },
   {
     "code": "20210618/UTALAC",
-    "description": "LAC leads series 3-2",
+    "description": "LAC wins series 4-2",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "LAC",
       "nickname": "Clippers",
@@ -24320,16 +24320,16 @@
     "date": "2021-06-20T18:00:00.000Z"
   },
   {
-    "code": "20210620/LACUTA",
-    "description": "LAC leads series 3-2",
+    "code": "20210620/LACPHX",
+    "description": "Series tied 0-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
     "home": {
-      "abbreviation": "UTA",
-      "nickname": "Jazz",
-      "city": "Utah",
-      "logoClass": "nba-uta"
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
     },
     "away": {
       "abbreviation": "LAC",
@@ -24341,7 +24341,7 @@
   },
   {
     "code": "20210620/ATLPHI",
-    "description": "ATL leads series 3-2",
+    "description": "Series tied 3-3",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -24378,6 +24378,26 @@
       "logoClass": "mls-sj"
     },
     "date": "2021-06-22T23:30:00.000Z"
+  },
+  {
+    "code": "20210622/LACPHX",
+    "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "away": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA",
+      "logoClass": "nba-lac"
+    },
+    "date": "2021-06-23T01:00:00.000Z"
   },
   {
     "code": "nevsrbny-06-23-2021",
@@ -24620,6 +24640,26 @@
     "date": "2021-06-24T02:30:00.000Z"
   },
   {
+    "code": "20210624/PHXLAC",
+    "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA",
+      "logoClass": "nba-lac"
+    },
+    "away": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "date": "2021-06-25T01:00:00.000Z"
+  },
+  {
     "code": "miavsorl-06-25-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
@@ -24738,6 +24778,26 @@
       "logoClass": "mls-mtl"
     },
     "date": "2021-06-27T00:30:00.000Z"
+  },
+  {
+    "code": "20210626/PHXLAC",
+    "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA",
+      "logoClass": "nba-lac"
+    },
+    "away": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "date": "2021-06-27T01:00:00.000Z"
   },
   {
     "code": "seavsvan-06-26-2021",
@@ -24880,6 +24940,46 @@
     "date": "2021-06-28T01:00:00.000Z"
   },
   {
+    "code": "20210628/LACPHX",
+    "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "away": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA",
+      "logoClass": "nba-lac"
+    },
+    "date": "2021-06-29T01:00:00.000Z"
+  },
+  {
+    "code": "20210630/PHXLAC",
+    "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA",
+      "logoClass": "nba-lac"
+    },
+    "away": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "date": "2021-07-01T01:00:00.000Z"
+  },
+  {
     "code": "atxvspor-07-01-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
@@ -24898,6 +24998,26 @@
       "logoClass": "mls-por"
     },
     "date": "2021-07-02T01:30:00.000Z"
+  },
+  {
+    "code": "20210702/LACPHX",
+    "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "away": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA",
+      "logoClass": "nba-lac"
+    },
+    "date": "2021-07-03T01:00:00.000Z"
   },
   {
     "code": "clbvsne-07-03-2021",
