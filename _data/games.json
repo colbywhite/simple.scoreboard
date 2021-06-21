@@ -24321,10 +24321,10 @@
   },
   {
     "code": "20210620/LACPHX",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "PHX",
       "nickname": "Suns",
@@ -24341,10 +24341,10 @@
   },
   {
     "code": "20210620/ATLPHI",
-    "description": "Series tied 3-3",
+    "description": "ATL wins series 4-3",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "PHI",
       "nickname": "76ers",
@@ -24381,7 +24381,7 @@
   },
   {
     "code": "20210622/LACPHX",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -24520,6 +24520,26 @@
     "date": "2021-06-24T00:00:00.000Z"
   },
   {
+    "code": "20210623/ATLMIL",
+    "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta",
+      "logoClass": "nba-atl"
+    },
+    "date": "2021-06-24T00:30:00.000Z"
+  },
+  {
     "code": "houvspor-06-23-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
@@ -24641,7 +24661,7 @@
   },
   {
     "code": "20210624/PHXLAC",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -24678,6 +24698,26 @@
       "logoClass": "mls-orl"
     },
     "date": "2021-06-26T00:00:00.000Z"
+  },
+  {
+    "code": "20210625/ATLMIL",
+    "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta",
+      "logoClass": "nba-atl"
+    },
+    "date": "2021-06-26T00:30:00.000Z"
   },
   {
     "code": "skcvslafc-06-26-2021",
@@ -24781,7 +24821,7 @@
   },
   {
     "code": "20210626/PHXLAC",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -24920,6 +24960,26 @@
     "date": "2021-06-28T00:00:00.000Z"
   },
   {
+    "code": "20210627/MILATL",
+    "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta",
+      "logoClass": "nba-atl"
+    },
+    "away": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "date": "2021-06-28T00:30:00.000Z"
+  },
+  {
     "code": "dalvsne-06-27-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
@@ -24941,7 +25001,7 @@
   },
   {
     "code": "20210628/LACPHX",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -24960,8 +25020,28 @@
     "date": "2021-06-29T01:00:00.000Z"
   },
   {
-    "code": "20210630/PHXLAC",
+    "code": "20210629/MILATL",
     "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta",
+      "logoClass": "nba-atl"
+    },
+    "away": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "date": "2021-06-30T00:30:00.000Z"
+  },
+  {
+    "code": "20210630/PHXLAC",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -24978,6 +25058,26 @@
       "logoClass": "nba-phx"
     },
     "date": "2021-07-01T01:00:00.000Z"
+  },
+  {
+    "code": "20210701/ATLMIL",
+    "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta",
+      "logoClass": "nba-atl"
+    },
+    "date": "2021-07-02T00:30:00.000Z"
   },
   {
     "code": "atxvspor-07-01-2021",
@@ -25001,7 +25101,7 @@
   },
   {
     "code": "20210702/LACPHX",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -25160,6 +25260,26 @@
     "date": "2021-07-04T00:00:00.000Z"
   },
   {
+    "code": "20210703/MILATL",
+    "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta",
+      "logoClass": "nba-atl"
+    },
+    "away": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "date": "2021-07-04T00:30:00.000Z"
+  },
+  {
     "code": "houvscin-07-03-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
@@ -25258,6 +25378,26 @@
       "logoClass": "mls-skc"
     },
     "date": "2021-07-05T02:30:00.000Z"
+  },
+  {
+    "code": "20210705/ATLMIL",
+    "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta",
+      "logoClass": "nba-atl"
+    },
+    "date": "2021-07-06T00:30:00.000Z"
   },
   {
     "code": "nevstor-07-07-2021",
