@@ -24081,10 +24081,10 @@
   },
   {
     "code": "20210622/LACPHX",
-    "description": "PHX leads series 1-0",
+    "description": "PHX leads series 2-0",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "PHX",
       "nickname": "Suns",
@@ -24121,7 +24121,7 @@
   },
   {
     "code": "20210624/PHXLAC",
-    "description": "PHX leads series 1-0",
+    "description": "PHX leads series 2-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -24161,7 +24161,7 @@
   },
   {
     "code": "20210626/PHXLAC",
-    "description": "PHX leads series 1-0",
+    "description": "PHX leads series 2-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -24201,7 +24201,7 @@
   },
   {
     "code": "20210628/LACPHX",
-    "description": "PHX leads series 1-0",
+    "description": "PHX leads series 2-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -24241,7 +24241,7 @@
   },
   {
     "code": "20210630/PHXLAC",
-    "description": "PHX leads series 1-0",
+    "description": "PHX leads series 2-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -24281,7 +24281,7 @@
   },
   {
     "code": "20210702/LACPHX",
-    "description": "PHX leads series 1-0",
+    "description": "PHX leads series 2-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
