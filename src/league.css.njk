@@ -4,6 +4,7 @@ pagination:
     size: 1
     alias: league
 permalink: "{{ league }}.css"
+layout: ''
 ---
 {% set logos = collections[league + 'Logos'] -%}
 {% for logo in logos -%}
