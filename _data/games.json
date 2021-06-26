@@ -24701,10 +24701,10 @@
   },
   {
     "code": "20210625/ATLMIL",
-    "description": "ATL leads series 1-0",
+    "description": "Series tied 1-1",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "MIL",
       "nickname": "Bucks",
@@ -24897,7 +24897,7 @@
       "city": "Minnesota",
       "logoClass": "mls-min"
     },
-    "date": "2021-06-27T03:00:00.000Z"
+    "date": "2021-06-27T03:30:00.000Z"
   },
   {
     "code": "atlvsrbny-06-27-2021",
@@ -24961,7 +24961,7 @@
   },
   {
     "code": "20210627/MILATL",
-    "description": "ATL leads series 1-0",
+    "description": "Series tied 1-1",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -25021,7 +25021,7 @@
   },
   {
     "code": "20210629/MILATL",
-    "description": "ATL leads series 1-0",
+    "description": "Series tied 1-1",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -25061,7 +25061,7 @@
   },
   {
     "code": "20210701/ATLMIL",
-    "description": "ATL leads series 1-0",
+    "description": "Series tied 1-1",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -25261,7 +25261,7 @@
   },
   {
     "code": "20210703/MILATL",
-    "description": "ATL leads series 1-0",
+    "description": "Series tied 1-1",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -25381,7 +25381,7 @@
   },
   {
     "code": "20210705/ATLMIL",
-    "description": "ATL leads series 1-0",
+    "description": "Series tied 1-1",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
