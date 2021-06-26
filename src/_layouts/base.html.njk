@@ -3,24 +3,25 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{league | upper}} schedule</title>
     {% if league !== undefined -%}
+        <title>{{ league | upper }} schedule</title>
         {% set logos = collections[league + 'Logos'] -%}
     {% else %}
+        <title>{{ title }}</title>
         {% set logos = collections.logos -%}
     {% endif %}
     {% for logo in logos -%}
     <link rel="preload" as="image" href="/{{ logo.path }}">
     {% endfor %}
     {% if league !== undefined -%}
-        <link rel="stylesheet" type="text/css" href="{{ league | lower }}.css" media="screen"/>
+        <link rel="stylesheet" type="text/css" href="/{{ league | lower }}.css" media="screen"/>
     {% else %}
         {% for league in leagues -%}
-            <link rel="stylesheet" type="text/css" href="{{ league | lower }}.css" media="screen"/>
+            <link rel="stylesheet" type="text/css" href="/{{ league | lower }}.css" media="screen"/>
         {% endfor %}
     {% endif %}
-    <link rel="stylesheet" type="text/css" href="css/index.css" media="screen"/>
-    <script src="js/timeFormatter.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/index.css" media="screen"/>
+    <script src="/js/timeFormatter.js"></script>
     <script>
       window.addEventListener('DOMContentLoaded', updateDateTimesWithTimezoneContent);
     </script>

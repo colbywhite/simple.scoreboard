@@ -1,5 +1,6 @@
 ---
 permalink: index.html
+title: Simple Sports Schedules
 ---
 <h1>Upcoming week of games</h1>
 {% for date, _games in games | nextWeek | groupByDay %}
@@ -8,28 +9,6 @@ permalink: index.html
             {{ date | toDate | easternDate }}
         </time>
     </h2>
-    <section>
-        {% for game in _games  %}
-            <div class="game">
-                <div class="league">{{ game.league }}</div>
-                <div class="description">{{ game.description }}</div>
-                <div class="team {{ game.away.logoClass }}">{{ game.away.nickname }}</div>
-                <div class="team {{ game.home.logoClass }}">{{ game.home.nickname }}</div>
-                <div class="gametime">
-                    <time class="date" datetime="{{ game.date | toDate | iso }}">
-                        {{ game.date | toDate | utcDate }}
-                    </time>
-                    {% if game.status === 'tbd' %}
-                        <div>TBD</div>
-                        {% elif game.status === 'complete' %}
-                        <div>FINAL</div>
-                    {% else %}
-                        <time class="time" datetime="{{ game.date | toDate | iso }}">
-                            {{ game.date | toDate | utcTime }}
-                        </time>
-                    {% endif %}
-                </div>
-            </div>
-        {% endfor %}
-    </section>
+    {% import 'games.section.html.njk' as section %}
+    {{ section.list(_games, true) }}
 {% endfor %}

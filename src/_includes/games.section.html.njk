@@ -1,0 +1,32 @@
+{% macro list(games, showLeague=false) %}
+    <section>
+        {% for game in games %}
+            <div class="game">
+                {% if showLeague %}
+                    <div class="league">
+                        <a href="/{{ game.league | lower }}">
+                            {{ game.league }}
+                        </a>
+                    </div>
+                {% endif %}
+                <div class="description">{{ game.description }}</div>
+                <div class="team {{ game.away.logoClass }}">{{ game.away.nickname }}</div>
+                <div class="team {{ game.home.logoClass }}">{{ game.home.nickname }}</div>
+                <div class="gametime">
+                    <time class="date" datetime="{{ game.date | toDate | iso }}">
+                        {{ game.date | toDate | utcDate }}
+                    </time>
+                    {% if game.status === 'tbd' %}
+                        <div>TBD</div>
+                        {% elif game.status === 'complete' %}
+                        <div>FINAL</div>
+                    {% else %}
+                        <time class="time" datetime="{{ game.date | toDate | iso }}">
+                            {{ game.date | toDate | utcTime }}
+                        </time>
+                    {% endif %}
+                </div>
+            </div>
+        {% endfor %}
+    </section>
+{% endmacro %}
