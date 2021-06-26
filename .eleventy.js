@@ -6,6 +6,7 @@ module.exports = eleventyApi => {
     const srcDir = `src/_${dir}`;
     eleventyApi.addPassthroughCopy({[srcDir]: dir});
   });
+  eleventyApi.addPassthroughCopy('src/favicon.ico');
   eleventyApi.addCollection('mlsLogos', () => {
     const regex = /(.*)\.png/;
     return fs.readdirSync('src/_logos/mls').map(logo => ({path: `logos/mls/${logo}`, name: logo.match(regex)[1]}));
