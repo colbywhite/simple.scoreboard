@@ -5,6 +5,7 @@ module.exports = eleventyApi => {
   ['js', 'css', 'logos'].forEach(dir => {
     const srcDir = `src/_${dir}`;
     eleventyApi.addPassthroughCopy({[srcDir]: dir});
+    eleventyApi.addWatchTarget(srcDir);
   });
   eleventyApi.addPassthroughCopy('src/favicon.ico');
   eleventyApi.addCollection('mlsLogos', () => {
@@ -22,8 +23,13 @@ module.exports = eleventyApi => {
   });
   eleventyApi.addFilter('toDate', dateString => new Date(dateString));
   eleventyApi.addFilter('iso', date => date.toISOString());
+  eleventyApi.addFilter('json', obj => JSON.stringify(obj));
   eleventyApi.addFilter('utcDate', date => {
     const formatOptions = {timeZone: 'UTC', weekday: 'short', day: 'numeric', month: 'short'};
+    return date.toLocaleString(undefined, formatOptions);
+  });
+  eleventyApi.addFilter('easternDate', date => {
+    const formatOptions = {timeZone: 'America/New_York', weekday: 'short', day: 'numeric', month: 'short'};
     return date.toLocaleString(undefined, formatOptions);
   });
   eleventyApi.addFilter('utcTime', date => {
@@ -37,6 +43,18 @@ module.exports = eleventyApi => {
       const dateTime = DateTime.fromISO(game.date);
       return startOfDay <= dateTime && dateTime <= endOfWeek;
     });
+  });
+  eleventyApi.addFilter('groupByDay', games => {
+    const groupedGames = {};
+    games.forEach(game => {
+      const gameDate = DateTime.fromISO(game.date).setZone('America/New_York').startOf('day').toISO();
+      if (groupedGames[gameDate]) {
+        groupedGames[gameDate].push(game);
+      } else {
+        groupedGames[gameDate] = [game];
+      }
+    });
+    return groupedGames;
   });
 
   return {dir: {input: 'src', layouts: '_layouts'}};
