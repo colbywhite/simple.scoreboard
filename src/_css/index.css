@@ -40,7 +40,14 @@ section {
 
 .description {
     color: #70757a;
-    grid-column: 1 / 4;
+    grid-column: 2 / 4;
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+.league {
+    grid-column: 1;
     display: flex;
     align-items: center;
 }

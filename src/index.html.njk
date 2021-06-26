@@ -11,6 +11,7 @@ permalink: index.html
     <section>
         {% for game in _games  %}
             <div class="game">
+                <div class="league">{{ game.league }}</div>
                 <div class="description">{{ game.description }}</div>
                 <div class="team {{ game.away.logoClass }}">{{ game.away.nickname }}</div>
                 <div class="team {{ game.home.logoClass }}">{{ game.home.nickname }}</div>
