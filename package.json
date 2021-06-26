@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "eleventy",
+    "prestart": "rm -rf _site",
     "start": "eleventy --serve",
     "hydration": "ts-node _hydration/games.ts"
   },

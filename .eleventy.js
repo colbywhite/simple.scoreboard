@@ -2,16 +2,17 @@ const {DateTime} = require('luxon');
 const fs = require('fs');
 
 module.exports = eleventyApi => {
-  eleventyApi.addPassthroughCopy('logos');
-  eleventyApi.addPassthroughCopy('js');
-  eleventyApi.addPassthroughCopy({'src/index.css': 'index.css'});
+  ['js', 'css', 'logos'].forEach(dir => {
+    const srcDir = `src/_${dir}`;
+    eleventyApi.addPassthroughCopy({[srcDir]: dir});
+  });
   eleventyApi.addCollection('mlsLogos', () => {
     const regex = /(.*)\.png/;
-    return fs.readdirSync('logos/mls').map(logo => ({path: `logos/mls/${logo}`, name: logo.match(regex)[1]}));
+    return fs.readdirSync('src/_logos/mls').map(logo => ({path: `logos/mls/${logo}`, name: logo.match(regex)[1]}));
   });
   eleventyApi.addCollection('nbaLogos', () => {
     const regex = /(.*)\.png/;
-    return fs.readdirSync('logos/nba').map(logo => ({path: `logos/nba/${logo}`, name: logo.match(regex)[1]}));
+    return fs.readdirSync('src/_logos/nba').map(logo => ({path: `logos/nba/${logo}`, name: logo.match(regex)[1]}));
   });
   eleventyApi.addCollection('logos', () => {
     const mls = eleventyApi.getCollections()['mlsLogos'];
@@ -36,4 +37,6 @@ module.exports = eleventyApi => {
       return startOfDay <= dateTime && dateTime <= endOfWeek;
     });
   });
+
+  return {dir: {input: 'src', layouts: '_layouts'}};
 };
