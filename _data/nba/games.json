@@ -24181,10 +24181,10 @@
   },
   {
     "code": "20210627/MILATL",
-    "description": "Series tied 1-1",
+    "description": "MIL leads series 2-1",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "ATL",
       "nickname": "Hawks",
@@ -24221,7 +24221,7 @@
   },
   {
     "code": "20210629/MILATL",
-    "description": "Series tied 1-1",
+    "description": "MIL leads series 2-1",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -24261,7 +24261,7 @@
   },
   {
     "code": "20210701/ATLMIL",
-    "description": "Series tied 1-1",
+    "description": "MIL leads series 2-1",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -24301,7 +24301,7 @@
   },
   {
     "code": "20210703/MILATL",
-    "description": "Series tied 1-1",
+    "description": "MIL leads series 2-1",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -24321,7 +24321,7 @@
   },
   {
     "code": "20210705/ATLMIL",
-    "description": "Series tied 1-1",
+    "description": "MIL leads series 2-1",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
