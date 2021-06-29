@@ -24201,10 +24201,10 @@
   },
   {
     "code": "20210628/LACPHX",
-    "description": "PHX leads series 3-1",
+    "description": "PHX leads series 3-2",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "PHX",
       "nickname": "Suns",
@@ -24241,7 +24241,7 @@
   },
   {
     "code": "20210630/PHXLAC",
-    "description": "PHX leads series 3-1",
+    "description": "PHX leads series 3-2",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -24281,7 +24281,7 @@
   },
   {
     "code": "20210702/LACPHX",
-    "description": "PHX leads series 3-1",
+    "description": "PHX leads series 3-2",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
