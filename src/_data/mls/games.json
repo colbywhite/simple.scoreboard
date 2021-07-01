@@ -804,7 +804,7 @@
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
-    "status": "tbd",
+    "status": "future",
     "home": {
       "abbreviation": "ATX",
       "nickname": "Austin",
@@ -3420,26 +3420,6 @@
     "date": "2021-08-21T23:30:00.000Z"
   },
   {
-    "code": "phivsmtl-08-21-2021",
-    "description": "",
-    "competitionDescription": "MLS Regular Season",
-    "league": "MLS",
-    "status": "future",
-    "home": {
-      "abbreviation": "PHI",
-      "nickname": "Philadelphia",
-      "city": "Philadelphia",
-      "logoClass": "mls-phi"
-    },
-    "away": {
-      "abbreviation": "MTL",
-      "nickname": "Montréal",
-      "city": "Montréal",
-      "logoClass": "mls-mtl"
-    },
-    "date": "2021-08-21T23:30:00.000Z"
-  },
-  {
     "code": "dcvsatl-08-21-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
@@ -3516,6 +3496,26 @@
       "nickname": "New York City",
       "city": "New York City",
       "logoClass": "mls-nyc"
+    },
+    "date": "2021-08-22T00:00:00.000Z"
+  },
+  {
+    "code": "phivsmtl-08-21-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHI",
+      "nickname": "Philadelphia",
+      "city": "Philadelphia",
+      "logoClass": "mls-phi"
+    },
+    "away": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
     },
     "date": "2021-08-22T00:00:00.000Z"
   },

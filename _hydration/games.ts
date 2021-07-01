@@ -9,6 +9,6 @@ const mls = loadMlsGames()
   .then(tap(_ => console.log('MLS games loaded')));
 
 Promise.all([nba, mls])
-  .then((games: [Game[], Game[]]) => combineGameFiles(games, '_data'))
+  .then((games: [Game[], Game[]]) => combineGameFiles(games, 'src/_data'))
   .then(tap(_ => console.log('All games loaded')))
   .then(tap(_ => console.log('Data hydration complete')));

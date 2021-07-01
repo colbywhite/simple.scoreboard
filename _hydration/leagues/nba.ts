@@ -98,5 +98,5 @@ function parseStatus(game: RawNBAGame): GameStatus {
 export function loadNbaGames(): Promise<Game[]> {
   return getNBASchedule()
     .then(parseRawGames)
-    .then(writeGamesJson.bind(null, '_data/nba'));
+    .then(writeGamesJson.bind(null, 'src/_data/nba'));
 }

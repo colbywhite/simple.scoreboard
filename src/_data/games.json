@@ -24821,10 +24821,10 @@
   },
   {
     "code": "20210626/PHXLAC",
-    "description": "PHX leads series 2-1",
+    "description": "PHX leads series 3-1",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "LAC",
       "nickname": "Clippers",
@@ -24961,10 +24961,10 @@
   },
   {
     "code": "20210627/MILATL",
-    "description": "Series tied 1-1",
+    "description": "MIL leads series 2-1",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "ATL",
       "nickname": "Hawks",
@@ -25001,10 +25001,10 @@
   },
   {
     "code": "20210628/LACPHX",
-    "description": "PHX leads series 2-1",
+    "description": "PHX leads series 3-2",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "PHX",
       "nickname": "Suns",
@@ -25021,10 +25021,10 @@
   },
   {
     "code": "20210629/MILATL",
-    "description": "Series tied 1-1",
+    "description": "Series tied 2-2",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "ATL",
       "nickname": "Hawks",
@@ -25041,7 +25041,7 @@
   },
   {
     "code": "20210630/PHXLAC",
-    "description": "PHX leads series 2-1",
+    "description": "PHX leads series 3-2",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -25061,7 +25061,7 @@
   },
   {
     "code": "20210701/ATLMIL",
-    "description": "Series tied 1-1",
+    "description": "Series tied 2-2",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -25084,7 +25084,7 @@
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
-    "status": "tbd",
+    "status": "future",
     "home": {
       "abbreviation": "ATX",
       "nickname": "Austin",
@@ -25101,7 +25101,7 @@
   },
   {
     "code": "20210702/LACPHX",
-    "description": "PHX leads series 2-1",
+    "description": "PHX leads series 3-2",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -25261,7 +25261,7 @@
   },
   {
     "code": "20210703/MILATL",
-    "description": "Series tied 1-1",
+    "description": "Series tied 2-2",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -25381,7 +25381,7 @@
   },
   {
     "code": "20210705/ATLMIL",
-    "description": "Series tied 1-1",
+    "description": "Series tied 2-2",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -27760,26 +27760,6 @@
     "date": "2021-08-21T23:30:00.000Z"
   },
   {
-    "code": "phivsmtl-08-21-2021",
-    "description": "",
-    "competitionDescription": "MLS Regular Season",
-    "league": "MLS",
-    "status": "future",
-    "home": {
-      "abbreviation": "PHI",
-      "nickname": "Philadelphia",
-      "city": "Philadelphia",
-      "logoClass": "mls-phi"
-    },
-    "away": {
-      "abbreviation": "MTL",
-      "nickname": "Montréal",
-      "city": "Montréal",
-      "logoClass": "mls-mtl"
-    },
-    "date": "2021-08-21T23:30:00.000Z"
-  },
-  {
     "code": "dcvsatl-08-21-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
@@ -27856,6 +27836,26 @@
       "nickname": "New York City",
       "city": "New York City",
       "logoClass": "mls-nyc"
+    },
+    "date": "2021-08-22T00:00:00.000Z"
+  },
+  {
+    "code": "phivsmtl-08-21-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHI",
+      "nickname": "Philadelphia",
+      "city": "Philadelphia",
+      "logoClass": "mls-phi"
+    },
+    "away": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
     },
     "date": "2021-08-22T00:00:00.000Z"
   },
