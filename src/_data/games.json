@@ -25041,10 +25041,10 @@
   },
   {
     "code": "20210630/PHXLAC",
-    "description": "PHX leads series 3-2",
+    "description": "PHX wins series 4-2",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "LAC",
       "nickname": "Clippers",
@@ -25061,10 +25061,10 @@
   },
   {
     "code": "20210701/ATLMIL",
-    "description": "Series tied 2-2",
+    "description": "MIL leads series 3-2",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "MIL",
       "nickname": "Bucks",
@@ -25098,26 +25098,6 @@
       "logoClass": "mls-por"
     },
     "date": "2021-07-02T01:30:00.000Z"
-  },
-  {
-    "code": "20210702/LACPHX",
-    "description": "PHX leads series 3-2",
-    "competitionDescription": "NBA",
-    "league": "NBA",
-    "status": "future",
-    "home": {
-      "abbreviation": "PHX",
-      "nickname": "Suns",
-      "city": "Phoenix",
-      "logoClass": "nba-phx"
-    },
-    "away": {
-      "abbreviation": "LAC",
-      "nickname": "Clippers",
-      "city": "LA",
-      "logoClass": "nba-lac"
-    },
-    "date": "2021-07-03T01:00:00.000Z"
   },
   {
     "code": "clbvsne-07-03-2021",
@@ -25261,7 +25241,7 @@
   },
   {
     "code": "20210703/MILATL",
-    "description": "Series tied 2-2",
+    "description": "MIL leads series 3-2",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -25381,7 +25361,7 @@
   },
   {
     "code": "20210705/ATLMIL",
-    "description": "Series tied 2-2",
+    "description": "MIL leads series 3-2",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -25880,26 +25860,6 @@
     "date": "2021-07-21T02:00:00.000Z"
   },
   {
-    "code": "cinvsatl-07-21-2021",
-    "description": "",
-    "competitionDescription": "MLS Regular Season",
-    "league": "MLS",
-    "status": "future",
-    "home": {
-      "abbreviation": "CIN",
-      "nickname": "Cincinnati",
-      "city": "Cincinnati",
-      "logoClass": "mls-cin"
-    },
-    "away": {
-      "abbreviation": "ATL",
-      "nickname": "Atlanta",
-      "city": "Atlanta",
-      "logoClass": "mls-atl"
-    },
-    "date": "2021-07-21T23:00:00.000Z"
-  },
-  {
     "code": "clbvsnsh-07-21-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
@@ -25996,6 +25956,26 @@
       "nickname": "D.C.",
       "city": "D.C.",
       "logoClass": "mls-dc"
+    },
+    "date": "2021-07-22T00:00:00.000Z"
+  },
+  {
+    "code": "cinvsatl-07-21-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CIN",
+      "nickname": "Cincinnati",
+      "city": "Cincinnati",
+      "logoClass": "mls-cin"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Atlanta",
+      "city": "Atlanta",
+      "logoClass": "mls-atl"
     },
     "date": "2021-07-22T00:00:00.000Z"
   },
@@ -27740,26 +27720,6 @@
     "date": "2021-08-21T21:30:00.000Z"
   },
   {
-    "code": "orlvschi-08-21-2021",
-    "description": "",
-    "competitionDescription": "MLS Regular Season",
-    "league": "MLS",
-    "status": "future",
-    "home": {
-      "abbreviation": "ORL",
-      "nickname": "Orlando",
-      "city": "Orlando",
-      "logoClass": "mls-orl"
-    },
-    "away": {
-      "abbreviation": "CHI",
-      "nickname": "Chicago",
-      "city": "Chicago",
-      "logoClass": "mls-chi"
-    },
-    "date": "2021-08-21T23:30:00.000Z"
-  },
-  {
     "code": "dcvsatl-08-21-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
@@ -27836,6 +27796,26 @@
       "nickname": "New York City",
       "city": "New York City",
       "logoClass": "mls-nyc"
+    },
+    "date": "2021-08-22T00:00:00.000Z"
+  },
+  {
+    "code": "orlvschi-08-21-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "ORL",
+      "nickname": "Orlando",
+      "city": "Orlando",
+      "logoClass": "mls-orl"
+    },
+    "away": {
+      "abbreviation": "CHI",
+      "nickname": "Chicago",
+      "city": "Chicago",
+      "logoClass": "mls-chi"
     },
     "date": "2021-08-22T00:00:00.000Z"
   },
@@ -29420,6 +29400,26 @@
     "date": "2021-09-26T23:00:00.000Z"
   },
   {
+    "code": "atlvsmia-09-29-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "ATL",
+      "nickname": "Atlanta",
+      "city": "Atlanta",
+      "logoClass": "mls-atl"
+    },
+    "away": {
+      "abbreviation": "MIA",
+      "nickname": "Miami",
+      "city": "Miami",
+      "logoClass": "mls-mia"
+    },
+    "date": "2021-09-29T23:00:00.000Z"
+  },
+  {
     "code": "torvscin-09-29-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
@@ -29438,26 +29438,6 @@
       "logoClass": "mls-cin"
     },
     "date": "2021-09-29T23:00:00.000Z"
-  },
-  {
-    "code": "atlvsmia-09-29-2021",
-    "description": "",
-    "competitionDescription": "MLS Regular Season",
-    "league": "MLS",
-    "status": "future",
-    "home": {
-      "abbreviation": "ATL",
-      "nickname": "Atlanta",
-      "city": "Atlanta",
-      "logoClass": "mls-atl"
-    },
-    "away": {
-      "abbreviation": "MIA",
-      "nickname": "Miami",
-      "city": "Miami",
-      "logoClass": "mls-mia"
-    },
-    "date": "2021-09-29T23:30:00.000Z"
   },
   {
     "code": "mtlvsne-09-29-2021",

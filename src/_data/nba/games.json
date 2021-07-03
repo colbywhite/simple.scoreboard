@@ -24241,10 +24241,10 @@
   },
   {
     "code": "20210630/PHXLAC",
-    "description": "PHX leads series 3-2",
+    "description": "PHX wins series 4-2",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "LAC",
       "nickname": "Clippers",
@@ -24261,10 +24261,10 @@
   },
   {
     "code": "20210701/ATLMIL",
-    "description": "Series tied 2-2",
+    "description": "MIL leads series 3-2",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "MIL",
       "nickname": "Bucks",
@@ -24280,28 +24280,8 @@
     "date": "2021-07-02T00:30:00.000Z"
   },
   {
-    "code": "20210702/LACPHX",
-    "description": "PHX leads series 3-2",
-    "competitionDescription": "NBA",
-    "league": "NBA",
-    "status": "future",
-    "home": {
-      "abbreviation": "PHX",
-      "nickname": "Suns",
-      "city": "Phoenix",
-      "logoClass": "nba-phx"
-    },
-    "away": {
-      "abbreviation": "LAC",
-      "nickname": "Clippers",
-      "city": "LA",
-      "logoClass": "nba-lac"
-    },
-    "date": "2021-07-03T01:00:00.000Z"
-  },
-  {
     "code": "20210703/MILATL",
-    "description": "Series tied 2-2",
+    "description": "MIL leads series 3-2",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -24321,7 +24301,7 @@
   },
   {
     "code": "20210705/ATLMIL",
-    "description": "Series tied 2-2",
+    "description": "MIL leads series 3-2",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
