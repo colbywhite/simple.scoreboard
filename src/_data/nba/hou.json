@@ -1,0 +1,1522 @@
+[
+  {
+    "code": "20201211/HOUCHI",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "CHI",
+      "nickname": "Bulls",
+      "city": "Chicago",
+      "logoClass": "nba-chi"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2020-12-12T00:00:00.000Z"
+  },
+  {
+    "code": "20201213/HOUCHI",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "CHI",
+      "nickname": "Bulls",
+      "city": "Chicago",
+      "logoClass": "nba-chi"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2020-12-14T00:00:00.000Z"
+  },
+  {
+    "code": "20201215/SASHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "SAS",
+      "nickname": "Spurs",
+      "city": "San Antonio",
+      "logoClass": "nba-sas"
+    },
+    "date": "2020-12-16T00:00:00.000Z"
+  },
+  {
+    "code": "20201217/SASHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "SAS",
+      "nickname": "Spurs",
+      "city": "San Antonio",
+      "logoClass": "nba-sas"
+    },
+    "date": "2020-12-18T00:00:00.000Z"
+  },
+  {
+    "code": "20201226/HOUPOR",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "POR",
+      "nickname": "Trail Blazers",
+      "city": "Portland",
+      "logoClass": "nba-por"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2020-12-27T02:00:00.000Z"
+  },
+  {
+    "code": "20201228/HOUDEN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver",
+      "logoClass": "nba-den"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2020-12-29T01:00:00.000Z"
+  },
+  {
+    "code": "20201231/SACHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "SAC",
+      "nickname": "Kings",
+      "city": "Sacramento",
+      "logoClass": "nba-sac"
+    },
+    "date": "2020-12-31T23:00:00.000Z"
+  },
+  {
+    "code": "20210102/SACHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "SAC",
+      "nickname": "Kings",
+      "city": "Sacramento",
+      "logoClass": "nba-sac"
+    },
+    "date": "2021-01-02T21:00:00.000Z"
+  },
+  {
+    "code": "20210104/DALHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "DAL",
+      "nickname": "Mavericks",
+      "city": "Dallas",
+      "logoClass": "nba-dal"
+    },
+    "date": "2021-01-05T00:00:00.000Z"
+  },
+  {
+    "code": "20210106/HOUIND",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "IND",
+      "nickname": "Pacers",
+      "city": "Indiana",
+      "logoClass": "nba-ind"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-01-06T23:00:00.000Z"
+  },
+  {
+    "code": "20210108/ORLHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "ORL",
+      "nickname": "Magic",
+      "city": "Orlando",
+      "logoClass": "nba-orl"
+    },
+    "date": "2021-01-09T00:00:00.000Z"
+  },
+  {
+    "code": "20210110/LALHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "LAL",
+      "nickname": "Lakers",
+      "city": "Los Angeles",
+      "logoClass": "nba-lal"
+    },
+    "date": "2021-01-10T23:00:00.000Z"
+  },
+  {
+    "code": "20210112/LALHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "LAL",
+      "nickname": "Lakers",
+      "city": "Los Angeles",
+      "logoClass": "nba-lal"
+    },
+    "date": "2021-01-13T00:00:00.000Z"
+  },
+  {
+    "code": "20210114/HOUSAS",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "SAS",
+      "nickname": "Spurs",
+      "city": "San Antonio",
+      "logoClass": "nba-sas"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-01-14T23:30:00.000Z"
+  },
+  {
+    "code": "20210116/HOUSAS",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "SAS",
+      "nickname": "Spurs",
+      "city": "San Antonio",
+      "logoClass": "nba-sas"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-01-16T21:00:00.000Z"
+  },
+  {
+    "code": "20210118/HOUCHI",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "CHI",
+      "nickname": "Bulls",
+      "city": "Chicago",
+      "logoClass": "nba-chi"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-01-19T00:00:00.000Z"
+  },
+  {
+    "code": "20210120/PHXHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "date": "2021-01-21T01:30:00.000Z"
+  },
+  {
+    "code": "20210122/HOUDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-01-22T23:00:00.000Z"
+  },
+  {
+    "code": "20210123/HOUDAL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DAL",
+      "nickname": "Mavericks",
+      "city": "Dallas",
+      "logoClass": "nba-dal"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-01-24T01:00:00.000Z"
+  },
+  {
+    "code": "20210126/WASHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "WAS",
+      "nickname": "Wizards",
+      "city": "Washington",
+      "logoClass": "nba-was"
+    },
+    "date": "2021-01-27T00:00:00.000Z"
+  },
+  {
+    "code": "20210128/PORHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "POR",
+      "nickname": "Trail Blazers",
+      "city": "Portland",
+      "logoClass": "nba-por"
+    },
+    "date": "2021-01-28T23:30:00.000Z"
+  },
+  {
+    "code": "20210130/HOUNOP",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "NOP",
+      "nickname": "Pelicans",
+      "city": "New Orleans",
+      "logoClass": "nba-nop"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-01-31T00:00:00.000Z"
+  },
+  {
+    "code": "20210201/HOUOKC",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "OKC",
+      "nickname": "Thunder",
+      "city": "Oklahoma City",
+      "logoClass": "nba-okc"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-02-02T00:00:00.000Z"
+  },
+  {
+    "code": "20210203/HOUOKC",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "OKC",
+      "nickname": "Thunder",
+      "city": "Oklahoma City",
+      "logoClass": "nba-okc"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-02-04T00:00:00.000Z"
+  },
+  {
+    "code": "20210204/HOUMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-02-05T01:00:00.000Z"
+  },
+  {
+    "code": "20210206/SASHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "SAS",
+      "nickname": "Spurs",
+      "city": "San Antonio",
+      "logoClass": "nba-sas"
+    },
+    "date": "2021-02-07T00:00:00.000Z"
+  },
+  {
+    "code": "20210208/HOUCHA",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "CHA",
+      "nickname": "Hornets",
+      "city": "Charlotte",
+      "logoClass": "nba-cha"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-02-08T23:00:00.000Z"
+  },
+  {
+    "code": "20210209/HOUNOP",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "NOP",
+      "nickname": "Pelicans",
+      "city": "New Orleans",
+      "logoClass": "nba-nop"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-02-09T23:30:00.000Z"
+  },
+  {
+    "code": "20210211/MIAHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "MIA",
+      "nickname": "Heat",
+      "city": "Miami",
+      "logoClass": "nba-mia"
+    },
+    "date": "2021-02-11T23:30:00.000Z"
+  },
+  {
+    "code": "20210213/HOUNYK",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "NYK",
+      "nickname": "Knicks",
+      "city": "New York",
+      "logoClass": "nba-nyk"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-02-14T00:00:00.000Z"
+  },
+  {
+    "code": "20210215/HOUWAS",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "WAS",
+      "nickname": "Wizards",
+      "city": "Washington",
+      "logoClass": "nba-was"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-02-15T23:00:00.000Z"
+  },
+  {
+    "code": "20210217/HOUPHI",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "PHI",
+      "nickname": "76ers",
+      "city": "Philadelphia",
+      "logoClass": "nba-phi"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-02-17T23:30:00.000Z"
+  },
+  {
+    "code": "20210222/CHIHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "CHI",
+      "nickname": "Bulls",
+      "city": "Chicago",
+      "logoClass": "nba-chi"
+    },
+    "date": "2021-02-23T00:00:00.000Z"
+  },
+  {
+    "code": "20210224/HOUCLE",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "CLE",
+      "nickname": "Cavaliers",
+      "city": "Cleveland",
+      "logoClass": "nba-cle"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-02-24T23:30:00.000Z"
+  },
+  {
+    "code": "20210226/HOUTOR",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "TOR",
+      "nickname": "Raptors",
+      "city": "Toronto",
+      "logoClass": "nba-tor"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-02-26T23:30:00.000Z"
+  },
+  {
+    "code": "20210228/MEMHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-03-01T00:00:00.000Z"
+  },
+  {
+    "code": "20210301/CLEHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "CLE",
+      "nickname": "Cavaliers",
+      "city": "Cleveland",
+      "logoClass": "nba-cle"
+    },
+    "date": "2021-03-02T01:00:00.000Z"
+  },
+  {
+    "code": "20210303/BKNHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "BKN",
+      "nickname": "Nets",
+      "city": "Brooklyn",
+      "logoClass": "nba-bkn"
+    },
+    "date": "2021-03-03T23:30:00.000Z"
+  },
+  {
+    "code": "20210311/HOUSAC",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "SAC",
+      "nickname": "Kings",
+      "city": "Sacramento",
+      "logoClass": "nba-sac"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-03-12T02:00:00.000Z"
+  },
+  {
+    "code": "20210312/HOUUTA",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah",
+      "logoClass": "nba-uta"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-03-13T02:00:00.000Z"
+  },
+  {
+    "code": "20210314/BOSHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "BOS",
+      "nickname": "Celtics",
+      "city": "Boston",
+      "logoClass": "nba-bos"
+    },
+    "date": "2021-03-15T00:00:00.000Z"
+  },
+  {
+    "code": "20210316/ATLHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta",
+      "logoClass": "nba-atl"
+    },
+    "date": "2021-03-17T00:00:00.000Z"
+  },
+  {
+    "code": "20210317/GSWHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "GSW",
+      "nickname": "Warriors",
+      "city": "Golden State",
+      "logoClass": "nba-gsw"
+    },
+    "date": "2021-03-18T00:00:00.000Z"
+  },
+  {
+    "code": "20210319/DETHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-03-20T00:00:00.000Z"
+  },
+  {
+    "code": "20210321/OKCHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "OKC",
+      "nickname": "Thunder",
+      "city": "Oklahoma City",
+      "logoClass": "nba-okc"
+    },
+    "date": "2021-03-21T18:00:00.000Z"
+  },
+  {
+    "code": "20210322/TORHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "TOR",
+      "nickname": "Raptors",
+      "city": "Toronto",
+      "logoClass": "nba-tor"
+    },
+    "date": "2021-03-23T01:00:00.000Z"
+  },
+  {
+    "code": "20210324/CHAHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "CHA",
+      "nickname": "Hornets",
+      "city": "Charlotte",
+      "logoClass": "nba-cha"
+    },
+    "date": "2021-03-25T00:00:00.000Z"
+  },
+  {
+    "code": "20210326/HOUMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-03-27T00:00:00.000Z"
+  },
+  {
+    "code": "20210327/HOUMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-03-28T00:00:00.000Z"
+  },
+  {
+    "code": "20210329/MEMHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-03-30T00:00:00.000Z"
+  },
+  {
+    "code": "20210331/HOUBKN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "BKN",
+      "nickname": "Nets",
+      "city": "Brooklyn",
+      "logoClass": "nba-bkn"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-03-31T23:30:00.000Z"
+  },
+  {
+    "code": "20210402/HOUBOS",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "BOS",
+      "nickname": "Celtics",
+      "city": "Boston",
+      "logoClass": "nba-bos"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-04-02T23:30:00.000Z"
+  },
+  {
+    "code": "20210404/NOPHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "NOP",
+      "nickname": "Pelicans",
+      "city": "New Orleans",
+      "logoClass": "nba-nop"
+    },
+    "date": "2021-04-05T00:00:00.000Z"
+  },
+  {
+    "code": "20210405/PHXHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "date": "2021-04-06T00:00:00.000Z"
+  },
+  {
+    "code": "20210407/DALHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "DAL",
+      "nickname": "Mavericks",
+      "city": "Dallas",
+      "logoClass": "nba-dal"
+    },
+    "date": "2021-04-08T00:00:00.000Z"
+  },
+  {
+    "code": "20210409/HOULAC",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA",
+      "logoClass": "nba-lac"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-04-10T02:00:00.000Z"
+  },
+  {
+    "code": "20210410/HOUGSW",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "GSW",
+      "nickname": "Warriors",
+      "city": "Golden State",
+      "logoClass": "nba-gsw"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-04-11T02:00:00.000Z"
+  },
+  {
+    "code": "20210412/HOUPHX",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-04-13T02:00:00.000Z"
+  },
+  {
+    "code": "20210414/INDHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "IND",
+      "nickname": "Pacers",
+      "city": "Indiana",
+      "logoClass": "nba-ind"
+    },
+    "date": "2021-04-15T01:00:00.000Z"
+  },
+  {
+    "code": "20210416/DENHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver",
+      "logoClass": "nba-den"
+    },
+    "date": "2021-04-17T00:00:00.000Z"
+  },
+  {
+    "code": "20210418/HOUORL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "ORL",
+      "nickname": "Magic",
+      "city": "Orlando",
+      "logoClass": "nba-orl"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-04-18T23:00:00.000Z"
+  },
+  {
+    "code": "20210419/HOUMIA",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIA",
+      "nickname": "Heat",
+      "city": "Miami",
+      "logoClass": "nba-mia"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-04-20T00:00:00.000Z"
+  },
+  {
+    "code": "20210421/UTAHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah",
+      "logoClass": "nba-uta"
+    },
+    "date": "2021-04-22T00:00:00.000Z"
+  },
+  {
+    "code": "20210423/LACHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA",
+      "logoClass": "nba-lac"
+    },
+    "date": "2021-04-24T00:00:00.000Z"
+  },
+  {
+    "code": "20210424/HOUDEN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver",
+      "logoClass": "nba-den"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-04-25T02:00:00.000Z"
+  },
+  {
+    "code": "20210427/MINHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-04-28T01:00:00.000Z"
+  },
+  {
+    "code": "20210429/MILHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "date": "2021-04-30T00:00:00.000Z"
+  },
+  {
+    "code": "20210501/GSWHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "GSW",
+      "nickname": "Warriors",
+      "city": "Golden State",
+      "logoClass": "nba-gsw"
+    },
+    "date": "2021-05-01T23:30:00.000Z"
+  },
+  {
+    "code": "20210502/NYKHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "NYK",
+      "nickname": "Knicks",
+      "city": "New York",
+      "logoClass": "nba-nyk"
+    },
+    "date": "2021-05-03T00:00:00.000Z"
+  },
+  {
+    "code": "20210505/PHIHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "PHI",
+      "nickname": "76ers",
+      "city": "Philadelphia",
+      "logoClass": "nba-phi"
+    },
+    "date": "2021-05-06T00:00:00.000Z"
+  },
+  {
+    "code": "20210507/HOUMIL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-05-08T00:00:00.000Z"
+  },
+  {
+    "code": "20210508/HOUUTA",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah",
+      "logoClass": "nba-uta"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-05-09T02:00:00.000Z"
+  },
+  {
+    "code": "20210510/HOUPOR",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "POR",
+      "nickname": "Trail Blazers",
+      "city": "Portland",
+      "logoClass": "nba-por"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-05-11T02:00:00.000Z"
+  },
+  {
+    "code": "20210512/HOULAL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "LAL",
+      "nickname": "Lakers",
+      "city": "Los Angeles",
+      "logoClass": "nba-lal"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-05-13T02:30:00.000Z"
+  },
+  {
+    "code": "20210514/LACHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA",
+      "logoClass": "nba-lac"
+    },
+    "date": "2021-05-15T01:00:00.000Z"
+  },
+  {
+    "code": "20210516/HOUATL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta",
+      "logoClass": "nba-atl"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-05-16T23:00:00.000Z"
+  }
+]

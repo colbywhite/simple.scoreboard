@@ -1,0 +1,522 @@
+[
+  {
+    "code": "mtlvsdc-06-23-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "away": {
+      "abbreviation": "DC",
+      "nickname": "D.C.",
+      "city": "D.C.",
+      "logoClass": "mls-dc"
+    },
+    "date": "2021-06-24T00:00:00.000Z"
+  },
+  {
+    "code": "nshvsmtl-06-26-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "NSH",
+      "nickname": "Nashville",
+      "city": "Nashville",
+      "logoClass": "mls-nsh"
+    },
+    "away": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "date": "2021-06-27T00:30:00.000Z"
+  },
+  {
+    "code": "mtlvsmia-07-03-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "away": {
+      "abbreviation": "MIA",
+      "nickname": "Miami",
+      "city": "Miami",
+      "logoClass": "mls-mia"
+    },
+    "date": "2021-07-03T23:30:00.000Z"
+  },
+  {
+    "code": "mtlvsnyc-07-07-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "away": {
+      "abbreviation": "NYC",
+      "nickname": "New York City",
+      "city": "New York City",
+      "logoClass": "mls-nyc"
+    },
+    "date": "2021-07-07T23:30:00.000Z"
+  },
+  {
+    "code": "mtlvscin-07-17-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "away": {
+      "abbreviation": "CIN",
+      "nickname": "Cincinnati",
+      "city": "Cincinnati",
+      "logoClass": "mls-cin"
+    },
+    "date": "2021-07-17T23:30:00.000Z"
+  },
+  {
+    "code": "nycvsmtl-07-21-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "NYC",
+      "nickname": "New York City",
+      "city": "New York City",
+      "logoClass": "mls-nyc"
+    },
+    "away": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "date": "2021-07-21T23:30:00.000Z"
+  },
+  {
+    "code": "nevsmtl-07-25-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "NE",
+      "nickname": "New England",
+      "city": "New England",
+      "logoClass": "mls-ne"
+    },
+    "away": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "date": "2021-07-25T22:00:00.000Z"
+  },
+  {
+    "code": "miavsmtl-07-31-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIA",
+      "nickname": "Miami",
+      "city": "Miami",
+      "logoClass": "mls-mia"
+    },
+    "away": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "date": "2021-08-01T00:00:00.000Z"
+  },
+  {
+    "code": "mtlvsatl-08-04-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Atlanta",
+      "city": "Atlanta",
+      "logoClass": "mls-atl"
+    },
+    "date": "2021-08-04T23:30:00.000Z"
+  },
+  {
+    "code": "dcvsmtl-08-08-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "DC",
+      "nickname": "D.C.",
+      "city": "D.C.",
+      "logoClass": "mls-dc"
+    },
+    "away": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "date": "2021-08-09T00:00:00.000Z"
+  },
+  {
+    "code": "mtlvsrbny-08-14-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "away": {
+      "abbreviation": "RBNY",
+      "nickname": "New York",
+      "city": "New York",
+      "logoClass": "mls-rbny"
+    },
+    "date": "2021-08-15T00:00:00.000Z"
+  },
+  {
+    "code": "cinvsmtl-08-18-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CIN",
+      "nickname": "Cincinnati",
+      "city": "Cincinnati",
+      "logoClass": "mls-cin"
+    },
+    "away": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "date": "2021-08-18T23:30:00.000Z"
+  },
+  {
+    "code": "phivsmtl-08-21-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHI",
+      "nickname": "Philadelphia",
+      "city": "Philadelphia",
+      "logoClass": "mls-phi"
+    },
+    "away": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "date": "2021-08-22T00:00:00.000Z"
+  },
+  {
+    "code": "mtlvstor-08-27-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "away": {
+      "abbreviation": "TOR",
+      "nickname": "Toronto",
+      "city": "Toronto",
+      "logoClass": "mls-tor"
+    },
+    "date": "2021-08-27T23:30:00.000Z"
+  },
+  {
+    "code": "mtlvsnsh-09-12-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "away": {
+      "abbreviation": "NSH",
+      "nickname": "Nashville",
+      "city": "Nashville",
+      "logoClass": "mls-nsh"
+    },
+    "date": "2021-09-12T17:00:00.000Z"
+  },
+  {
+    "code": "orlvsmtl-09-15-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "ORL",
+      "nickname": "Orlando",
+      "city": "Orlando",
+      "logoClass": "mls-orl"
+    },
+    "away": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "date": "2021-09-15T23:30:00.000Z"
+  },
+  {
+    "code": "mtlvschi-09-19-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "away": {
+      "abbreviation": "CHI",
+      "nickname": "Chicago",
+      "city": "Chicago",
+      "logoClass": "mls-chi"
+    },
+    "date": "2021-09-19T17:00:00.000Z"
+  },
+  {
+    "code": "clbvsmtl-09-25-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "away": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "date": "2021-09-25T23:30:00.000Z"
+  },
+  {
+    "code": "mtlvsne-09-29-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "away": {
+      "abbreviation": "NE",
+      "nickname": "New England",
+      "city": "New England",
+      "logoClass": "mls-ne"
+    },
+    "date": "2021-09-29T23:30:00.000Z"
+  },
+  {
+    "code": "mtlvsatl-10-02-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Atlanta",
+      "city": "Atlanta",
+      "logoClass": "mls-atl"
+    },
+    "date": "2021-10-02T23:00:00.000Z"
+  },
+  {
+    "code": "mtlvsphi-10-16-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "away": {
+      "abbreviation": "PHI",
+      "nickname": "Philadelphia",
+      "city": "Philadelphia",
+      "logoClass": "mls-phi"
+    },
+    "date": "2021-10-16T17:00:00.000Z"
+  },
+  {
+    "code": "orlvsmtl-10-20-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "ORL",
+      "nickname": "Orlando",
+      "city": "Orlando",
+      "logoClass": "mls-orl"
+    },
+    "away": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "date": "2021-10-20T23:30:00.000Z"
+  },
+  {
+    "code": "torvsmtl-10-23-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "tbd",
+    "home": {
+      "abbreviation": "TOR",
+      "nickname": "Toronto",
+      "city": "Toronto",
+      "logoClass": "mls-tor"
+    },
+    "away": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "date": "2021-10-23T11:00:00.000Z"
+  },
+  {
+    "code": "rbnyvsmtl-10-30-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "RBNY",
+      "nickname": "New York",
+      "city": "New York",
+      "logoClass": "mls-rbny"
+    },
+    "away": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "date": "2021-10-30T20:00:00.000Z"
+  },
+  {
+    "code": "mtlvshou-11-03-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Houston",
+      "city": "Houston",
+      "logoClass": "mls-hou"
+    },
+    "date": "2021-11-04T00:30:00.000Z"
+  },
+  {
+    "code": "mtlvsorl-11-07-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "away": {
+      "abbreviation": "ORL",
+      "nickname": "Orlando",
+      "city": "Orlando",
+      "logoClass": "mls-orl"
+    },
+    "date": "2021-11-07T20:30:00.000Z"
+  }
+]

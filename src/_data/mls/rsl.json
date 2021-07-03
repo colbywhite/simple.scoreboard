@@ -1,0 +1,562 @@
+[
+  {
+    "code": "rslvsvan-06-18-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "away": {
+      "abbreviation": "VAN",
+      "nickname": "Vancouver",
+      "city": "Vancouver",
+      "logoClass": "mls-van"
+    },
+    "date": "2021-06-19T02:00:00.000Z"
+  },
+  {
+    "code": "seavsrsl-06-23-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "away": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "date": "2021-06-24T02:00:00.000Z"
+  },
+  {
+    "code": "rslvshou-06-26-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Houston",
+      "city": "Houston",
+      "logoClass": "mls-hou"
+    },
+    "date": "2021-06-27T00:00:00.000Z"
+  },
+  {
+    "code": "rslvslafc-07-03-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "away": {
+      "abbreviation": "LAFC",
+      "nickname": "LAFC",
+      "city": "LAFC",
+      "logoClass": "mls-lafc"
+    },
+    "date": "2021-07-04T02:00:00.000Z"
+  },
+  {
+    "code": "vanvsrsl-07-07-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "VAN",
+      "nickname": "Vancouver",
+      "city": "Vancouver",
+      "logoClass": "mls-van"
+    },
+    "away": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "date": "2021-07-08T02:00:00.000Z"
+  },
+  {
+    "code": "lafcvsrsl-07-17-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "LAFC",
+      "nickname": "LAFC",
+      "city": "LAFC",
+      "logoClass": "mls-lafc"
+    },
+    "away": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "date": "2021-07-18T02:30:00.000Z"
+  },
+  {
+    "code": "rslvsla-07-21-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "away": {
+      "abbreviation": "LA",
+      "nickname": "LA",
+      "city": "LA",
+      "logoClass": "mls-la"
+    },
+    "date": "2021-07-22T02:00:00.000Z"
+  },
+  {
+    "code": "rslvscol-07-24-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "away": {
+      "abbreviation": "COL",
+      "nickname": "Colorado",
+      "city": "Colorado",
+      "logoClass": "mls-col"
+    },
+    "date": "2021-07-25T02:00:00.000Z"
+  },
+  {
+    "code": "houvsrsl-07-31-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Houston",
+      "city": "Houston",
+      "logoClass": "mls-hou"
+    },
+    "away": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "date": "2021-08-01T00:30:00.000Z"
+  },
+  {
+    "code": "lavsrsl-08-04-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "LA",
+      "nickname": "LA",
+      "city": "LA",
+      "logoClass": "mls-la"
+    },
+    "away": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "date": "2021-08-05T02:30:00.000Z"
+  },
+  {
+    "code": "porvsrsl-08-07-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "POR",
+      "nickname": "Portland",
+      "city": "Portland",
+      "logoClass": "mls-por"
+    },
+    "away": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "date": "2021-08-08T02:30:00.000Z"
+  },
+  {
+    "code": "rslvsatx-08-14-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "away": {
+      "abbreviation": "ATX",
+      "nickname": "Austin",
+      "city": "Austin",
+      "logoClass": "mls-atx"
+    },
+    "date": "2021-08-15T02:00:00.000Z"
+  },
+  {
+    "code": "rslvshou-08-18-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Houston",
+      "city": "Houston",
+      "logoClass": "mls-hou"
+    },
+    "date": "2021-08-19T02:00:00.000Z"
+  },
+  {
+    "code": "colvsrsl-08-21-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "COL",
+      "nickname": "Colorado",
+      "city": "Colorado",
+      "logoClass": "mls-col"
+    },
+    "away": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "date": "2021-08-22T01:00:00.000Z"
+  },
+  {
+    "code": "vanvsrsl-08-28-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "VAN",
+      "nickname": "Vancouver",
+      "city": "Vancouver",
+      "logoClass": "mls-van"
+    },
+    "away": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "date": "2021-08-29T02:00:00.000Z"
+  },
+  {
+    "code": "rslvsdal-09-04-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "away": {
+      "abbreviation": "DAL",
+      "nickname": "Dallas",
+      "city": "Dallas",
+      "logoClass": "mls-dal"
+    },
+    "date": "2021-09-05T00:00:00.000Z"
+  },
+  {
+    "code": "lafcvsrsl-09-12-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "LAFC",
+      "nickname": "LAFC",
+      "city": "LAFC",
+      "logoClass": "mls-lafc"
+    },
+    "away": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "date": "2021-09-13T02:30:00.000Z"
+  },
+  {
+    "code": "sjvsrsl-09-15-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "SJ",
+      "nickname": "San Jose",
+      "city": "San Jose",
+      "logoClass": "mls-sj"
+    },
+    "away": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "date": "2021-09-16T02:30:00.000Z"
+  },
+  {
+    "code": "rslvssea-09-18-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "away": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "date": "2021-09-19T01:30:00.000Z"
+  },
+  {
+    "code": "porvsrsl-09-25-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "POR",
+      "nickname": "Portland",
+      "city": "Portland",
+      "logoClass": "mls-por"
+    },
+    "away": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "date": "2021-09-26T02:30:00.000Z"
+  },
+  {
+    "code": "rslvsla-09-29-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "away": {
+      "abbreviation": "LA",
+      "nickname": "LA",
+      "city": "LA",
+      "logoClass": "mls-la"
+    },
+    "date": "2021-09-30T01:30:00.000Z"
+  },
+  {
+    "code": "atxvsrsl-10-02-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "ATX",
+      "nickname": "Austin",
+      "city": "Austin",
+      "logoClass": "mls-atx"
+    },
+    "away": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "date": "2021-10-02T19:30:00.000Z"
+  },
+  {
+    "code": "rslvscol-10-16-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "away": {
+      "abbreviation": "COL",
+      "nickname": "Colorado",
+      "city": "Colorado",
+      "logoClass": "mls-col"
+    },
+    "date": "2021-10-17T01:30:00.000Z"
+  },
+  {
+    "code": "chivsrsl-10-23-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CHI",
+      "nickname": "Chicago",
+      "city": "Chicago",
+      "logoClass": "mls-chi"
+    },
+    "away": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "date": "2021-10-24T00:00:00.000Z"
+  },
+  {
+    "code": "dalvsrsl-10-27-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "DAL",
+      "nickname": "Dallas",
+      "city": "Dallas",
+      "logoClass": "mls-dal"
+    },
+    "away": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "date": "2021-10-28T00:00:00.000Z"
+  },
+  {
+    "code": "rslvssj-10-30-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "away": {
+      "abbreviation": "SJ",
+      "nickname": "San Jose",
+      "city": "San Jose",
+      "logoClass": "mls-sj"
+    },
+    "date": "2021-10-30T19:30:00.000Z"
+  },
+  {
+    "code": "rslvspor-11-03-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "away": {
+      "abbreviation": "POR",
+      "nickname": "Portland",
+      "city": "Portland",
+      "logoClass": "mls-por"
+    },
+    "date": "2021-11-04T01:30:00.000Z"
+  },
+  {
+    "code": "skcvsrsl-11-07-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "SKC",
+      "nickname": "Kansas City",
+      "city": "Kansas City",
+      "logoClass": "mls-skc"
+    },
+    "away": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "date": "2021-11-07T23:00:00.000Z"
+  }
+]

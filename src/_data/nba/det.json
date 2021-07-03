@@ -1,0 +1,1522 @@
+[
+  {
+    "code": "20201211/NYKDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "NYK",
+      "nickname": "Knicks",
+      "city": "New York",
+      "logoClass": "nba-nyk"
+    },
+    "date": "2020-12-11T23:00:00.000Z"
+  },
+  {
+    "code": "20201213/NYKDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "NYK",
+      "nickname": "Knicks",
+      "city": "New York",
+      "logoClass": "nba-nyk"
+    },
+    "date": "2020-12-13T23:00:00.000Z"
+  },
+  {
+    "code": "20201217/DETWAS",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "WAS",
+      "nickname": "Wizards",
+      "city": "Washington",
+      "logoClass": "nba-was"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2020-12-17T23:00:00.000Z"
+  },
+  {
+    "code": "20201219/DETWAS",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "WAS",
+      "nickname": "Wizards",
+      "city": "Washington",
+      "logoClass": "nba-was"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2020-12-19T23:00:00.000Z"
+  },
+  {
+    "code": "20201223/DETMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2020-12-24T00:00:00.000Z"
+  },
+  {
+    "code": "20201226/CLEDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "CLE",
+      "nickname": "Cavaliers",
+      "city": "Cleveland",
+      "logoClass": "nba-cle"
+    },
+    "date": "2020-12-26T23:00:00.000Z"
+  },
+  {
+    "code": "20201228/DETATL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta",
+      "logoClass": "nba-atl"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2020-12-28T23:30:00.000Z"
+  },
+  {
+    "code": "20201229/GSWDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "GSW",
+      "nickname": "Warriors",
+      "city": "Golden State",
+      "logoClass": "nba-gsw"
+    },
+    "date": "2020-12-29T23:00:00.000Z"
+  },
+  {
+    "code": "20210101/BOSDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "BOS",
+      "nickname": "Celtics",
+      "city": "Boston",
+      "logoClass": "nba-bos"
+    },
+    "date": "2021-01-01T23:00:00.000Z"
+  },
+  {
+    "code": "20210103/BOSDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "BOS",
+      "nickname": "Celtics",
+      "city": "Boston",
+      "logoClass": "nba-bos"
+    },
+    "date": "2021-01-03T19:00:00.000Z"
+  },
+  {
+    "code": "20210104/DETMIL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-01-05T00:00:00.000Z"
+  },
+  {
+    "code": "20210106/DETMIL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-01-07T00:00:00.000Z"
+  },
+  {
+    "code": "20210108/PHXDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "date": "2021-01-08T23:00:00.000Z"
+  },
+  {
+    "code": "20210110/UTADET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah",
+      "logoClass": "nba-uta"
+    },
+    "date": "2021-01-10T19:00:00.000Z"
+  },
+  {
+    "code": "20210113/MILDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "date": "2021-01-13T23:00:00.000Z"
+  },
+  {
+    "code": "20210116/DETMIA",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIA",
+      "nickname": "Heat",
+      "city": "Miami",
+      "logoClass": "nba-mia"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-01-17T00:00:00.000Z"
+  },
+  {
+    "code": "20210118/DETMIA",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIA",
+      "nickname": "Heat",
+      "city": "Miami",
+      "logoClass": "nba-mia"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-01-19T00:00:00.000Z"
+  },
+  {
+    "code": "20210120/DETATL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta",
+      "logoClass": "nba-atl"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-01-20T23:30:00.000Z"
+  },
+  {
+    "code": "20210122/HOUDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-01-22T23:00:00.000Z"
+  },
+  {
+    "code": "20210123/PHIDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "PHI",
+      "nickname": "76ers",
+      "city": "Philadelphia",
+      "logoClass": "nba-phi"
+    },
+    "date": "2021-01-24T00:00:00.000Z"
+  },
+  {
+    "code": "20210125/PHIDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "PHI",
+      "nickname": "76ers",
+      "city": "Philadelphia",
+      "logoClass": "nba-phi"
+    },
+    "date": "2021-01-25T23:00:00.000Z"
+  },
+  {
+    "code": "20210127/DETCLE",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "CLE",
+      "nickname": "Cavaliers",
+      "city": "Cleveland",
+      "logoClass": "nba-cle"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-01-27T23:00:00.000Z"
+  },
+  {
+    "code": "20210128/LALDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "LAL",
+      "nickname": "Lakers",
+      "city": "Los Angeles",
+      "logoClass": "nba-lal"
+    },
+    "date": "2021-01-29T00:00:00.000Z"
+  },
+  {
+    "code": "20210130/DETGSW",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "GSW",
+      "nickname": "Warriors",
+      "city": "Golden State",
+      "logoClass": "nba-gsw"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-01-31T02:00:00.000Z"
+  },
+  {
+    "code": "20210202/DETUTA",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah",
+      "logoClass": "nba-uta"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-02-03T02:00:00.000Z"
+  },
+  {
+    "code": "20210205/DETPHX",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-02-06T01:00:00.000Z"
+  },
+  {
+    "code": "20210206/DETLAL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "LAL",
+      "nickname": "Lakers",
+      "city": "Los Angeles",
+      "logoClass": "nba-lal"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-02-07T02:00:00.000Z"
+  },
+  {
+    "code": "20210209/BKNDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "BKN",
+      "nickname": "Nets",
+      "city": "Brooklyn",
+      "logoClass": "nba-bkn"
+    },
+    "date": "2021-02-09T23:00:00.000Z"
+  },
+  {
+    "code": "20210211/INDDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "IND",
+      "nickname": "Pacers",
+      "city": "Indiana",
+      "logoClass": "nba-ind"
+    },
+    "date": "2021-02-12T00:00:00.000Z"
+  },
+  {
+    "code": "20210212/DETBOS",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "BOS",
+      "nickname": "Celtics",
+      "city": "Boston",
+      "logoClass": "nba-bos"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-02-13T00:00:00.000Z"
+  },
+  {
+    "code": "20210214/NOPDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "NOP",
+      "nickname": "Pelicans",
+      "city": "New Orleans",
+      "logoClass": "nba-nop"
+    },
+    "date": "2021-02-14T23:00:00.000Z"
+  },
+  {
+    "code": "20210217/DETCHI",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "CHI",
+      "nickname": "Bulls",
+      "city": "Chicago",
+      "logoClass": "nba-chi"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-02-18T00:00:00.000Z"
+  },
+  {
+    "code": "20210219/DETMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-02-20T00:00:00.000Z"
+  },
+  {
+    "code": "20210221/DETORL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "ORL",
+      "nickname": "Magic",
+      "city": "Orlando",
+      "logoClass": "nba-orl"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-02-21T23:00:00.000Z"
+  },
+  {
+    "code": "20210223/DETORL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "ORL",
+      "nickname": "Magic",
+      "city": "Orlando",
+      "logoClass": "nba-orl"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-02-23T23:00:00.000Z"
+  },
+  {
+    "code": "20210224/DETNOP",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "NOP",
+      "nickname": "Pelicans",
+      "city": "New Orleans",
+      "logoClass": "nba-nop"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-02-25T00:00:00.000Z"
+  },
+  {
+    "code": "20210226/SACDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "SAC",
+      "nickname": "Kings",
+      "city": "Sacramento",
+      "logoClass": "nba-sac"
+    },
+    "date": "2021-02-27T00:00:00.000Z"
+  },
+  {
+    "code": "20210228/NYKDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "NYK",
+      "nickname": "Knicks",
+      "city": "New York",
+      "logoClass": "nba-nyk"
+    },
+    "date": "2021-03-01T00:00:00.000Z"
+  },
+  {
+    "code": "20210303/DETTOR",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "TOR",
+      "nickname": "Raptors",
+      "city": "Toronto",
+      "logoClass": "nba-tor"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-03-03T23:00:00.000Z"
+  },
+  {
+    "code": "20210304/DETNYK",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "NYK",
+      "nickname": "Knicks",
+      "city": "New York",
+      "logoClass": "nba-nyk"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-03-04T23:30:00.000Z"
+  },
+  {
+    "code": "20210311/DETCHA",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "CHA",
+      "nickname": "Hornets",
+      "city": "Charlotte",
+      "logoClass": "nba-cha"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-03-11T23:00:00.000Z"
+  },
+  {
+    "code": "20210313/DETBKN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "BKN",
+      "nickname": "Nets",
+      "city": "Brooklyn",
+      "logoClass": "nba-bkn"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-03-13T23:00:00.000Z"
+  },
+  {
+    "code": "20210315/SASDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "SAS",
+      "nickname": "Spurs",
+      "city": "San Antonio",
+      "logoClass": "nba-sas"
+    },
+    "date": "2021-03-16T00:00:00.000Z"
+  },
+  {
+    "code": "20210317/TORDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "TOR",
+      "nickname": "Raptors",
+      "city": "Toronto",
+      "logoClass": "nba-tor"
+    },
+    "date": "2021-03-17T23:00:00.000Z"
+  },
+  {
+    "code": "20210319/DETHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-03-20T00:00:00.000Z"
+  },
+  {
+    "code": "20210321/CHIDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "CHI",
+      "nickname": "Bulls",
+      "city": "Chicago",
+      "logoClass": "nba-chi"
+    },
+    "date": "2021-03-21T23:00:00.000Z"
+  },
+  {
+    "code": "20210324/DETIND",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "IND",
+      "nickname": "Pacers",
+      "city": "Indiana",
+      "logoClass": "nba-ind"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-03-24T23:00:00.000Z"
+  },
+  {
+    "code": "20210326/BKNDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "BKN",
+      "nickname": "Nets",
+      "city": "Brooklyn",
+      "logoClass": "nba-bkn"
+    },
+    "date": "2021-03-26T23:00:00.000Z"
+  },
+  {
+    "code": "20210327/DETWAS",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "WAS",
+      "nickname": "Wizards",
+      "city": "Washington",
+      "logoClass": "nba-was"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-03-28T00:00:00.000Z"
+  },
+  {
+    "code": "20210329/TORDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "TOR",
+      "nickname": "Raptors",
+      "city": "Toronto",
+      "logoClass": "nba-tor"
+    },
+    "date": "2021-03-30T00:00:00.000Z"
+  },
+  {
+    "code": "20210331/PORDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "POR",
+      "nickname": "Trail Blazers",
+      "city": "Portland",
+      "logoClass": "nba-por"
+    },
+    "date": "2021-03-31T23:00:00.000Z"
+  },
+  {
+    "code": "20210401/WASDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "WAS",
+      "nickname": "Wizards",
+      "city": "Washington",
+      "logoClass": "nba-was"
+    },
+    "date": "2021-04-01T23:00:00.000Z"
+  },
+  {
+    "code": "20210403/NYKDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "NYK",
+      "nickname": "Knicks",
+      "city": "New York",
+      "logoClass": "nba-nyk"
+    },
+    "date": "2021-04-04T00:00:00.000Z"
+  },
+  {
+    "code": "20210405/DETOKC",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "OKC",
+      "nickname": "Thunder",
+      "city": "Oklahoma City",
+      "logoClass": "nba-okc"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-04-05T23:00:00.000Z"
+  },
+  {
+    "code": "20210406/DETDEN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver",
+      "logoClass": "nba-den"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-04-07T01:00:00.000Z"
+  },
+  {
+    "code": "20210408/DETSAC",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "SAC",
+      "nickname": "Kings",
+      "city": "Sacramento",
+      "logoClass": "nba-sac"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-04-09T02:00:00.000Z"
+  },
+  {
+    "code": "20210410/DETPOR",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "POR",
+      "nickname": "Trail Blazers",
+      "city": "Portland",
+      "logoClass": "nba-por"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-04-11T02:00:00.000Z"
+  },
+  {
+    "code": "20210411/DETLAC",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA",
+      "logoClass": "nba-lac"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-04-12T02:00:00.000Z"
+  },
+  {
+    "code": "20210414/LACDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA",
+      "logoClass": "nba-lac"
+    },
+    "date": "2021-04-15T00:00:00.000Z"
+  },
+  {
+    "code": "20210416/OKCDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "OKC",
+      "nickname": "Thunder",
+      "city": "Oklahoma City",
+      "logoClass": "nba-okc"
+    },
+    "date": "2021-04-16T23:00:00.000Z"
+  },
+  {
+    "code": "20210417/DETWAS",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "WAS",
+      "nickname": "Wizards",
+      "city": "Washington",
+      "logoClass": "nba-was"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-04-18T00:00:00.000Z"
+  },
+  {
+    "code": "20210419/CLEDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "CLE",
+      "nickname": "Cavaliers",
+      "city": "Cleveland",
+      "logoClass": "nba-cle"
+    },
+    "date": "2021-04-19T23:00:00.000Z"
+  },
+  {
+    "code": "20210421/DETDAL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DAL",
+      "nickname": "Mavericks",
+      "city": "Dallas",
+      "logoClass": "nba-dal"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-04-22T00:30:00.000Z"
+  },
+  {
+    "code": "20210422/DETSAS",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "SAS",
+      "nickname": "Spurs",
+      "city": "San Antonio",
+      "logoClass": "nba-sas"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-04-23T00:30:00.000Z"
+  },
+  {
+    "code": "20210424/DETIND",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "IND",
+      "nickname": "Pacers",
+      "city": "Indiana",
+      "logoClass": "nba-ind"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-04-24T23:00:00.000Z"
+  },
+  {
+    "code": "20210426/ATLDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta",
+      "logoClass": "nba-atl"
+    },
+    "date": "2021-04-26T23:00:00.000Z"
+  },
+  {
+    "code": "20210429/DALDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "DAL",
+      "nickname": "Mavericks",
+      "city": "Dallas",
+      "logoClass": "nba-dal"
+    },
+    "date": "2021-04-29T23:00:00.000Z"
+  },
+  {
+    "code": "20210501/DETCHA",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "CHA",
+      "nickname": "Hornets",
+      "city": "Charlotte",
+      "logoClass": "nba-cha"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-05-01T23:00:00.000Z"
+  },
+  {
+    "code": "20210503/ORLDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "ORL",
+      "nickname": "Magic",
+      "city": "Orlando",
+      "logoClass": "nba-orl"
+    },
+    "date": "2021-05-03T23:00:00.000Z"
+  },
+  {
+    "code": "20210504/CHADET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "CHA",
+      "nickname": "Hornets",
+      "city": "Charlotte",
+      "logoClass": "nba-cha"
+    },
+    "date": "2021-05-04T23:00:00.000Z"
+  },
+  {
+    "code": "20210506/MEMDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-05-07T00:00:00.000Z"
+  },
+  {
+    "code": "20210508/DETPHI",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "PHI",
+      "nickname": "76ers",
+      "city": "Philadelphia",
+      "logoClass": "nba-phi"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-05-08T23:00:00.000Z"
+  },
+  {
+    "code": "20210509/CHIDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "CHI",
+      "nickname": "Bulls",
+      "city": "Chicago",
+      "logoClass": "nba-chi"
+    },
+    "date": "2021-05-10T00:00:00.000Z"
+  },
+  {
+    "code": "20210511/MINDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-05-11T23:00:00.000Z"
+  },
+  {
+    "code": "20210514/DENDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver",
+      "logoClass": "nba-den"
+    },
+    "date": "2021-05-15T00:00:00.000Z"
+  },
+  {
+    "code": "20210516/MIADET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "MIA",
+      "nickname": "Heat",
+      "city": "Miami",
+      "logoClass": "nba-mia"
+    },
+    "date": "2021-05-17T00:00:00.000Z"
+  }
+]

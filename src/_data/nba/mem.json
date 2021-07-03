@@ -1,0 +1,1662 @@
+[
+  {
+    "code": "20201212/MEMMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2020-12-13T00:00:00.000Z"
+  },
+  {
+    "code": "20201214/MEMMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2020-12-15T00:00:00.000Z"
+  },
+  {
+    "code": "20201217/ATLMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta",
+      "logoClass": "nba-atl"
+    },
+    "date": "2020-12-18T00:00:00.000Z"
+  },
+  {
+    "code": "20201219/ATLMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta",
+      "logoClass": "nba-atl"
+    },
+    "date": "2020-12-20T00:00:00.000Z"
+  },
+  {
+    "code": "20201223/SASMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "SAS",
+      "nickname": "Spurs",
+      "city": "San Antonio",
+      "logoClass": "nba-sas"
+    },
+    "date": "2020-12-24T00:00:00.000Z"
+  },
+  {
+    "code": "20201226/ATLMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta",
+      "logoClass": "nba-atl"
+    },
+    "date": "2020-12-26T21:00:00.000Z"
+  },
+  {
+    "code": "20201228/MEMBKN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "BKN",
+      "nickname": "Nets",
+      "city": "Brooklyn",
+      "logoClass": "nba-bkn"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2020-12-28T23:30:00.000Z"
+  },
+  {
+    "code": "20201230/MEMBOS",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "BOS",
+      "nickname": "Celtics",
+      "city": "Boston",
+      "logoClass": "nba-bos"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2020-12-30T23:30:00.000Z"
+  },
+  {
+    "code": "20210101/MEMCHA",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "CHA",
+      "nickname": "Hornets",
+      "city": "Charlotte",
+      "logoClass": "nba-cha"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-01-01T23:00:00.000Z"
+  },
+  {
+    "code": "20210103/LALMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "LAL",
+      "nickname": "Lakers",
+      "city": "Los Angeles",
+      "logoClass": "nba-lal"
+    },
+    "date": "2021-01-03T22:00:00.000Z"
+  },
+  {
+    "code": "20210105/LALMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "LAL",
+      "nickname": "Lakers",
+      "city": "Los Angeles",
+      "logoClass": "nba-lal"
+    },
+    "date": "2021-01-06T00:00:00.000Z"
+  },
+  {
+    "code": "20210107/CLEMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "CLE",
+      "nickname": "Cavaliers",
+      "city": "Cleveland",
+      "logoClass": "nba-cle"
+    },
+    "date": "2021-01-08T00:00:00.000Z"
+  },
+  {
+    "code": "20210108/BKNMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "BKN",
+      "nickname": "Nets",
+      "city": "Brooklyn",
+      "logoClass": "nba-bkn"
+    },
+    "date": "2021-01-09T00:00:00.000Z"
+  },
+  {
+    "code": "20210111/MEMCLE",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "CLE",
+      "nickname": "Cavaliers",
+      "city": "Cleveland",
+      "logoClass": "nba-cle"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-01-11T23:00:00.000Z"
+  },
+  {
+    "code": "20210113/MEMMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-01-14T00:00:00.000Z"
+  },
+  {
+    "code": "20210116/PHIMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "PHI",
+      "nickname": "76ers",
+      "city": "Philadelphia",
+      "logoClass": "nba-phi"
+    },
+    "date": "2021-01-17T00:00:00.000Z"
+  },
+  {
+    "code": "20210118/PHXMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "date": "2021-01-18T21:00:00.000Z"
+  },
+  {
+    "code": "20210130/MEMSAS",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "SAS",
+      "nickname": "Spurs",
+      "city": "San Antonio",
+      "logoClass": "nba-sas"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-01-31T00:30:00.000Z"
+  },
+  {
+    "code": "20210201/MEMSAS",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "SAS",
+      "nickname": "Spurs",
+      "city": "San Antonio",
+      "logoClass": "nba-sas"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-02-02T00:30:00.000Z"
+  },
+  {
+    "code": "20210202/MEMIND",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "IND",
+      "nickname": "Pacers",
+      "city": "Indiana",
+      "logoClass": "nba-ind"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-02-03T00:00:00.000Z"
+  },
+  {
+    "code": "20210204/HOUMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-02-05T01:00:00.000Z"
+  },
+  {
+    "code": "20210206/MEMNOP",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "NOP",
+      "nickname": "Pelicans",
+      "city": "New Orleans",
+      "logoClass": "nba-nop"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-02-07T01:00:00.000Z"
+  },
+  {
+    "code": "20210208/TORMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "TOR",
+      "nickname": "Raptors",
+      "city": "Toronto",
+      "logoClass": "nba-tor"
+    },
+    "date": "2021-02-09T00:00:00.000Z"
+  },
+  {
+    "code": "20210210/CHAMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "CHA",
+      "nickname": "Hornets",
+      "city": "Charlotte",
+      "logoClass": "nba-cha"
+    },
+    "date": "2021-02-11T00:00:00.000Z"
+  },
+  {
+    "code": "20210212/MEMLAL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "LAL",
+      "nickname": "Lakers",
+      "city": "Los Angeles",
+      "logoClass": "nba-lal"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-02-13T02:00:00.000Z"
+  },
+  {
+    "code": "20210214/MEMSAC",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "SAC",
+      "nickname": "Kings",
+      "city": "Sacramento",
+      "logoClass": "nba-sac"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-02-15T02:00:00.000Z"
+  },
+  {
+    "code": "20210216/NOPMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "NOP",
+      "nickname": "Pelicans",
+      "city": "New Orleans",
+      "logoClass": "nba-nop"
+    },
+    "date": "2021-02-17T00:00:00.000Z"
+  },
+  {
+    "code": "20210217/OKCMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "OKC",
+      "nickname": "Thunder",
+      "city": "Oklahoma City",
+      "logoClass": "nba-okc"
+    },
+    "date": "2021-02-18T01:00:00.000Z"
+  },
+  {
+    "code": "20210219/DETMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2021-02-20T00:00:00.000Z"
+  },
+  {
+    "code": "20210220/PHXMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "date": "2021-02-21T01:00:00.000Z"
+  },
+  {
+    "code": "20210222/MEMDAL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DAL",
+      "nickname": "Mavericks",
+      "city": "Dallas",
+      "logoClass": "nba-dal"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-02-23T00:30:00.000Z"
+  },
+  {
+    "code": "20210225/LACMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA",
+      "logoClass": "nba-lac"
+    },
+    "date": "2021-02-26T00:00:00.000Z"
+  },
+  {
+    "code": "20210226/LACMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA",
+      "logoClass": "nba-lac"
+    },
+    "date": "2021-02-27T00:00:00.000Z"
+  },
+  {
+    "code": "20210228/MEMHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-03-01T00:00:00.000Z"
+  },
+  {
+    "code": "20210302/MEMWAS",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "WAS",
+      "nickname": "Wizards",
+      "city": "Washington",
+      "logoClass": "nba-was"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-03-02T23:00:00.000Z"
+  },
+  {
+    "code": "20210304/MILMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "date": "2021-03-05T00:00:00.000Z"
+  },
+  {
+    "code": "20210310/WASMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "WAS",
+      "nickname": "Wizards",
+      "city": "Washington",
+      "logoClass": "nba-was"
+    },
+    "date": "2021-03-11T00:00:00.000Z"
+  },
+  {
+    "code": "20210312/DENMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver",
+      "logoClass": "nba-den"
+    },
+    "date": "2021-03-13T00:00:00.000Z"
+  },
+  {
+    "code": "20210314/MEMOKC",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "OKC",
+      "nickname": "Thunder",
+      "city": "Oklahoma City",
+      "logoClass": "nba-okc"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-03-14T18:00:00.000Z"
+  },
+  {
+    "code": "20210315/MEMPHX",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-03-16T02:00:00.000Z"
+  },
+  {
+    "code": "20210317/MIAMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "MIA",
+      "nickname": "Heat",
+      "city": "Miami",
+      "logoClass": "nba-mia"
+    },
+    "date": "2021-03-18T01:00:00.000Z"
+  },
+  {
+    "code": "20210319/GSWMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "GSW",
+      "nickname": "Warriors",
+      "city": "Golden State",
+      "logoClass": "nba-gsw"
+    },
+    "date": "2021-03-20T00:00:00.000Z"
+  },
+  {
+    "code": "20210320/GSWMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "GSW",
+      "nickname": "Warriors",
+      "city": "Golden State",
+      "logoClass": "nba-gsw"
+    },
+    "date": "2021-03-21T00:00:00.000Z"
+  },
+  {
+    "code": "20210322/BOSMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "BOS",
+      "nickname": "Celtics",
+      "city": "Boston",
+      "logoClass": "nba-bos"
+    },
+    "date": "2021-03-23T01:00:00.000Z"
+  },
+  {
+    "code": "20210324/MEMOKC",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "OKC",
+      "nickname": "Thunder",
+      "city": "Oklahoma City",
+      "logoClass": "nba-okc"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-03-25T00:00:00.000Z"
+  },
+  {
+    "code": "20210326/MEMUTA",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah",
+      "logoClass": "nba-uta"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-03-27T01:00:00.000Z"
+  },
+  {
+    "code": "20210327/MEMUTA",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah",
+      "logoClass": "nba-uta"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-03-28T01:00:00.000Z"
+  },
+  {
+    "code": "20210329/MEMHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-03-30T00:00:00.000Z"
+  },
+  {
+    "code": "20210331/UTAMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah",
+      "logoClass": "nba-uta"
+    },
+    "date": "2021-04-01T00:00:00.000Z"
+  },
+  {
+    "code": "20210402/MINMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-04-03T00:00:00.000Z"
+  },
+  {
+    "code": "20210404/MEMPHI",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "PHI",
+      "nickname": "76ers",
+      "city": "Philadelphia",
+      "logoClass": "nba-phi"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-04-04T23:00:00.000Z"
+  },
+  {
+    "code": "20210406/MEMMIA",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIA",
+      "nickname": "Heat",
+      "city": "Miami",
+      "logoClass": "nba-mia"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-04-07T00:00:00.000Z"
+  },
+  {
+    "code": "20210407/MEMATL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta",
+      "logoClass": "nba-atl"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-04-08T00:00:00.000Z"
+  },
+  {
+    "code": "20210409/MEMNYK",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "NYK",
+      "nickname": "Knicks",
+      "city": "New York",
+      "logoClass": "nba-nyk"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-04-09T23:30:00.000Z"
+  },
+  {
+    "code": "20210411/INDMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "IND",
+      "nickname": "Pacers",
+      "city": "Indiana",
+      "logoClass": "nba-ind"
+    },
+    "date": "2021-04-12T00:00:00.000Z"
+  },
+  {
+    "code": "20210412/CHIMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "CHI",
+      "nickname": "Bulls",
+      "city": "Chicago",
+      "logoClass": "nba-chi"
+    },
+    "date": "2021-04-13T01:00:00.000Z"
+  },
+  {
+    "code": "20210414/DALMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "DAL",
+      "nickname": "Mavericks",
+      "city": "Dallas",
+      "logoClass": "nba-dal"
+    },
+    "date": "2021-04-15T01:30:00.000Z"
+  },
+  {
+    "code": "20210416/MEMCHI",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "CHI",
+      "nickname": "Bulls",
+      "city": "Chicago",
+      "logoClass": "nba-chi"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-04-17T00:00:00.000Z"
+  },
+  {
+    "code": "20210417/MEMMIL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-04-18T01:00:00.000Z"
+  },
+  {
+    "code": "20210419/MEMDEN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver",
+      "logoClass": "nba-den"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-04-20T01:00:00.000Z"
+  },
+  {
+    "code": "20210421/MEMLAC",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA",
+      "logoClass": "nba-lac"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-04-22T02:00:00.000Z"
+  },
+  {
+    "code": "20210423/MEMPOR",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "POR",
+      "nickname": "Trail Blazers",
+      "city": "Portland",
+      "logoClass": "nba-por"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-04-24T02:00:00.000Z"
+  },
+  {
+    "code": "20210425/MEMPOR",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "POR",
+      "nickname": "Trail Blazers",
+      "city": "Portland",
+      "logoClass": "nba-por"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-04-25T20:00:00.000Z"
+  },
+  {
+    "code": "20210426/MEMDEN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver",
+      "logoClass": "nba-den"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-04-27T01:00:00.000Z"
+  },
+  {
+    "code": "20210428/PORMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "POR",
+      "nickname": "Trail Blazers",
+      "city": "Portland",
+      "logoClass": "nba-por"
+    },
+    "date": "2021-04-29T01:00:00.000Z"
+  },
+  {
+    "code": "20210430/ORLMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "ORL",
+      "nickname": "Magic",
+      "city": "Orlando",
+      "logoClass": "nba-orl"
+    },
+    "date": "2021-05-01T00:00:00.000Z"
+  },
+  {
+    "code": "20210501/MEMORL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "ORL",
+      "nickname": "Magic",
+      "city": "Orlando",
+      "logoClass": "nba-orl"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-05-02T00:00:00.000Z"
+  },
+  {
+    "code": "20210503/NYKMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "NYK",
+      "nickname": "Knicks",
+      "city": "New York",
+      "logoClass": "nba-nyk"
+    },
+    "date": "2021-05-04T01:00:00.000Z"
+  },
+  {
+    "code": "20210505/MEMMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-05-06T00:00:00.000Z"
+  },
+  {
+    "code": "20210506/MEMDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-05-07T00:00:00.000Z"
+  },
+  {
+    "code": "20210508/MEMTOR",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "TOR",
+      "nickname": "Raptors",
+      "city": "Toronto",
+      "logoClass": "nba-tor"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-05-08T23:30:00.000Z"
+  },
+  {
+    "code": "20210510/NOPMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "NOP",
+      "nickname": "Pelicans",
+      "city": "New Orleans",
+      "logoClass": "nba-nop"
+    },
+    "date": "2021-05-11T00:00:00.000Z"
+  },
+  {
+    "code": "20210511/DALMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "DAL",
+      "nickname": "Mavericks",
+      "city": "Dallas",
+      "logoClass": "nba-dal"
+    },
+    "date": "2021-05-12T00:00:00.000Z"
+  },
+  {
+    "code": "20210513/SACMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "SAC",
+      "nickname": "Kings",
+      "city": "Sacramento",
+      "logoClass": "nba-sac"
+    },
+    "date": "2021-05-14T00:00:00.000Z"
+  },
+  {
+    "code": "20210514/SACMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "SAC",
+      "nickname": "Kings",
+      "city": "Sacramento",
+      "logoClass": "nba-sac"
+    },
+    "date": "2021-05-15T01:00:00.000Z"
+  },
+  {
+    "code": "20210516/MEMGSW",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "GSW",
+      "nickname": "Warriors",
+      "city": "Golden State",
+      "logoClass": "nba-gsw"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-05-16T19:30:00.000Z"
+  },
+  {
+    "code": "20210519/SASMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "SAS",
+      "nickname": "Spurs",
+      "city": "San Antonio",
+      "logoClass": "nba-sas"
+    },
+    "date": "2021-05-19T23:30:00.000Z"
+  },
+  {
+    "code": "20210521/MEMGSW",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "GSW",
+      "nickname": "Warriors",
+      "city": "Golden State",
+      "logoClass": "nba-gsw"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-05-22T01:00:00.000Z"
+  },
+  {
+    "code": "20210523/MEMUTA",
+    "description": "MEM leads series 1-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah",
+      "logoClass": "nba-uta"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-05-24T01:30:00.000Z"
+  },
+  {
+    "code": "20210526/MEMUTA",
+    "description": "Series tied 1-1",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah",
+      "logoClass": "nba-uta"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-05-27T02:00:00.000Z"
+  },
+  {
+    "code": "20210529/UTAMEM",
+    "description": "UTA leads series 2-1",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah",
+      "logoClass": "nba-uta"
+    },
+    "date": "2021-05-30T01:30:00.000Z"
+  },
+  {
+    "code": "20210531/UTAMEM",
+    "description": "UTA leads series 3-1",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah",
+      "logoClass": "nba-uta"
+    },
+    "date": "2021-06-01T01:30:00.000Z"
+  },
+  {
+    "code": "20210602/MEMUTA",
+    "description": "UTA wins series 4-1",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah",
+      "logoClass": "nba-uta"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-06-03T01:30:00.000Z"
+  }
+]

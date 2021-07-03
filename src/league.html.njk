@@ -7,6 +7,19 @@ permalink: "{{ league }}/index.html"
 ---
 <h1>Upcoming week of {{ league | upper }} games</h1>
 {% set leagueGames = collections.all[0].template.templateData.globalData[league].games %}
+{% set teams = collections.all[0].template.templateData.globalData[league].teams %}
+<nav>
+    <ul>
+        <li>Teams:</li>
+        {% for team in teams %}
+            <li>
+                <a href="{{ team.abbreviation | lower}}.html">
+                    {{ team.abbreviation | upper }}
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+</nav>
 {% for date, _games in leagueGames | nextWeek | groupByDay %}
     <h2>
         <time datetime="{{ date | toDate | iso }}">

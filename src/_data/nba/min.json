@@ -1,0 +1,1502 @@
+[
+  {
+    "code": "20201212/MEMMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2020-12-13T00:00:00.000Z"
+  },
+  {
+    "code": "20201214/MEMMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2020-12-15T00:00:00.000Z"
+  },
+  {
+    "code": "20201217/MINDAL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DAL",
+      "nickname": "Mavericks",
+      "city": "Dallas",
+      "logoClass": "nba-dal"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2020-12-18T00:30:00.000Z"
+  },
+  {
+    "code": "20201223/DETMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "date": "2020-12-24T00:00:00.000Z"
+  },
+  {
+    "code": "20201226/MINUTA",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah",
+      "logoClass": "nba-uta"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2020-12-27T01:00:00.000Z"
+  },
+  {
+    "code": "20201227/MINLAL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "LAL",
+      "nickname": "Lakers",
+      "city": "Los Angeles",
+      "logoClass": "nba-lal"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2020-12-28T02:00:00.000Z"
+  },
+  {
+    "code": "20201229/MINLAC",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA",
+      "logoClass": "nba-lac"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2020-12-30T02:00:00.000Z"
+  },
+  {
+    "code": "20210101/WASMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "WAS",
+      "nickname": "Wizards",
+      "city": "Washington",
+      "logoClass": "nba-was"
+    },
+    "date": "2021-01-02T00:00:00.000Z"
+  },
+  {
+    "code": "20210103/DENMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver",
+      "logoClass": "nba-den"
+    },
+    "date": "2021-01-03T23:00:00.000Z"
+  },
+  {
+    "code": "20210105/MINDEN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver",
+      "logoClass": "nba-den"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-01-06T01:00:00.000Z"
+  },
+  {
+    "code": "20210107/MINPOR",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "POR",
+      "nickname": "Trail Blazers",
+      "city": "Portland",
+      "logoClass": "nba-por"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-01-08T02:00:00.000Z"
+  },
+  {
+    "code": "20210109/SASMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "SAS",
+      "nickname": "Spurs",
+      "city": "San Antonio",
+      "logoClass": "nba-sas"
+    },
+    "date": "2021-01-10T00:00:00.000Z"
+  },
+  {
+    "code": "20210110/SASMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "SAS",
+      "nickname": "Spurs",
+      "city": "San Antonio",
+      "logoClass": "nba-sas"
+    },
+    "date": "2021-01-11T00:00:00.000Z"
+  },
+  {
+    "code": "20210113/MEMMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-01-14T00:00:00.000Z"
+  },
+  {
+    "code": "20210118/MINATL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta",
+      "logoClass": "nba-atl"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-01-18T18:30:00.000Z"
+  },
+  {
+    "code": "20210120/ORLMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "ORL",
+      "nickname": "Magic",
+      "city": "Orlando",
+      "logoClass": "nba-orl"
+    },
+    "date": "2021-01-21T00:00:00.000Z"
+  },
+  {
+    "code": "20210122/ATLMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Hawks",
+      "city": "Atlanta",
+      "logoClass": "nba-atl"
+    },
+    "date": "2021-01-23T00:00:00.000Z"
+  },
+  {
+    "code": "20210123/NOPMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "NOP",
+      "nickname": "Pelicans",
+      "city": "New Orleans",
+      "logoClass": "nba-nop"
+    },
+    "date": "2021-01-24T00:00:00.000Z"
+  },
+  {
+    "code": "20210125/MINGSW",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "GSW",
+      "nickname": "Warriors",
+      "city": "Golden State",
+      "logoClass": "nba-gsw"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-01-26T02:00:00.000Z"
+  },
+  {
+    "code": "20210127/MINGSW",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "GSW",
+      "nickname": "Warriors",
+      "city": "Golden State",
+      "logoClass": "nba-gsw"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-01-28T02:00:00.000Z"
+  },
+  {
+    "code": "20210129/PHIMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "PHI",
+      "nickname": "76ers",
+      "city": "Philadelphia",
+      "logoClass": "nba-phi"
+    },
+    "date": "2021-01-30T00:00:00.000Z"
+  },
+  {
+    "code": "20210131/CLEMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "CLE",
+      "nickname": "Cavaliers",
+      "city": "Cleveland",
+      "logoClass": "nba-cle"
+    },
+    "date": "2021-02-01T00:00:00.000Z"
+  },
+  {
+    "code": "20210201/MINCLE",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "CLE",
+      "nickname": "Cavaliers",
+      "city": "Cleveland",
+      "logoClass": "nba-cle"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-02-02T00:00:00.000Z"
+  },
+  {
+    "code": "20210203/MINSAS",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "SAS",
+      "nickname": "Spurs",
+      "city": "San Antonio",
+      "logoClass": "nba-sas"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-02-04T00:30:00.000Z"
+  },
+  {
+    "code": "20210205/MINOKC",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "OKC",
+      "nickname": "Thunder",
+      "city": "Oklahoma City",
+      "logoClass": "nba-okc"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-02-06T00:00:00.000Z"
+  },
+  {
+    "code": "20210206/MINOKC",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "OKC",
+      "nickname": "Thunder",
+      "city": "Oklahoma City",
+      "logoClass": "nba-okc"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-02-07T00:00:00.000Z"
+  },
+  {
+    "code": "20210208/MINDAL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DAL",
+      "nickname": "Mavericks",
+      "city": "Dallas",
+      "logoClass": "nba-dal"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-02-09T00:30:00.000Z"
+  },
+  {
+    "code": "20210210/LACMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA",
+      "logoClass": "nba-lac"
+    },
+    "date": "2021-02-11T00:00:00.000Z"
+  },
+  {
+    "code": "20210212/MINCHA",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "CHA",
+      "nickname": "Hornets",
+      "city": "Charlotte",
+      "logoClass": "nba-cha"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-02-12T23:00:00.000Z"
+  },
+  {
+    "code": "20210214/MINTOR",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "TOR",
+      "nickname": "Raptors",
+      "city": "Toronto",
+      "logoClass": "nba-tor"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-02-14T23:00:00.000Z"
+  },
+  {
+    "code": "20210216/LALMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "LAL",
+      "nickname": "Lakers",
+      "city": "Los Angeles",
+      "logoClass": "nba-lal"
+    },
+    "date": "2021-02-17T00:00:00.000Z"
+  },
+  {
+    "code": "20210217/INDMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "IND",
+      "nickname": "Pacers",
+      "city": "Indiana",
+      "logoClass": "nba-ind"
+    },
+    "date": "2021-02-18T00:00:00.000Z"
+  },
+  {
+    "code": "20210219/TORMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "TOR",
+      "nickname": "Raptors",
+      "city": "Toronto",
+      "logoClass": "nba-tor"
+    },
+    "date": "2021-02-20T01:00:00.000Z"
+  },
+  {
+    "code": "20210221/MINNYK",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "NYK",
+      "nickname": "Knicks",
+      "city": "New York",
+      "logoClass": "nba-nyk"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-02-21T23:00:00.000Z"
+  },
+  {
+    "code": "20210223/MINMIL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-02-24T00:00:00.000Z"
+  },
+  {
+    "code": "20210224/MINCHI",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "CHI",
+      "nickname": "Bulls",
+      "city": "Chicago",
+      "logoClass": "nba-chi"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-02-25T00:00:00.000Z"
+  },
+  {
+    "code": "20210227/MINWAS",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "WAS",
+      "nickname": "Wizards",
+      "city": "Washington",
+      "logoClass": "nba-was"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-02-27T23:00:00.000Z"
+  },
+  {
+    "code": "20210228/PHXMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "date": "2021-03-01T01:00:00.000Z"
+  },
+  {
+    "code": "20210303/CHAMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "CHA",
+      "nickname": "Hornets",
+      "city": "Charlotte",
+      "logoClass": "nba-cha"
+    },
+    "date": "2021-03-04T00:00:00.000Z"
+  },
+  {
+    "code": "20210311/MINNOP",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "NOP",
+      "nickname": "Pelicans",
+      "city": "New Orleans",
+      "logoClass": "nba-nop"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-03-12T00:00:00.000Z"
+  },
+  {
+    "code": "20210313/PORMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "POR",
+      "nickname": "Trail Blazers",
+      "city": "Portland",
+      "logoClass": "nba-por"
+    },
+    "date": "2021-03-14T00:00:00.000Z"
+  },
+  {
+    "code": "20210314/PORMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "POR",
+      "nickname": "Trail Blazers",
+      "city": "Portland",
+      "logoClass": "nba-por"
+    },
+    "date": "2021-03-15T00:00:00.000Z"
+  },
+  {
+    "code": "20210316/MINLAL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "LAL",
+      "nickname": "Lakers",
+      "city": "Los Angeles",
+      "logoClass": "nba-lal"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-03-17T02:30:00.000Z"
+  },
+  {
+    "code": "20210318/MINPHX",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-03-19T02:00:00.000Z"
+  },
+  {
+    "code": "20210319/MINPHX",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-03-20T02:00:00.000Z"
+  },
+  {
+    "code": "20210322/OKCMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "OKC",
+      "nickname": "Thunder",
+      "city": "Oklahoma City",
+      "logoClass": "nba-okc"
+    },
+    "date": "2021-03-23T00:00:00.000Z"
+  },
+  {
+    "code": "20210324/DALMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "DAL",
+      "nickname": "Mavericks",
+      "city": "Dallas",
+      "logoClass": "nba-dal"
+    },
+    "date": "2021-03-25T00:00:00.000Z"
+  },
+  {
+    "code": "20210326/HOUMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-03-27T00:00:00.000Z"
+  },
+  {
+    "code": "20210327/HOUMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "date": "2021-03-28T00:00:00.000Z"
+  },
+  {
+    "code": "20210329/MINBKN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "BKN",
+      "nickname": "Nets",
+      "city": "Brooklyn",
+      "logoClass": "nba-bkn"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-03-29T23:30:00.000Z"
+  },
+  {
+    "code": "20210331/NYKMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "NYK",
+      "nickname": "Knicks",
+      "city": "New York",
+      "logoClass": "nba-nyk"
+    },
+    "date": "2021-04-01T00:00:00.000Z"
+  },
+  {
+    "code": "20210402/MINMEM",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-04-03T00:00:00.000Z"
+  },
+  {
+    "code": "20210403/MINPHI",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "PHI",
+      "nickname": "76ers",
+      "city": "Philadelphia",
+      "logoClass": "nba-phi"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-04-04T00:00:00.000Z"
+  },
+  {
+    "code": "20210405/SACMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "SAC",
+      "nickname": "Kings",
+      "city": "Sacramento",
+      "logoClass": "nba-sac"
+    },
+    "date": "2021-04-05T23:00:00.000Z"
+  },
+  {
+    "code": "20210407/MININD",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "IND",
+      "nickname": "Pacers",
+      "city": "Indiana",
+      "logoClass": "nba-ind"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-04-07T23:00:00.000Z"
+  },
+  {
+    "code": "20210409/MINBOS",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "BOS",
+      "nickname": "Celtics",
+      "city": "Boston",
+      "logoClass": "nba-bos"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-04-09T23:30:00.000Z"
+  },
+  {
+    "code": "20210411/CHIMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "CHI",
+      "nickname": "Bulls",
+      "city": "Chicago",
+      "logoClass": "nba-chi"
+    },
+    "date": "2021-04-12T00:00:00.000Z"
+  },
+  {
+    "code": "20210413/BKNMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "BKN",
+      "nickname": "Nets",
+      "city": "Brooklyn",
+      "logoClass": "nba-bkn"
+    },
+    "date": "2021-04-13T20:00:00.000Z"
+  },
+  {
+    "code": "20210414/MILMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "date": "2021-04-14T20:30:00.000Z"
+  },
+  {
+    "code": "20210416/MIAMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "MIA",
+      "nickname": "Heat",
+      "city": "Miami",
+      "logoClass": "nba-mia"
+    },
+    "date": "2021-04-17T00:00:00.000Z"
+  },
+  {
+    "code": "20210418/MINLAC",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "LAC",
+      "nickname": "Clippers",
+      "city": "LA",
+      "logoClass": "nba-lac"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-04-19T02:00:00.000Z"
+  },
+  {
+    "code": "20210420/MINSAC",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "SAC",
+      "nickname": "Kings",
+      "city": "Sacramento",
+      "logoClass": "nba-sac"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-04-21T02:00:00.000Z"
+  },
+  {
+    "code": "20210421/MINSAC",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "SAC",
+      "nickname": "Kings",
+      "city": "Sacramento",
+      "logoClass": "nba-sac"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-04-22T02:00:00.000Z"
+  },
+  {
+    "code": "20210424/MINUTA",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah",
+      "logoClass": "nba-uta"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-04-25T01:00:00.000Z"
+  },
+  {
+    "code": "20210426/UTAMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "UTA",
+      "nickname": "Jazz",
+      "city": "Utah",
+      "logoClass": "nba-uta"
+    },
+    "date": "2021-04-27T00:00:00.000Z"
+  },
+  {
+    "code": "20210427/MINHOU",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Rockets",
+      "city": "Houston",
+      "logoClass": "nba-hou"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-04-28T01:00:00.000Z"
+  },
+  {
+    "code": "20210429/GSWMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "GSW",
+      "nickname": "Warriors",
+      "city": "Golden State",
+      "logoClass": "nba-gsw"
+    },
+    "date": "2021-04-30T00:00:00.000Z"
+  },
+  {
+    "code": "20210501/NOPMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "NOP",
+      "nickname": "Pelicans",
+      "city": "New Orleans",
+      "logoClass": "nba-nop"
+    },
+    "date": "2021-05-02T00:00:00.000Z"
+  },
+  {
+    "code": "20210505/MEMMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "MEM",
+      "nickname": "Grizzlies",
+      "city": "Memphis",
+      "logoClass": "nba-mem"
+    },
+    "date": "2021-05-06T00:00:00.000Z"
+  },
+  {
+    "code": "20210507/MINMIA",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIA",
+      "nickname": "Heat",
+      "city": "Miami",
+      "logoClass": "nba-mia"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-05-08T00:00:00.000Z"
+  },
+  {
+    "code": "20210509/MINORL",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "ORL",
+      "nickname": "Magic",
+      "city": "Orlando",
+      "logoClass": "nba-orl"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-05-09T23:00:00.000Z"
+  },
+  {
+    "code": "20210511/MINDET",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "DET",
+      "nickname": "Pistons",
+      "city": "Detroit",
+      "logoClass": "nba-det"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "date": "2021-05-11T23:00:00.000Z"
+  },
+  {
+    "code": "20210513/DENMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "DEN",
+      "nickname": "Nuggets",
+      "city": "Denver",
+      "logoClass": "nba-den"
+    },
+    "date": "2021-05-14T00:00:00.000Z"
+  },
+  {
+    "code": "20210515/BOSMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "BOS",
+      "nickname": "Celtics",
+      "city": "Boston",
+      "logoClass": "nba-bos"
+    },
+    "date": "2021-05-15T18:00:00.000Z"
+  },
+  {
+    "code": "20210516/DALMIN",
+    "description": "",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "complete",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Timberwolves",
+      "city": "Minnesota",
+      "logoClass": "nba-min"
+    },
+    "away": {
+      "abbreviation": "DAL",
+      "nickname": "Mavericks",
+      "city": "Dallas",
+      "logoClass": "nba-dal"
+    },
+    "date": "2021-05-17T01:00:00.000Z"
+  }
+]

@@ -36,6 +36,13 @@ module.exports = eleventyApi => {
     const formatOptions = {timeZone: 'UTC', hour: 'numeric', minute: 'numeric', timeZoneName: 'short'};
     return date.toLocaleString(undefined, formatOptions);
   });
+  eleventyApi.addFilter('future', games => {
+    const startOfDay = DateTime.now().setZone('America/New_York').startOf('day');
+    return games.filter(game => {
+      const dateTime = DateTime.fromISO(game.date);
+      return startOfDay <= dateTime;
+    });
+  });
   eleventyApi.addFilter('nextWeek', games => {
     const startOfDay = DateTime.now().setZone('America/New_York').startOf('day');
     const endOfWeek = startOfDay.plus({week: 1}).endOf('day');

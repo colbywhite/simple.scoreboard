@@ -1,0 +1,542 @@
+[
+  {
+    "code": "clbvschi-06-19-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "away": {
+      "abbreviation": "CHI",
+      "nickname": "Chicago",
+      "city": "Chicago",
+      "logoClass": "mls-chi"
+    },
+    "date": "2021-06-19T23:30:00.000Z"
+  },
+  {
+    "code": "phivsclb-06-23-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHI",
+      "nickname": "Philadelphia",
+      "city": "Philadelphia",
+      "logoClass": "mls-phi"
+    },
+    "away": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "date": "2021-06-23T23:30:00.000Z"
+  },
+  {
+    "code": "atxvsclb-06-27-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "ATX",
+      "nickname": "Austin",
+      "city": "Austin",
+      "logoClass": "mls-atx"
+    },
+    "away": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "date": "2021-06-28T00:00:00.000Z"
+  },
+  {
+    "code": "clbvsne-07-03-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "away": {
+      "abbreviation": "NE",
+      "nickname": "New England",
+      "city": "New England",
+      "logoClass": "mls-ne"
+    },
+    "date": "2021-07-03T21:00:00.000Z"
+  },
+  {
+    "code": "cinvsclb-07-09-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CIN",
+      "nickname": "Cincinnati",
+      "city": "Cincinnati",
+      "logoClass": "mls-cin"
+    },
+    "away": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "date": "2021-07-09T23:30:00.000Z"
+  },
+  {
+    "code": "clbvsnyc-07-17-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "away": {
+      "abbreviation": "NYC",
+      "nickname": "New York City",
+      "city": "New York City",
+      "logoClass": "mls-nyc"
+    },
+    "date": "2021-07-17T23:30:00.000Z"
+  },
+  {
+    "code": "clbvsnsh-07-21-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "away": {
+      "abbreviation": "NSH",
+      "nickname": "Nashville",
+      "city": "Nashville",
+      "logoClass": "mls-nsh"
+    },
+    "date": "2021-07-21T23:30:00.000Z"
+  },
+  {
+    "code": "atlvsclb-07-24-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "ATL",
+      "nickname": "Atlanta",
+      "city": "Atlanta",
+      "logoClass": "mls-atl"
+    },
+    "away": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "date": "2021-07-24T19:30:00.000Z"
+  },
+  {
+    "code": "nycvsclb-07-30-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "NYC",
+      "nickname": "New York City",
+      "city": "New York City",
+      "logoClass": "mls-nyc"
+    },
+    "away": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "date": "2021-07-30T23:30:00.000Z"
+  },
+  {
+    "code": "clbvsdc-08-04-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "away": {
+      "abbreviation": "DC",
+      "nickname": "D.C.",
+      "city": "D.C.",
+      "logoClass": "mls-dc"
+    },
+    "date": "2021-08-04T23:30:00.000Z"
+  },
+  {
+    "code": "clbvsatl-08-07-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "away": {
+      "abbreviation": "ATL",
+      "nickname": "Atlanta",
+      "city": "Atlanta",
+      "logoClass": "mls-atl"
+    },
+    "date": "2021-08-07T23:30:00.000Z"
+  },
+  {
+    "code": "chivsclb-08-15-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CHI",
+      "nickname": "Chicago",
+      "city": "Chicago",
+      "logoClass": "mls-chi"
+    },
+    "away": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "date": "2021-08-15T22:00:00.000Z"
+  },
+  {
+    "code": "rbnyvsclb-08-18-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "RBNY",
+      "nickname": "New York",
+      "city": "New York",
+      "logoClass": "mls-rbny"
+    },
+    "away": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "date": "2021-08-19T00:00:00.000Z"
+  },
+  {
+    "code": "clbvssea-08-21-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "away": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "date": "2021-08-21T21:30:00.000Z"
+  },
+  {
+    "code": "clbvscin-08-27-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "away": {
+      "abbreviation": "CIN",
+      "nickname": "Cincinnati",
+      "city": "Cincinnati",
+      "logoClass": "mls-cin"
+    },
+    "date": "2021-08-27T22:30:00.000Z"
+  },
+  {
+    "code": "orlvsclb-09-04-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "ORL",
+      "nickname": "Orlando",
+      "city": "Orlando",
+      "logoClass": "mls-orl"
+    },
+    "away": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "date": "2021-09-04T23:30:00.000Z"
+  },
+  {
+    "code": "miavsclb-09-11-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIA",
+      "nickname": "Miami",
+      "city": "Miami",
+      "logoClass": "mls-mia"
+    },
+    "away": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "date": "2021-09-12T00:00:00.000Z"
+  },
+  {
+    "code": "clbvsrbny-09-14-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "away": {
+      "abbreviation": "RBNY",
+      "nickname": "New York",
+      "city": "New York",
+      "logoClass": "mls-rbny"
+    },
+    "date": "2021-09-14T23:30:00.000Z"
+  },
+  {
+    "code": "nevsclb-09-18-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "NE",
+      "nickname": "New England",
+      "city": "New England",
+      "logoClass": "mls-ne"
+    },
+    "away": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "date": "2021-09-18T23:00:00.000Z"
+  },
+  {
+    "code": "clbvsmtl-09-25-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "away": {
+      "abbreviation": "MTL",
+      "nickname": "Montréal",
+      "city": "Montréal",
+      "logoClass": "mls-mtl"
+    },
+    "date": "2021-09-25T23:30:00.000Z"
+  },
+  {
+    "code": "phivsclb-10-02-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHI",
+      "nickname": "Philadelphia",
+      "city": "Philadelphia",
+      "logoClass": "mls-phi"
+    },
+    "away": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "date": "2021-10-02T23:30:00.000Z"
+  },
+  {
+    "code": "clbvsmia-10-16-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "away": {
+      "abbreviation": "MIA",
+      "nickname": "Miami",
+      "city": "Miami",
+      "logoClass": "mls-mia"
+    },
+    "date": "2021-10-16T22:00:00.000Z"
+  },
+  {
+    "code": "nshvsclb-10-20-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "NSH",
+      "nickname": "Nashville",
+      "city": "Nashville",
+      "logoClass": "mls-nsh"
+    },
+    "away": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "date": "2021-10-21T00:30:00.000Z"
+  },
+  {
+    "code": "clbvsrbny-10-23-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "away": {
+      "abbreviation": "RBNY",
+      "nickname": "New York",
+      "city": "New York",
+      "logoClass": "mls-rbny"
+    },
+    "date": "2021-10-23T22:00:00.000Z"
+  },
+  {
+    "code": "clbvsorl-10-27-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "away": {
+      "abbreviation": "ORL",
+      "nickname": "Orlando",
+      "city": "Orlando",
+      "logoClass": "mls-orl"
+    },
+    "date": "2021-10-27T23:30:00.000Z"
+  },
+  {
+    "code": "dcvsclb-10-30-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "DC",
+      "nickname": "D.C.",
+      "city": "D.C.",
+      "logoClass": "mls-dc"
+    },
+    "away": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "date": "2021-10-30T23:30:00.000Z"
+  },
+  {
+    "code": "clbvschi-11-07-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "away": {
+      "abbreviation": "CHI",
+      "nickname": "Chicago",
+      "city": "Chicago",
+      "logoClass": "mls-chi"
+    },
+    "date": "2021-11-07T20:30:00.000Z"
+  }
+]

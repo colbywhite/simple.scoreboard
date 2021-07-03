@@ -7,7 +7,7 @@
 import * as http from 'https';
 import { RequestOptions } from 'https';
 import { Game, GameStatus, Team } from '../model';
-import { parseTeams, writeJson } from '../utils';
+import { parseTeams, parseTeamSchedules, writeJson } from '../utils';
 
 interface RawNBAGame {
   gcode: string;
@@ -96,13 +96,24 @@ function parseStatus(game: RawNBAGame): GameStatus {
 }
 
 export function loadNbaGames(): Promise<Game[]> {
-  const games = getNBASchedule()
+  const parsedGames: Promise<Game[]> = getNBASchedule()
     .then(parseRawGames);
 
-  const writeGames: Promise<Game[]> = games
+  const games: Promise<Game[]> = parsedGames
     .then(writeJson.bind(null, 'src/_data/nba', 'games.json') as (g: Game[]) => Game[]);
-  return games
+  const teams: Promise<Team[]> = parsedGames
     .then(parseTeams)
-    .then(writeJson.bind(null, 'src/_data/nba', 'teams.json') as (t: Team[]) => Team[])
-    .then(() => writeGames);
+    .then(writeJson.bind(null, 'src/_data/nba', 'teams.json') as (t: Team[]) => Team[]);
+  return Promise.all([games, teams])
+    .then(([games, teams]) => {
+      const teamSchedules: Map<string, Game[]> = parseTeamSchedules(games, teams);
+      teams.forEach(team => {
+        const key = team.abbreviation.toLowerCase();
+        const schedule = teamSchedules.get(key);
+        if (schedule) {
+          writeJson('src/_data/nba', `${key}.json`, schedule);
+        }
+      });
+      return games;
+    });
 }

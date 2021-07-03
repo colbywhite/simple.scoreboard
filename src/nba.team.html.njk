@@ -1,0 +1,11 @@
+---
+pagination:
+    data: nba.teams
+    size: 1
+    alias: team
+permalink: "nba/{{ team.abbreviation | lower }}.html"
+---
+{% set games = collections.all[0].template.templateData.globalData.nba[team.abbreviation.toLowerCase()] %}
+<h1>Upcoming games for {{ team.nickname }}</h1>
+{% import 'games.section.html.njk' as section %}
+{{ section.list(games | future) }}

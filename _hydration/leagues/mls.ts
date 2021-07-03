@@ -7,7 +7,7 @@
 import { RequestOptions } from 'https';
 import * as http from 'https';
 import { Game, Team } from '../model';
-import { parseTeams, writeJson } from '../utils';
+import { parseTeams, parseTeamSchedules, writeJson } from '../utils';
 
 interface RawMLSGame {
   slug: string;
@@ -80,13 +80,24 @@ function parseDescription(game: RawMLSGame): string {
 }
 
 export function loadMlsGames(): Promise<Game[]> {
-  const games = getMLSSchedule()
+  const parsedGames: Promise<Game[]> = getMLSSchedule()
     .then(parseRawGames);
 
-  const writeGames: Promise<Game[]> = games
+  const games: Promise<Game[]> = parsedGames
     .then(writeJson.bind(null, 'src/_data/mls', 'games.json') as (g: Game[]) => Game[]);
-  return games
+  const teams: Promise<Team[]> = parsedGames
     .then(parseTeams)
-    .then(writeJson.bind(null, 'src/_data/mls', 'teams.json') as (t: Team[]) => Team[])
-    .then(() => writeGames);
+    .then(writeJson.bind(null, 'src/_data/mls', 'teams.json') as (t: Team[]) => Team[]);
+  return Promise.all([games, teams])
+    .then(([games, teams]) => {
+      const teamSchedules: Map<string, Game[]> = parseTeamSchedules(games, teams);
+      teams.forEach(team => {
+        const key = team.abbreviation.toLowerCase();
+        const schedule = teamSchedules.get(key);
+        if (schedule) {
+          writeJson('src/_data/mls', `${key}.json`, schedule);
+        }
+      });
+      return games;
+    });
 }

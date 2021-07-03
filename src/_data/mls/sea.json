@@ -1,0 +1,522 @@
+[
+  {
+    "code": "lavssea-06-19-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "LA",
+      "nickname": "LA",
+      "city": "LA",
+      "logoClass": "mls-la"
+    },
+    "away": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "date": "2021-06-20T01:00:00.000Z"
+  },
+  {
+    "code": "seavsrsl-06-23-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "away": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "date": "2021-06-24T02:00:00.000Z"
+  },
+  {
+    "code": "seavsvan-06-26-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "away": {
+      "abbreviation": "VAN",
+      "nickname": "Vancouver",
+      "city": "Vancouver",
+      "logoClass": "mls-van"
+    },
+    "date": "2021-06-27T01:00:00.000Z"
+  },
+  {
+    "code": "colvssea-07-04-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "COL",
+      "nickname": "Colorado",
+      "city": "Colorado",
+      "logoClass": "mls-col"
+    },
+    "away": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "date": "2021-07-05T01:00:00.000Z"
+  },
+  {
+    "code": "seavshou-07-07-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "away": {
+      "abbreviation": "HOU",
+      "nickname": "Houston",
+      "city": "Houston",
+      "logoClass": "mls-hou"
+    },
+    "date": "2021-07-08T01:00:00.000Z"
+  },
+  {
+    "code": "minvssea-07-18-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIN",
+      "nickname": "Minnesota",
+      "city": "Minnesota",
+      "logoClass": "mls-min"
+    },
+    "away": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "date": "2021-07-18T18:00:00.000Z"
+  },
+  {
+    "code": "atxvssea-07-22-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "ATX",
+      "nickname": "Austin",
+      "city": "Austin",
+      "logoClass": "mls-atx"
+    },
+    "away": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "date": "2021-07-23T01:30:00.000Z"
+  },
+  {
+    "code": "seavsskc-07-25-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "away": {
+      "abbreviation": "SKC",
+      "nickname": "Kansas City",
+      "city": "Kansas City",
+      "logoClass": "mls-skc"
+    },
+    "date": "2021-07-26T01:00:00.000Z"
+  },
+  {
+    "code": "seavssj-07-31-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "away": {
+      "abbreviation": "SJ",
+      "nickname": "San Jose",
+      "city": "San Jose",
+      "logoClass": "mls-sj"
+    },
+    "date": "2021-07-31T21:00:00.000Z"
+  },
+  {
+    "code": "seavsdal-08-04-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "away": {
+      "abbreviation": "DAL",
+      "nickname": "Dallas",
+      "city": "Dallas",
+      "logoClass": "mls-dal"
+    },
+    "date": "2021-08-05T02:00:00.000Z"
+  },
+  {
+    "code": "porvssea-08-15-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "POR",
+      "nickname": "Portland",
+      "city": "Portland",
+      "logoClass": "mls-por"
+    },
+    "away": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "date": "2021-08-16T00:30:00.000Z"
+  },
+  {
+    "code": "dalvssea-08-18-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "DAL",
+      "nickname": "Dallas",
+      "city": "Dallas",
+      "logoClass": "mls-dal"
+    },
+    "away": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "date": "2021-08-19T00:30:00.000Z"
+  },
+  {
+    "code": "clbvssea-08-21-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
+    },
+    "away": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "date": "2021-08-21T21:30:00.000Z"
+  },
+  {
+    "code": "seavspor-08-29-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "away": {
+      "abbreviation": "POR",
+      "nickname": "Portland",
+      "city": "Portland",
+      "logoClass": "mls-por"
+    },
+    "date": "2021-08-30T02:30:00.000Z"
+  },
+  {
+    "code": "seavsmin-09-11-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "away": {
+      "abbreviation": "MIN",
+      "nickname": "Minnesota",
+      "city": "Minnesota",
+      "logoClass": "mls-min"
+    },
+    "date": "2021-09-11T21:00:00.000Z"
+  },
+  {
+    "code": "seavsvan-09-15-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "away": {
+      "abbreviation": "VAN",
+      "nickname": "Vancouver",
+      "city": "Vancouver",
+      "logoClass": "mls-van"
+    },
+    "date": "2021-09-16T02:00:00.000Z"
+  },
+  {
+    "code": "rslvssea-09-18-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "RSL",
+      "nickname": "Salt Lake",
+      "city": "Salt Lake",
+      "logoClass": "mls-rsl"
+    },
+    "away": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "date": "2021-09-19T01:30:00.000Z"
+  },
+  {
+    "code": "skcvssea-09-26-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "SKC",
+      "nickname": "Kansas City",
+      "city": "Kansas City",
+      "logoClass": "mls-skc"
+    },
+    "away": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "date": "2021-09-26T23:00:00.000Z"
+  },
+  {
+    "code": "sjvssea-09-29-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "SJ",
+      "nickname": "San Jose",
+      "city": "San Jose",
+      "logoClass": "mls-sj"
+    },
+    "away": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "date": "2021-09-30T02:30:00.000Z"
+  },
+  {
+    "code": "seavscol-10-03-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "away": {
+      "abbreviation": "COL",
+      "nickname": "Colorado",
+      "city": "Colorado",
+      "logoClass": "mls-col"
+    },
+    "date": "2021-10-04T02:00:00.000Z"
+  },
+  {
+    "code": "houvssea-10-16-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "HOU",
+      "nickname": "Houston",
+      "city": "Houston",
+      "logoClass": "mls-hou"
+    },
+    "away": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "date": "2021-10-17T00:30:00.000Z"
+  },
+  {
+    "code": "colvssea-10-20-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "COL",
+      "nickname": "Colorado",
+      "city": "Colorado",
+      "logoClass": "mls-col"
+    },
+    "away": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "date": "2021-10-21T01:00:00.000Z"
+  },
+  {
+    "code": "seavsskc-10-23-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "away": {
+      "abbreviation": "SKC",
+      "nickname": "Kansas City",
+      "city": "Kansas City",
+      "logoClass": "mls-skc"
+    },
+    "date": "2021-10-24T01:00:00.000Z"
+  },
+  {
+    "code": "lafcvssea-10-26-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "LAFC",
+      "nickname": "LAFC",
+      "city": "LAFC",
+      "logoClass": "mls-lafc"
+    },
+    "away": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "date": "2021-10-27T02:30:00.000Z"
+  },
+  {
+    "code": "seavsla-11-01-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "away": {
+      "abbreviation": "LA",
+      "nickname": "LA",
+      "city": "LA",
+      "logoClass": "mls-la"
+    },
+    "date": "2021-11-02T02:00:00.000Z"
+  },
+  {
+    "code": "vanvssea-11-07-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "VAN",
+      "nickname": "Vancouver",
+      "city": "Vancouver",
+      "logoClass": "mls-van"
+    },
+    "away": {
+      "abbreviation": "SEA",
+      "nickname": "Seattle",
+      "city": "Seattle",
+      "logoClass": "mls-sea"
+    },
+    "date": "2021-11-07T23:00:00.000Z"
+  }
+]
