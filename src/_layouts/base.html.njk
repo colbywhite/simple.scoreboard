@@ -28,6 +28,19 @@
 </head>
 <body>
 
+<nav>
+    <ul>
+        <li>Leagues:</li>
+        <li>
+            <a href="/">ALL</a>
+        </li>
+        {% for league in leagues %}
+            <li>
+                <a href="/{{ league }}">{{ league | upper }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</nav>
 <main>
     {{ content | safe }}
 </main>

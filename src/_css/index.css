@@ -4,10 +4,11 @@
     --tablet-landscape-desktop-breakpoint: 1200px;
 }
 
-main {
+body {
     max-width: 652px;
     margin: auto;
     color: #202124;
+    padding: 10px;
 }
 
 section {
@@ -89,4 +90,14 @@ section {
     width: 1px;
     background-color: #f5f5f5;
     content: '';
+}
+
+nav > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav > ul > li {
+    display: inline;
 }
