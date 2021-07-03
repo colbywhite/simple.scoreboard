@@ -1,0 +1,164 @@
+[
+  {
+    "abbreviation": "SKC",
+    "nickname": "Kansas City",
+    "city": "Kansas City",
+    "logoClass": "mls-skc"
+  },
+  {
+    "abbreviation": "ATX",
+    "nickname": "Austin",
+    "city": "Austin",
+    "logoClass": "mls-atx"
+  },
+  {
+    "abbreviation": "RBNY",
+    "nickname": "New York",
+    "city": "New York",
+    "logoClass": "mls-rbny"
+  },
+  {
+    "abbreviation": "NSH",
+    "nickname": "Nashville",
+    "city": "Nashville",
+    "logoClass": "mls-nsh"
+  },
+  {
+    "abbreviation": "RSL",
+    "nickname": "Salt Lake",
+    "city": "Salt Lake",
+    "logoClass": "mls-rsl"
+  },
+  {
+    "abbreviation": "VAN",
+    "nickname": "Vancouver",
+    "city": "Vancouver",
+    "logoClass": "mls-van"
+  },
+  {
+    "abbreviation": "CIN",
+    "nickname": "Cincinnati",
+    "city": "Cincinnati",
+    "logoClass": "mls-cin"
+  },
+  {
+    "abbreviation": "COL",
+    "nickname": "Colorado",
+    "city": "Colorado",
+    "logoClass": "mls-col"
+  },
+  {
+    "abbreviation": "CLB",
+    "nickname": "Columbus",
+    "city": "Columbus",
+    "logoClass": "mls-clb"
+  },
+  {
+    "abbreviation": "CHI",
+    "nickname": "Chicago",
+    "city": "Chicago",
+    "logoClass": "mls-chi"
+  },
+  {
+    "abbreviation": "NYC",
+    "nickname": "New York City",
+    "city": "New York City",
+    "logoClass": "mls-nyc"
+  },
+  {
+    "abbreviation": "NE",
+    "nickname": "New England",
+    "city": "New England",
+    "logoClass": "mls-ne"
+  },
+  {
+    "abbreviation": "TOR",
+    "nickname": "Toronto",
+    "city": "Toronto",
+    "logoClass": "mls-tor"
+  },
+  {
+    "abbreviation": "ORL",
+    "nickname": "Orlando",
+    "city": "Orlando",
+    "logoClass": "mls-orl"
+  },
+  {
+    "abbreviation": "DC",
+    "nickname": "D.C.",
+    "city": "D.C.",
+    "logoClass": "mls-dc"
+  },
+  {
+    "abbreviation": "MIA",
+    "nickname": "Miami",
+    "city": "Miami",
+    "logoClass": "mls-mia"
+  },
+  {
+    "abbreviation": "DAL",
+    "nickname": "Dallas",
+    "city": "Dallas",
+    "logoClass": "mls-dal"
+  },
+  {
+    "abbreviation": "MIN",
+    "nickname": "Minnesota",
+    "city": "Minnesota",
+    "logoClass": "mls-min"
+  },
+  {
+    "abbreviation": "SJ",
+    "nickname": "San Jose",
+    "city": "San Jose",
+    "logoClass": "mls-sj"
+  },
+  {
+    "abbreviation": "LA",
+    "nickname": "LA",
+    "city": "LA",
+    "logoClass": "mls-la"
+  },
+  {
+    "abbreviation": "SEA",
+    "nickname": "Seattle",
+    "city": "Seattle",
+    "logoClass": "mls-sea"
+  },
+  {
+    "abbreviation": "POR",
+    "nickname": "Portland",
+    "city": "Portland",
+    "logoClass": "mls-por"
+  },
+  {
+    "abbreviation": "LAFC",
+    "nickname": "LAFC",
+    "city": "LAFC",
+    "logoClass": "mls-lafc"
+  },
+  {
+    "abbreviation": "HOU",
+    "nickname": "Houston",
+    "city": "Houston",
+    "logoClass": "mls-hou"
+  },
+  {
+    "abbreviation": "ATL",
+    "nickname": "Atlanta",
+    "city": "Atlanta",
+    "logoClass": "mls-atl"
+  },
+  {
+    "abbreviation": "PHI",
+    "nickname": "Philadelphia",
+    "city": "Philadelphia",
+    "logoClass": "mls-phi"
+  },
+  {
+    "abbreviation": "MTL",
+    "nickname": "Montréal",
+    "city": "Montréal",
+    "logoClass": "mls-mtl"
+  }
+]

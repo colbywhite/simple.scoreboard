@@ -1,21 +1,21 @@
-import { Game } from './model';
+import { Game, Team } from './model';
 import * as fs from 'fs';
 
-export function writeGamesJson(dataDir: string, games: Game[]): Game[] {
+export function writeJson<T>(dataDir: string, filename: string, data: T): T {
   try {
     fs.readdirSync(dataDir)
   } catch (e) {
     fs.mkdirSync(dataDir, { recursive: true });
   }
-  const fileName = `${dataDir}/games.json`;
-  fs.writeFileSync(fileName, JSON.stringify(games, null, 2));
-  return games;
+  const fileName = `${dataDir}/${filename}`;
+  fs.writeFileSync(fileName, JSON.stringify(data, null, 2));
+  return data;
 }
 
 export function combineGameFiles(games: Game[][], outputDir: string) {
   const allGames: Game[] = games.reduce((allGames: Game[], games: Game[]) => allGames.concat(games), [] as Game[]);
   allGames.sort((a: Game, b: Game) => a.date < b.date ? -1 : a.date > b.date ? 1 : 0);
-  return writeGamesJson(outputDir, allGames);
+  return writeJson(outputDir, 'games.json', allGames);
 }
 
 export function tap<T>(func: (data: T) => void): (data: T) => T {
@@ -23,4 +23,14 @@ export function tap<T>(func: (data: T) => void): (data: T) => T {
     func(data);
     return data;
   }
+}
+
+export function parseTeams(games: Game[]): Team[] {
+  const teamMap: Map<string, Team> = games
+    .map(game => [game.home, game.away])
+    .reduce((teams: Map<string, Team>, currentTeams:Team[]) => {
+      currentTeams.forEach(team => teams.set(team.abbreviation, team));
+      return teams;
+    }, new Map<string, Team>());
+  return Array.from(teamMap.values());
 }

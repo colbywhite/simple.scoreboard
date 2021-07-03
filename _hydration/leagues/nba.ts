@@ -6,8 +6,8 @@
  */
 import * as http from 'https';
 import { RequestOptions } from 'https';
-import { Game, GameStatus } from '../model';
-import { writeGamesJson } from '../utils';
+import { Game, GameStatus, Team } from '../model';
+import { parseTeams, writeJson } from '../utils';
 
 interface RawNBAGame {
   gcode: string;
@@ -96,7 +96,13 @@ function parseStatus(game: RawNBAGame): GameStatus {
 }
 
 export function loadNbaGames(): Promise<Game[]> {
-  return getNBASchedule()
-    .then(parseRawGames)
-    .then(writeGamesJson.bind(null, 'src/_data/nba'));
+  const games = getNBASchedule()
+    .then(parseRawGames);
+
+  const writeGames: Promise<Game[]> = games
+    .then(writeJson.bind(null, 'src/_data/nba', 'games.json') as (g: Game[]) => Game[]);
+  return games
+    .then(parseTeams)
+    .then(writeJson.bind(null, 'src/_data/nba', 'teams.json') as (t: Team[]) => Team[])
+    .then(() => writeGames);
 }

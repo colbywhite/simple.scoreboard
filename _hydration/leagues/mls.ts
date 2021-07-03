@@ -6,8 +6,8 @@
  */
 import { RequestOptions } from 'https';
 import * as http from 'https';
-import { Game } from '../model';
-import { writeGamesJson } from '../utils';
+import { Game, Team } from '../model';
+import { parseTeams, writeJson } from '../utils';
 
 interface RawMLSGame {
   slug: string;
@@ -80,7 +80,13 @@ function parseDescription(game: RawMLSGame): string {
 }
 
 export function loadMlsGames(): Promise<Game[]> {
-  return getMLSSchedule()
-    .then(parseRawGames)
-    .then(writeGamesJson.bind(null, 'src/_data/mls'));
+  const games = getMLSSchedule()
+    .then(parseRawGames);
+
+  const writeGames: Promise<Game[]> = games
+    .then(writeJson.bind(null, 'src/_data/mls', 'games.json') as (g: Game[]) => Game[]);
+  return games
+    .then(parseTeams)
+    .then(writeJson.bind(null, 'src/_data/mls', 'teams.json') as (t: Team[]) => Team[])
+    .then(() => writeGames);
 }
