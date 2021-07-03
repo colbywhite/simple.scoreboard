@@ -22,6 +22,6 @@ jobs:
         uses: actions-x/commit@v2
         with:
           message: 'data: daily hydration'
-          files: _data
+          files: src/_data
           email: colbywhite@users.noreply.github.com
           name: Colby M. White
