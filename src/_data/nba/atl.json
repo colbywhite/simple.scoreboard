@@ -1861,10 +1861,10 @@
   },
   {
     "code": "20210703/MILATL",
-    "description": "MIL leads series 3-2",
+    "description": "MIL wins series 4-2",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "ATL",
       "nickname": "Hawks",
@@ -1878,25 +1878,5 @@
       "logoClass": "nba-mil"
     },
     "date": "2021-07-04T00:30:00.000Z"
-  },
-  {
-    "code": "20210705/ATLMIL",
-    "description": "MIL leads series 3-2",
-    "competitionDescription": "NBA",
-    "league": "NBA",
-    "status": "future",
-    "home": {
-      "abbreviation": "MIL",
-      "nickname": "Bucks",
-      "city": "Milwaukee",
-      "logoClass": "nba-mil"
-    },
-    "away": {
-      "abbreviation": "ATL",
-      "nickname": "Hawks",
-      "city": "Atlanta",
-      "logoClass": "nba-atl"
-    },
-    "date": "2021-07-06T00:30:00.000Z"
   }
 ]

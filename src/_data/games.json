@@ -25241,10 +25241,10 @@
   },
   {
     "code": "20210703/MILATL",
-    "description": "MIL leads series 3-2",
+    "description": "MIL wins series 4-2",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "ATL",
       "nickname": "Hawks",
@@ -25360,24 +25360,24 @@
     "date": "2021-07-05T02:30:00.000Z"
   },
   {
-    "code": "20210705/ATLMIL",
-    "description": "MIL leads series 3-2",
+    "code": "20210706/MILPHX",
+    "description": "Series tied 0-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
     "home": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "away": {
       "abbreviation": "MIL",
       "nickname": "Bucks",
       "city": "Milwaukee",
       "logoClass": "nba-mil"
     },
-    "away": {
-      "abbreviation": "ATL",
-      "nickname": "Hawks",
-      "city": "Atlanta",
-      "logoClass": "nba-atl"
-    },
-    "date": "2021-07-06T00:30:00.000Z"
+    "date": "2021-07-07T01:00:00.000Z"
   },
   {
     "code": "nevstor-07-07-2021",
@@ -25580,6 +25580,26 @@
     "date": "2021-07-09T00:30:00.000Z"
   },
   {
+    "code": "20210708/MILPHX",
+    "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "away": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "date": "2021-07-09T01:00:00.000Z"
+  },
+  {
     "code": "cinvsclb-07-09-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
@@ -25598,6 +25618,46 @@
       "logoClass": "mls-clb"
     },
     "date": "2021-07-09T23:30:00.000Z"
+  },
+  {
+    "code": "20210711/PHXMIL",
+    "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "away": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "date": "2021-07-12T00:00:00.000Z"
+  },
+  {
+    "code": "20210714/PHXMIL",
+    "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "away": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "date": "2021-07-15T01:00:00.000Z"
   },
   {
     "code": "atlvsne-07-17-2021",
@@ -25740,6 +25800,26 @@
     "date": "2021-07-18T00:30:00.000Z"
   },
   {
+    "code": "20210717/MILPHX",
+    "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "away": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "date": "2021-07-18T01:00:00.000Z"
+  },
+  {
     "code": "colvssj-07-17-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
@@ -25838,6 +25918,26 @@
       "logoClass": "mls-sea"
     },
     "date": "2021-07-18T18:00:00.000Z"
+  },
+  {
+    "code": "20210720/PHXMIL",
+    "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "away": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "date": "2021-07-21T01:00:00.000Z"
   },
   {
     "code": "vanvshou-07-20-2021",
@@ -26078,6 +26178,26 @@
       "logoClass": "mls-phi"
     },
     "date": "2021-07-22T23:30:00.000Z"
+  },
+  {
+    "code": "20210722/MILPHX",
+    "description": "Series tied 0-0",
+    "competitionDescription": "NBA",
+    "league": "NBA",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHX",
+      "nickname": "Suns",
+      "city": "Phoenix",
+      "logoClass": "nba-phx"
+    },
+    "away": {
+      "abbreviation": "MIL",
+      "nickname": "Bucks",
+      "city": "Milwaukee",
+      "logoClass": "nba-mil"
+    },
+    "date": "2021-07-23T01:00:00.000Z"
   },
   {
     "code": "atxvssea-07-22-2021",
