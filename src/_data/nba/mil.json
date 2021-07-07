@@ -1841,10 +1841,10 @@
   },
   {
     "code": "20210706/MILPHX",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "PHX",
       "nickname": "Suns",
@@ -1861,7 +1861,7 @@
   },
   {
     "code": "20210708/MILPHX",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -1881,7 +1881,7 @@
   },
   {
     "code": "20210711/PHXMIL",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -1901,7 +1901,7 @@
   },
   {
     "code": "20210714/PHXMIL",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -1921,7 +1921,7 @@
   },
   {
     "code": "20210717/MILPHX",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -1941,7 +1941,7 @@
   },
   {
     "code": "20210720/PHXMIL",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -1961,7 +1961,7 @@
   },
   {
     "code": "20210722/MILPHX",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",

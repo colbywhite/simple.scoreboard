@@ -25361,10 +25361,10 @@
   },
   {
     "code": "20210706/MILPHX",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "PHX",
       "nickname": "Suns",
@@ -25581,7 +25581,7 @@
   },
   {
     "code": "20210708/MILPHX",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -25621,7 +25621,7 @@
   },
   {
     "code": "20210711/PHXMIL",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -25641,7 +25641,7 @@
   },
   {
     "code": "20210714/PHXMIL",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -25700,7 +25700,7 @@
     "date": "2021-07-17T23:00:00.000Z"
   },
   {
-    "code": "clbvsnyc-07-17-2021",
+    "code": "clbvsnyc-07-17-2021-x4265",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -25801,7 +25801,7 @@
   },
   {
     "code": "20210717/MILPHX",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -25921,7 +25921,7 @@
   },
   {
     "code": "20210720/PHXMIL",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -26181,7 +26181,7 @@
   },
   {
     "code": "20210722/MILPHX",
-    "description": "Series tied 0-0",
+    "description": "PHX leads series 1-0",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -28300,6 +28300,26 @@
     "date": "2021-08-30T02:30:00.000Z"
   },
   {
+    "code": "nshvsnyc-09-04-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "NSH",
+      "nickname": "Nashville",
+      "city": "Nashville",
+      "logoClass": "mls-nsh"
+    },
+    "away": {
+      "abbreviation": "NYC",
+      "nickname": "New York City",
+      "city": "New York City",
+      "logoClass": "mls-nyc"
+    },
+    "date": "2021-09-03T23:30:00.000Z"
+  },
+  {
     "code": "phivsne-09-03-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
@@ -28418,26 +28438,6 @@
       "logoClass": "mls-dal"
     },
     "date": "2021-09-05T00:00:00.000Z"
-  },
-  {
-    "code": "nshvsnyc-09-04-2021",
-    "description": "",
-    "competitionDescription": "MLS Regular Season",
-    "league": "MLS",
-    "status": "future",
-    "home": {
-      "abbreviation": "NSH",
-      "nickname": "Nashville",
-      "city": "Nashville",
-      "logoClass": "mls-nsh"
-    },
-    "away": {
-      "abbreviation": "NYC",
-      "nickname": "New York City",
-      "city": "New York City",
-      "logoClass": "mls-nyc"
-    },
-    "date": "2021-09-05T00:30:00.000Z"
   },
   {
     "code": "sjvscol-09-04-2021",
