@@ -1220,26 +1220,6 @@
     "date": "2021-07-08T02:30:00.000Z"
   },
   {
-    "code": "rbnyvsphi-07-08-2021",
-    "description": "",
-    "competitionDescription": "MLS Regular Season",
-    "league": "MLS",
-    "status": "future",
-    "home": {
-      "abbreviation": "RBNY",
-      "nickname": "New York",
-      "city": "New York",
-      "logoClass": "mls-rbny"
-    },
-    "away": {
-      "abbreviation": "PHI",
-      "nickname": "Philadelphia",
-      "city": "Philadelphia",
-      "logoClass": "mls-phi"
-    },
-    "date": "2021-07-09T00:00:00.000Z"
-  },
-  {
     "code": "nshvsatl-07-08-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
@@ -1256,6 +1236,26 @@
       "nickname": "Atlanta",
       "city": "Atlanta",
       "logoClass": "mls-atl"
+    },
+    "date": "2021-07-09T00:30:00.000Z"
+  },
+  {
+    "code": "rbnyvsphi-07-08-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "RBNY",
+      "nickname": "New York",
+      "city": "New York",
+      "logoClass": "mls-rbny"
+    },
+    "away": {
+      "abbreviation": "PHI",
+      "nickname": "Philadelphia",
+      "city": "Philadelphia",
+      "logoClass": "mls-phi"
     },
     "date": "2021-07-09T00:30:00.000Z"
   },
@@ -1320,7 +1320,7 @@
     "date": "2021-07-17T23:00:00.000Z"
   },
   {
-    "code": "clbvsnycfc-07-17-2021",
+    "code": "clbvsnyc-07-17-2021-x7198",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -5317,7 +5317,7 @@
       "city": "Portland",
       "logoClass": "mls-por"
     },
-    "date": "2021-09-30T02:00:00.000Z"
+    "date": "2021-09-30T02:30:00.000Z"
   },
   {
     "code": "sjvssea-09-29-2021",
