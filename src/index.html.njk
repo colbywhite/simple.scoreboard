@@ -3,6 +3,7 @@ permalink: index.html
 title: Simple Sports Schedules
 ---
 <h1>Upcoming week of games</h1>
+{% set games = nba.games | concat(mls.games) %}
 {% for date, _games in games | nextWeek | groupByDay %}
     <h2>
         <time datetime="{{ date | toDate | iso }}">

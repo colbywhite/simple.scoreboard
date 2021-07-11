@@ -6,10 +6,9 @@ pagination:
 permalink: "{{ league }}.css"
 layout: ''
 ---
-{% set logos = collections[league + 'Logos'] -%}
-{% for logo in logos -%}
-.{{ logo.name }}:before {
-    background-image: url('{{logo.path}}');
+{% set teams = collections.all[0].template.templateData.globalData[league].teams %}
+{% for team in teams -%}
+.{{ league }}-{{ team.abbreviation | lower }}:before {
+    background-image: url('logos/{{ league }}/{{ league }}-{{ team.abbreviation | lower }}.png');
 }
-
 {% endfor %}
