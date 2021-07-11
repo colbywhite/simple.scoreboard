@@ -1,5 +1,6 @@
 const {DateTime} = require('luxon');
 const fs = require('fs');
+const ts = require('typescript');
 
 module.exports = eleventyApi => {
   ['js', 'css', 'logos'].forEach(dir => {
@@ -8,19 +9,7 @@ module.exports = eleventyApi => {
     eleventyApi.addWatchTarget(srcDir);
   });
   eleventyApi.addPassthroughCopy('src/favicon.ico');
-  eleventyApi.addCollection('mlsLogos', () => {
-    const regex = /(.*)\.png/;
-    return fs.readdirSync('src/_logos/mls').map(logo => ({path: `logos/mls/${logo}`, name: logo.match(regex)[1]}));
-  });
-  eleventyApi.addCollection('nbaLogos', () => {
-    const regex = /(.*)\.png/;
-    return fs.readdirSync('src/_logos/nba').map(logo => ({path: `logos/nba/${logo}`, name: logo.match(regex)[1]}));
-  });
-  eleventyApi.addCollection('logos', () => {
-    const mls = eleventyApi.getCollections()['mlsLogos'];
-    const nba = eleventyApi.getCollections()['nbaLogos'];
-    return [...mls(), ...nba()];
-  });
+  eleventyApi.addFilter('concat', (arr1, arr2) => arr1.concat(arr2));
   eleventyApi.addFilter('toDate', dateString => new Date(dateString));
   eleventyApi.addFilter('iso', date => date.toISOString());
   eleventyApi.addFilter('json', obj => JSON.stringify(obj));
@@ -47,14 +36,17 @@ module.exports = eleventyApi => {
     const startOfDay = DateTime.now().setZone('America/New_York').startOf('day');
     const endOfWeek = startOfDay.plus({week: 1}).endOf('day');
     return games.filter(game => {
-      const dateTime = DateTime.fromISO(game.date);
+      const dateTime = DateTime.fromISO(game.date.toISOString ? game.date.toISOString() : game.date);
       return startOfDay <= dateTime && dateTime <= endOfWeek;
     });
   });
   eleventyApi.addFilter('groupByDay', games => {
     const groupedGames = {};
     games.forEach(game => {
-      const gameDate = DateTime.fromISO(game.date).setZone('America/New_York').startOf('day').toISO();
+      const gameDate = DateTime.fromISO(game.date.toISOString ? game.date.toISOString() : game.date)
+        .setZone('America/New_York')
+        .startOf('day')
+        .toISO();
       if (groupedGames[gameDate]) {
         groupedGames[gameDate].push(game);
       } else {
@@ -63,6 +55,5 @@ module.exports = eleventyApi => {
     });
     return groupedGames;
   });
-
   return {dir: {input: 'src', layouts: '_layouts'}};
 };
