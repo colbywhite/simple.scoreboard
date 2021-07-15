@@ -1901,10 +1901,10 @@
   },
   {
     "code": "20210714/PHXMIL",
-    "description": "PHX leads series 2-1",
+    "description": "Series tied 2-2",
     "competitionDescription": "NBA",
     "league": "NBA",
-    "status": "future",
+    "status": "complete",
     "home": {
       "abbreviation": "MIL",
       "nickname": "Bucks",
@@ -1921,7 +1921,7 @@
   },
   {
     "code": "20210717/MILPHX",
-    "description": "PHX leads series 2-1",
+    "description": "Series tied 2-2",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -1941,7 +1941,7 @@
   },
   {
     "code": "20210720/PHXMIL",
-    "description": "PHX leads series 2-1",
+    "description": "Series tied 2-2",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
@@ -1961,7 +1961,7 @@
   },
   {
     "code": "20210722/MILPHX",
-    "description": "PHX leads series 2-1",
+    "description": "Series tied 2-2",
     "competitionDescription": "NBA",
     "league": "NBA",
     "status": "future",
