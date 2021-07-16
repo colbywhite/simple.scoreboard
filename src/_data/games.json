@@ -25700,7 +25700,7 @@
     "date": "2021-07-17T23:00:00.000Z"
   },
   {
-    "code": "clbvsnyc-07-17-2021-x9924",
+    "code": "clbvsnyc-07-17-2021-x7977",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -25760,7 +25760,7 @@
     "date": "2021-07-17T23:30:00.000Z"
   },
   {
-    "code": "torvsocs-07-17-2021",
+    "code": "torvsorl-07-17-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -26400,7 +26400,7 @@
     "date": "2021-07-25T22:00:00.000Z"
   },
   {
-    "code": "nycvsocs-07-25-2021",
+    "code": "nycvsorl-07-25-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -26540,7 +26540,7 @@
     "date": "2021-07-30T23:30:00.000Z"
   },
   {
-    "code": "ocsvsatl-07-30-2021",
+    "code": "orlvsatl-07-30-2021-x2903",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -26860,7 +26860,7 @@
     "date": "2021-08-04T23:30:00.000Z"
   },
   {
-    "code": "chivsnycfc-08-04-2021",
+    "code": "chivsnyc-08-04-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -27380,7 +27380,7 @@
     "date": "2021-08-15T00:00:00.000Z"
   },
   {
-    "code": "dalvskc-08-14-2021",
+    "code": "dalvsskc-08-14-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -27740,7 +27740,7 @@
     "date": "2021-08-19T00:30:00.000Z"
   },
   {
-    "code": "nshvsocs-08-18-2021",
+    "code": "nshvsorl-08-18-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -27940,7 +27940,7 @@
     "date": "2021-08-22T00:00:00.000Z"
   },
   {
-    "code": "ocsvschi-08-21-2021",
+    "code": "orlvschi-08-21-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -28098,26 +28098,6 @@
       "logoClass": "mls-tor"
     },
     "date": "2021-08-27T23:30:00.000Z"
-  },
-  {
-    "code": "ocsvsmia-08-27-2021",
-    "description": "",
-    "competitionDescription": "MLS Regular Season",
-    "league": "MLS",
-    "status": "future",
-    "home": {
-      "abbreviation": "ORL",
-      "nickname": "Orlando",
-      "city": "Orlando",
-      "logoClass": "mls-orl"
-    },
-    "away": {
-      "abbreviation": "MIA",
-      "nickname": "Miami",
-      "city": "Miami",
-      "logoClass": "mls-mia"
-    },
-    "date": "2021-08-28T00:30:00.000Z"
   },
   {
     "code": "atlvsnsh-08-28-2021",
@@ -28380,7 +28360,7 @@
     "date": "2021-09-04T00:00:00.000Z"
   },
   {
-    "code": "lfcvskc-09-03-2021",
+    "code": "lafcvsskc-09-03-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -28480,7 +28460,7 @@
     "date": "2021-09-05T02:00:00.000Z"
   },
   {
-    "code": "atlvsocs-09-10-2021",
+    "code": "atlvsorl-09-10-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -28680,7 +28660,7 @@
     "date": "2021-09-12T00:30:00.000Z"
   },
   {
-    "code": "kcvschi-09-11-2021",
+    "code": "skcvschi-09-11-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -28820,7 +28800,7 @@
     "date": "2021-09-15T23:00:00.000Z"
   },
   {
-    "code": "ocsvsmtl-09-15-2021",
+    "code": "orlvsmtl-09-15-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -29300,7 +29280,7 @@
     "date": "2021-09-25T19:30:00.000Z"
   },
   {
-    "code": "nevsocs-09-25-2021",
+    "code": "nevsorl-09-25-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -29620,7 +29600,7 @@
     "date": "2021-09-29T23:30:00.000Z"
   },
   {
-    "code": "chivsnycfc-09-29-2021",
+    "code": "chivsnyc-09-29-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -29880,26 +29860,6 @@
     "date": "2021-10-02T23:30:00.000Z"
   },
   {
-    "code": "phivsclb-10-02-2021",
-    "description": "",
-    "competitionDescription": "MLS Regular Season",
-    "league": "MLS",
-    "status": "future",
-    "home": {
-      "abbreviation": "PHI",
-      "nickname": "Philadelphia",
-      "city": "Philadelphia",
-      "logoClass": "mls-phi"
-    },
-    "away": {
-      "abbreviation": "CLB",
-      "nickname": "Columbus",
-      "city": "Columbus",
-      "logoClass": "mls-clb"
-    },
-    "date": "2021-10-02T23:30:00.000Z"
-  },
-  {
     "code": "dalvsmin-10-02-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
@@ -29956,6 +29916,26 @@
       "nickname": "Houston",
       "city": "Houston",
       "logoClass": "mls-hou"
+    },
+    "date": "2021-10-03T20:00:00.000Z"
+  },
+  {
+    "code": "phivsclb-10-03-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHI",
+      "nickname": "Philadelphia",
+      "city": "Philadelphia",
+      "logoClass": "mls-phi"
+    },
+    "away": {
+      "abbreviation": "CLB",
+      "nickname": "Columbus",
+      "city": "Columbus",
+      "logoClass": "mls-clb"
     },
     "date": "2021-10-03T20:00:00.000Z"
   },
@@ -30340,7 +30320,7 @@
     "date": "2021-10-17T17:00:00.000Z"
   },
   {
-    "code": "vanvskc-10-17-2021",
+    "code": "vanvsskc-10-17-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -30860,7 +30840,7 @@
     "date": "2021-10-24T20:00:00.000Z"
   },
   {
-    "code": "lfcvssea-10-26-2021",
+    "code": "lafcvssea-10-26-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -30940,7 +30920,7 @@
     "date": "2021-10-27T23:30:00.000Z"
   },
   {
-    "code": "clbvsocs-10-27-2021",
+    "code": "clbvsorl-10-27-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -30960,7 +30940,7 @@
     "date": "2021-10-27T23:30:00.000Z"
   },
   {
-    "code": "nycfcvschi-10-27-2021",
+    "code": "nycvschi-10-27-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -31200,26 +31180,6 @@
     "date": "2021-10-30T23:30:00.000Z"
   },
   {
-    "code": "phivscin-10-30-2021",
-    "description": "",
-    "competitionDescription": "MLS Regular Season",
-    "league": "MLS",
-    "status": "future",
-    "home": {
-      "abbreviation": "PHI",
-      "nickname": "Philadelphia",
-      "city": "Philadelphia",
-      "logoClass": "mls-phi"
-    },
-    "away": {
-      "abbreviation": "CIN",
-      "nickname": "Cincinnati",
-      "city": "Cincinnati",
-      "logoClass": "mls-cin"
-    },
-    "date": "2021-10-30T23:30:00.000Z"
-  },
-  {
     "code": "dalvsatx-10-30-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
@@ -31296,6 +31256,26 @@
       "nickname": "Nashville",
       "city": "Nashville",
       "logoClass": "mls-nsh"
+    },
+    "date": "2021-10-31T23:30:00.000Z"
+  },
+  {
+    "code": "phivscin-10-31-2021",
+    "description": "",
+    "competitionDescription": "MLS Regular Season",
+    "league": "MLS",
+    "status": "future",
+    "home": {
+      "abbreviation": "PHI",
+      "nickname": "Philadelphia",
+      "city": "Philadelphia",
+      "logoClass": "mls-phi"
+    },
+    "away": {
+      "abbreviation": "CIN",
+      "nickname": "Cincinnati",
+      "city": "Cincinnati",
+      "logoClass": "mls-cin"
     },
     "date": "2021-10-31T23:30:00.000Z"
   },

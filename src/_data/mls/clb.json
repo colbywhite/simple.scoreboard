@@ -100,7 +100,7 @@
     "date": "2021-07-09T23:30:00.000Z"
   },
   {
-    "code": "clbvsnyc-07-17-2021-x9924",
+    "code": "clbvsnyc-07-17-2021-x7977",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -400,7 +400,7 @@
     "date": "2021-09-25T23:30:00.000Z"
   },
   {
-    "code": "phivsclb-10-02-2021",
+    "code": "phivsclb-10-03-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -417,7 +417,7 @@
       "city": "Columbus",
       "logoClass": "mls-clb"
     },
-    "date": "2021-10-02T23:30:00.000Z"
+    "date": "2021-10-03T20:00:00.000Z"
   },
   {
     "code": "clbvsmia-10-16-2021",
@@ -480,7 +480,7 @@
     "date": "2021-10-23T22:00:00.000Z"
   },
   {
-    "code": "clbvsocs-10-27-2021",
+    "code": "clbvsorl-10-27-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",

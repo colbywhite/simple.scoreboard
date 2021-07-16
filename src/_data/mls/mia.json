@@ -240,26 +240,6 @@
     "date": "2021-08-22T00:00:00.000Z"
   },
   {
-    "code": "ocsvsmia-08-27-2021",
-    "description": "",
-    "competitionDescription": "MLS Regular Season",
-    "league": "MLS",
-    "status": "future",
-    "home": {
-      "abbreviation": "ORL",
-      "nickname": "Orlando",
-      "city": "Orlando",
-      "logoClass": "mls-orl"
-    },
-    "away": {
-      "abbreviation": "MIA",
-      "nickname": "Miami",
-      "city": "Miami",
-      "logoClass": "mls-mia"
-    },
-    "date": "2021-08-28T00:30:00.000Z"
-  },
-  {
     "code": "cinvsmia-09-04-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",

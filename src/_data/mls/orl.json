@@ -100,7 +100,7 @@
     "date": "2021-07-08T00:00:00.000Z"
   },
   {
-    "code": "torvsocs-07-17-2021",
+    "code": "torvsorl-07-17-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -140,7 +140,7 @@
     "date": "2021-07-22T23:30:00.000Z"
   },
   {
-    "code": "nycvsocs-07-25-2021",
+    "code": "nycvsorl-07-25-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -160,7 +160,7 @@
     "date": "2021-07-25T22:00:00.000Z"
   },
   {
-    "code": "ocsvsatl-07-30-2021",
+    "code": "orlvsatl-07-30-2021-x2903",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -220,7 +220,7 @@
     "date": "2021-08-07T23:30:00.000Z"
   },
   {
-    "code": "nshvsocs-08-18-2021",
+    "code": "nshvsorl-08-18-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -240,7 +240,7 @@
     "date": "2021-08-19T00:30:00.000Z"
   },
   {
-    "code": "ocsvschi-08-21-2021",
+    "code": "orlvschi-08-21-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -258,26 +258,6 @@
       "logoClass": "mls-chi"
     },
     "date": "2021-08-22T00:00:00.000Z"
-  },
-  {
-    "code": "ocsvsmia-08-27-2021",
-    "description": "",
-    "competitionDescription": "MLS Regular Season",
-    "league": "MLS",
-    "status": "future",
-    "home": {
-      "abbreviation": "ORL",
-      "nickname": "Orlando",
-      "city": "Orlando",
-      "logoClass": "mls-orl"
-    },
-    "away": {
-      "abbreviation": "MIA",
-      "nickname": "Miami",
-      "city": "Miami",
-      "logoClass": "mls-mia"
-    },
-    "date": "2021-08-28T00:30:00.000Z"
   },
   {
     "code": "orlvsclb-09-04-2021",
@@ -300,7 +280,7 @@
     "date": "2021-09-04T23:30:00.000Z"
   },
   {
-    "code": "atlvsocs-09-10-2021",
+    "code": "atlvsorl-09-10-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -320,7 +300,7 @@
     "date": "2021-09-10T23:00:00.000Z"
   },
   {
-    "code": "ocsvsmtl-09-15-2021",
+    "code": "orlvsmtl-09-15-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -360,7 +340,7 @@
     "date": "2021-09-19T20:00:00.000Z"
   },
   {
-    "code": "nevsocs-09-25-2021",
+    "code": "nevsorl-09-25-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
@@ -480,7 +460,7 @@
     "date": "2021-10-24T11:00:00.000Z"
   },
   {
-    "code": "clbvsocs-10-27-2021",
+    "code": "clbvsorl-10-27-2021",
     "description": "",
     "competitionDescription": "MLS Regular Season",
     "league": "MLS",
