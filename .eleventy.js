@@ -10,6 +10,7 @@ module.exports = eleventyApi => {
   });
   eleventyApi.addPassthroughCopy('src/favicon.ico');
   eleventyApi.addFilter('concat', (arr1, arr2) => arr1.concat(arr2));
+  eleventyApi.addFilter('noAll', (leagues) => leagues.filter(league => league !== 'all'));
   eleventyApi.addFilter('toDate', dateString => new Date(dateString));
   eleventyApi.addFilter('iso', date => date.toISOString());
   eleventyApi.addFilter('json', obj => JSON.stringify(obj));

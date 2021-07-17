@@ -3,22 +3,22 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {% if league !== undefined -%}
-        <title>{{ league | upper }} schedule</title>
-        {% set logos = collections[league + 'Logos'] -%}
-    {% else %}
+    {% if league === 'all' -%}
         <title>{{ title }}</title>
         {% set logos = collections.logos -%}
+    {% else %}
+        <title>{{ league | upper }} schedule</title>
+        {% set logos = collections[league + 'Logos'] -%}
     {% endif %}
     {% for logo in logos -%}
     <link rel="preload" as="image" href="/{{ logo.path }}">
     {% endfor %}
-    {% if league !== undefined -%}
-        <link rel="stylesheet" type="text/css" href="/{{ league | lower }}.css" media="screen"/>
-    {% else %}
-        {% for league in leagues -%}
+    {% if league === 'all' -%}
+        {% for league in leagues | noAll -%}
             <link rel="stylesheet" type="text/css" href="/{{ league | lower }}.css" media="screen"/>
         {% endfor %}
+    {% else %}
+        <link rel="stylesheet" type="text/css" href="/{{ league | lower }}.css" media="screen"/>
     {% endif %}
     <link rel="stylesheet" type="text/css" href="/css/index.css" media="screen"/>
     <script src="/js/timeFormatter.js"></script>
@@ -31,12 +31,13 @@
 <nav>
     <ul>
         <li>Leagues:</li>
-        <li>
-            <a href="/">ALL</a>
-        </li>
         {% for league in leagues %}
             <li>
-                <a href="/{{ league }}">{{ league | upper }}</a>
+                {% if league === 'all' %}
+                <a href="/">{{ league | upper }}</a>
+                {% else %}
+                <a href="/{{ league }}.html">{{ league | upper }}</a>
+                {% endif %}
             </li>
         {% endfor %}
     </ul>
