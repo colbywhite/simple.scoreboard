@@ -1,6 +1,4 @@
 const {DateTime} = require('luxon');
-const fs = require('fs');
-const ts = require('typescript');
 
 module.exports = eleventyApi => {
   ['js', 'css', 'logos'].forEach(dir => {
