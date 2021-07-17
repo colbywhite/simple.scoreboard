@@ -41,6 +41,11 @@ module.exports = eleventyApi => {
       return startOfDay <= dateTime && dateTime <= endOfWeek;
     });
   });
+  eleventyApi.addFilter('orderByDate', games => games.sort((a, b) => {
+    const aDate = DateTime.fromISO(a.date.toISOString ? a.date.toISOString() : a.date);
+    const bDate = DateTime.fromISO(b.date.toISOString ? b.date.toISOString() : b.date);
+    return (aDate > bDate) ? 1 : (aDate < bDate) ? -1 : 0;
+  }));
   eleventyApi.addFilter('groupByDay', games => {
     const groupedGames = {};
     games.forEach(game => {

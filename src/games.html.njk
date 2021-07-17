@@ -7,12 +7,12 @@ pagination:
   alias: league
 ---
 <h1>Upcoming week of games</h1>
-{% for date, _games in games | nextWeek | groupByDay %}
+{% for date, _games in games | nextWeek | orderByDate | groupByDay %}
     <h2>
         <time datetime="{{ date | toDate | iso }}">
             {{ date | toDate | easternDate }}
         </time>
     </h2>
     {% import 'games.section.html.njk' as section %}
-    {{ section.list(_games, true) }}
+    {{ section.list(_games) }}
 {% endfor %}
