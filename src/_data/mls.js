@@ -7,8 +7,20 @@
 const Cache = require('@11ty/eleventy-cache-assets');
 const utils = require('../_utils/utils');
 
-// TODO get the non league games too
-const MLS_URL = 'https://sportapi.mlssoccer.com/api/matches?culture=en-us&dateFrom=2021-06-01&dateTo=2021-12-31&competition=98&matchType=Regular&matchType=Cup&excludeSecondaryTeams=true&excludeVenue=true';
+const MLS_ID = 98;
+const WORLD_CUP_QUALIFIER = 339;
+const MLS_URL = `https://sportapi.mlssoccer.com/api/matches?culture=en-us`
+    + `&dateFrom=2021-06-01&dateTo=2021-12-31`
+    + `&excludeSecondaryTeams=true&excludeVenue=true`;
+
+function getCompetitionName(comp) {
+  if (comp.optaId === MLS_ID) {
+    return 'MLS';
+  } else if (comp.optaId === WORLD_CUP_QUALIFIER) {
+    return 'WC Qualifier'
+  }
+  return comp.shortName;
+}
 
 function getMLSSchedule() {
   return Cache(MLS_URL, {duration: '1d', type: 'json'});
@@ -19,7 +31,7 @@ function parseRawGames(games) {
     code: game.slug,
     description: '',
     competitionDescription: parseDescription(game),
-    league: 'MLS',
+    league: getCompetitionName(game.competition),
     status: (game.isTimeTbd) ? 'tbd' : 'future',
     home: {
       abbreviation: game.home.abbreviation,
