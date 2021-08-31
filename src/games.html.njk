@@ -14,5 +14,5 @@ pagination:
         </time>
     </h2>
     {% import 'games.section.html.njk' as section %}
-    {{ section.list(_games, true) }}
+    {{ section.list(_games) }}
 {% endfor %}
