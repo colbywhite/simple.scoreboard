@@ -20,13 +20,13 @@ function parseRawGames(games) {
           abbreviation: game.h.ta,
           nickname: game.h.tn,
           city: game.h.tc,
-          logoClass: `nba-${game.h.ta.toLowerCase()}`
+          logoClass: `basketball-${game.h.ta.toLowerCase()}`
         },
         away: {
           abbreviation: game.v.ta,
           nickname: game.v.tn,
           city: game.v.tc,
-          logoClass: `nba-${game.v.ta.toLowerCase()}`
+          logoClass: `basketball-${game.v.ta.toLowerCase()}`
         },
         date: (game.stt === 'TBD') ? new Date(`${game.gdte}T19:00:00-0400`) : new Date(`${game.etm}-0400`)
       }));

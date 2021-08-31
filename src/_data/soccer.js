@@ -37,13 +37,13 @@ function parseRawGames(games) {
       abbreviation: game.home.abbreviation,
       nickname: game.home.shortName, // TODO better model a team to avoid this
       city: game.home.shortName,
-      logoClass: `mls-${game.home.abbreviation.toLowerCase()}`
+      logoClass: `soccer-${game.home.abbreviation.toLowerCase()}`
     },
     away: {
       abbreviation: game.away.abbreviation,
       nickname: game.away.shortName, // TODO better model a team to avoid this
       city: game.away.shortName,
-      logoClass: `mls-${game.away.abbreviation.toLowerCase()}`
+      logoClass: `soccer-${game.away.abbreviation.toLowerCase()}`
     },
     date: new Date(game.matchDate)
   }));

@@ -3,22 +3,22 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {% if league === 'all' -%}
+    {% if sport === 'all' -%}
         <title>{{ title }}</title>
         {% set logos = collections.logos -%}
     {% else %}
-        <title>{{ league | upper }} schedule</title>
-        {% set logos = collections[league + 'Logos'] -%}
+        <title>{{ sport | capitalize }} schedule</title>
+        {% set logos = collections[sport + 'Logos'] -%}
     {% endif %}
     {% for logo in logos -%}
     <link rel="preload" as="image" href="/{{ logo.path }}">
     {% endfor %}
-    {% if league === 'all' -%}
-        {% for league in leagues | noAll -%}
-            <link rel="stylesheet" type="text/css" href="/{{ league | lower }}.css" media="screen"/>
+    {% if sport === 'all' -%}
+        {% for sport in sports | noAll -%}
+            <link rel="stylesheet" type="text/css" href="/{{ sport | lower }}.css" media="screen"/>
         {% endfor %}
     {% else %}
-        <link rel="stylesheet" type="text/css" href="/{{ league | lower }}.css" media="screen"/>
+        <link rel="stylesheet" type="text/css" href="/{{ sport | lower }}.css" media="screen"/>
     {% endif %}
     <link rel="stylesheet" type="text/css" href="/css/index.css" media="screen"/>
     <script src="/js/timeFormatter.js"></script>
@@ -30,13 +30,13 @@
 
 <nav>
     <ul>
-        <li>Leagues:</li>
-        {% for league in leagues %}
+        <li>Sports:</li>
+        {% for sport in sports %}
             <li>
-                {% if league === 'all' %}
-                <a href="/">{{ league | upper }}</a>
+                {% if sport === 'all' %}
+                <a href="/">{{ sport | capitalize}}</a>
                 {% else %}
-                <a href="/{{ league }}.html">{{ league | upper }}</a>
+                <a href="/{{ sport }}.html">{{ sport | capitalize}}</a>
                 {% endif %}
             </li>
         {% endfor %}

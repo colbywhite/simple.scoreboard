@@ -1,10 +1,10 @@
 ---
-permalink: "{% if league === 'all' %}index.html{% else %}{{ league }}.html{% endif %}"
+permalink: "{% if sport === 'all' %}index.html{% else %}{{ sport }}.html{% endif %}"
 title: Simple Sports Schedules
 pagination:
-  data: leagues
+  data: sports
   size: 1
-  alias: league
+  alias: sport
 ---
 <h1>Upcoming week of games</h1>
 {% for date, _games in games | nextWeek | orderByDate | groupByDay %}

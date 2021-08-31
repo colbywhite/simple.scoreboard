@@ -1,15 +1,15 @@
 ---
 pagination:
-    data: leagues
+    data: sports
     size: 1
-    alias: league
+    alias: sport
     filter: all
-permalink: "{{ league }}.css"
+permalink: "{{ sport }}.css"
 layout: ''
 ---
-{% set teams = collections.all[0].template.templateData.globalData[league].teams %}
+{% set teams = collections.all[0].template.templateData.globalData[sport].teams %}
 {% for team in teams -%}
-.{{ league }}-{{ team.abbreviation | lower }}:before {
-    background-image: url('logos/{{ league }}/{{ league }}-{{ team.abbreviation | lower }}.png');
+.{{ sport }}-{{ team.abbreviation | lower }}:before {
+    background-image: url('logos/{{ sport }}/{{ team.abbreviation | lower }}.png');
 }
 {% endfor %}
