@@ -1,0 +1,7 @@
+{% if games %}
+{% for team in games | parseTeams %}
+.{{ team.sport }}-{{ team.abbreviation | lower }}:before {
+  background-image: url('logos/{{ team.sport }}/{{ team.abbreviation | lower }}.png');
+}
+{% endfor %}
+{% endif %}

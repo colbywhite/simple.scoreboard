@@ -7,7 +7,7 @@ pagination:
   alias: sport
 ---
 <h1>Upcoming week of games</h1>
-{% for date, _games in games | nextWeek | orderByDate | groupByDay %}
+{% for date, _games in games | orderByDate | groupByDay %}
     <h2>
         <time datetime="{{ date | toDate | iso }}">
             {{ date | toDate | easternDate }}

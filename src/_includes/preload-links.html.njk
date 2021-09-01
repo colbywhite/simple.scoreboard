@@ -1,0 +1,5 @@
+{% if games %}
+{% for team in games | parseTeams %}
+  <link rel="preload" as="image" href="logos/{{ team.sport }}/{{ team.abbreviation | lower }}.png">
+{% endfor %}
+{% endif %}

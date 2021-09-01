@@ -10,17 +10,11 @@
         <title>{{ sport | capitalize }} schedule</title>
         {% set logos = collections[sport + 'Logos'] -%}
     {% endif %}
-    {% for logo in logos -%}
-    <link rel="preload" as="image" href="/{{ logo.path }}">
-    {% endfor %}
-    {% if sport === 'all' -%}
-        {% for sport in sports | noAll -%}
-            <link rel="stylesheet" type="text/css" href="/{{ sport | lower }}.css" media="screen"/>
-        {% endfor %}
-    {% else %}
-        <link rel="stylesheet" type="text/css" href="/{{ sport | lower }}.css" media="screen"/>
-    {% endif %}
+    {% include 'preload-links.html.njk' %}
     <link rel="stylesheet" type="text/css" href="/css/index.css" media="screen"/>
+    <style>
+        {% include 'team-logo.css.njk' %}
+    </style>
     <script src="/js/timeFormatter.js"></script>
     <script>
       window.addEventListener('DOMContentLoaded', updateDateTimesWithTimezoneContent);

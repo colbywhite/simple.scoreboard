@@ -1,3 +1,5 @@
+const { DateTime } = require("luxon");
+
 function tap(func) {
   return (data) => {
     func(data);
@@ -35,4 +37,15 @@ function parseTeamSchedules(allGames) {
     }, new Map());
 }
 
-module.exports = {parseTeams, parseTeamSchedules, tap};
+function isInFuture(game, numWeeksInFuture = undefined) {
+    const startOfDay = DateTime.now().setZone('America/New_York').startOf('day');
+    const gameTime = DateTime.fromISO(game.date.toISOString ? game.date.toISOString() : game.date);
+    if (numWeeksInFuture !== undefined) {
+        const endOfWeek = startOfDay.plus({ week: numWeeksInFuture }).endOf('day');
+        return startOfDay <= gameTime && gameTime <= endOfWeek;
+    } else {
+        return startOfDay <= gameTime;
+    }
+}
+
+module.exports = {parseTeams, parseTeamSchedules, isInFuture, tap};

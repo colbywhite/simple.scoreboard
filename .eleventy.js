@@ -1,4 +1,5 @@
 const {DateTime} = require('luxon');
+const { parseTeams } = require('./src/_utils/utils');
 
 module.exports = eleventyApi => {
   ['js', 'css', 'logos'].forEach(dir => {
@@ -24,21 +25,6 @@ module.exports = eleventyApi => {
     const formatOptions = {timeZone: 'UTC', hour: 'numeric', minute: 'numeric', timeZoneName: 'short'};
     return date.toLocaleString(undefined, formatOptions);
   });
-  eleventyApi.addFilter('future', games => {
-    const startOfDay = DateTime.now().setZone('America/New_York').startOf('day');
-    return games.filter(game => {
-      const dateTime = DateTime.fromISO(game.date.toISOString());
-      return startOfDay <= dateTime;
-    });
-  });
-  eleventyApi.addFilter('nextWeek', games => {
-    const startOfDay = DateTime.now().setZone('America/New_York').startOf('day');
-    const endOfWeek = startOfDay.plus({week: 1}).endOf('day');
-    return games.filter(game => {
-      const dateTime = DateTime.fromISO(game.date.toISOString ? game.date.toISOString() : game.date);
-      return startOfDay <= dateTime && dateTime <= endOfWeek;
-    });
-  });
   eleventyApi.addFilter('orderByDate', games => games.sort((a, b) => {
     const aDate = DateTime.fromISO(a.date.toISOString ? a.date.toISOString() : a.date);
     const bDate = DateTime.fromISO(b.date.toISOString ? b.date.toISOString() : b.date);
@@ -59,5 +45,6 @@ module.exports = eleventyApi => {
     });
     return groupedGames;
   });
+  eleventyApi.addFilter('parseTeams', parseTeams);
   return {dir: {input: 'src', layouts: '_layouts'}};
 };
