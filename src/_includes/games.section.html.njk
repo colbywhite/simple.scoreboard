@@ -6,8 +6,12 @@
                     {{ game.league }}
                 </div>
                 <div class="description">{{ game.description }}</div>
-                <div class="team {{ game.away.logoClass }}">{{ game.away.nickname }}</div>
-                <div class="team {{ game.home.logoClass }}">{{ game.home.nickname }}</div>
+                <div class="team {{ game.away.logoClass }}">
+                    <a href="/{{ game.away.logoClass }}.html">{{ game.away.nickname }}</a>
+                </div>
+                <div class="team {{ game.home.logoClass }}">
+                    <a href="/{{ game.home.logoClass }}.html">{{ game.home.nickname }}</a>
+                </div>
                 <div class="gametime">
                     <time class="date" datetime="{{ game.date | toDate | iso }}">
                         {{ game.date | toDate | utcDate }}

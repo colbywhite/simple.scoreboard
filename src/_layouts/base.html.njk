@@ -35,6 +35,18 @@
             </li>
         {% endfor %}
     </ul>
+    {% for sport in sports | noAll %}
+        {# TODO: move this to a filter #}
+        {% set sportTeams = collections.all[0].template.templateData.globalData[sport].teams %}
+        <ul>
+            <li>{{ sport | capitalize }} teams:</li>
+            {% for team in sportTeams %}
+                <li>
+                    <a href="/{{ team.logoClass }}.html">{{ team.abbreviation }}</a>
+                </li>
+            {% endfor %}
+        </ul>
+    {% endfor %}
 </nav>
 <main>
     {{ content | safe }}
