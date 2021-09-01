@@ -6,10 +6,13 @@ function tap(func) {
 }
 
 function parseTeams(games) {
+  const garbageAbbreviations = ['', 'f1', 'f2', 'qf1', 'qf2', 'qf3', 'qf4'];
   const teamMap = games
     .map(game => [game.home, game.away])
     .reduce((teams, currentTeams) => {
-      currentTeams.forEach(team => teams.set(team.abbreviation, team));
+      currentTeams
+          .filter((t) => !garbageAbbreviations.includes(t.abbreviation.toLowerCase()))
+          .forEach(team => teams.set(team.abbreviation, team));
       return teams;
     }, new Map());
   return Array.from(teamMap.values());

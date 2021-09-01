@@ -1,0 +1,19 @@
+---
+permalink: "{{ team.logoClass }}.html"
+title: Simple Sports Schedules
+pagination:
+  data: teams
+  alias: team
+  size: 1
+---
+<h1>Upcoming games for {{ team.nickname }}</h1>
+
+{% import 'games.section.html.njk' as section %}
+{% for date, _games in games | future | orderByDate | groupByDay  %}
+  <h2>
+    <time datetime="{{ date | toDate | iso }}">
+      {{ date | toDate | easternDate }}
+    </time>
+  </h2>
+  {{ section.list(_games) }}
+{% endfor %}

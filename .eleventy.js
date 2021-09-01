@@ -11,7 +11,7 @@ module.exports = eleventyApi => {
   eleventyApi.addFilter('noAll', (sports) => sports.filter(sport => sport !== 'all'));
   eleventyApi.addFilter('toDate', dateString => new Date(dateString));
   eleventyApi.addFilter('iso', date => date.toISOString());
-  eleventyApi.addFilter('json', obj => JSON.stringify(obj));
+  eleventyApi.addFilter('json', obj => JSON.stringify(obj, null, 2));
   eleventyApi.addFilter('utcDate', date => {
     const formatOptions = {timeZone: 'UTC', weekday: 'short', day: 'numeric', month: 'short'};
     return date.toLocaleString(undefined, formatOptions);
@@ -27,7 +27,7 @@ module.exports = eleventyApi => {
   eleventyApi.addFilter('future', games => {
     const startOfDay = DateTime.now().setZone('America/New_York').startOf('day');
     return games.filter(game => {
-      const dateTime = DateTime.fromISO(game.date);
+      const dateTime = DateTime.fromISO(game.date.toISOString());
       return startOfDay <= dateTime;
     });
   });

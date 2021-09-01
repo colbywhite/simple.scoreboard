@@ -7,6 +7,7 @@
 const Cache = require('@11ty/eleventy-cache-assets');
 const utils = require('../_utils/utils');
 
+const SPORT = 'soccer';
 const MLS_ID = 98;
 const WORLD_CUP_QUALIFIER = 339;
 const MLS_URL = `https://sportapi.mlssoccer.com/api/matches?culture=en-us`
@@ -37,13 +38,15 @@ function parseRawGames(games) {
       abbreviation: game.home.abbreviation,
       nickname: game.home.shortName, // TODO better model a team to avoid this
       city: game.home.shortName,
-      logoClass: `soccer-${game.home.abbreviation.toLowerCase()}`
+      logoClass: `${SPORT}-${game.home.abbreviation.toLowerCase()}`,
+      sport: SPORT
     },
     away: {
       abbreviation: game.away.abbreviation,
       nickname: game.away.shortName, // TODO better model a team to avoid this
       city: game.away.shortName,
-      logoClass: `soccer-${game.away.abbreviation.toLowerCase()}`
+      logoClass: `${SPORT}-${game.away.abbreviation.toLowerCase()}`,
+      sport: SPORT
     },
     date: new Date(game.matchDate)
   }));
