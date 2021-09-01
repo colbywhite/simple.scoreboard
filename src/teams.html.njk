@@ -9,11 +9,4 @@ pagination:
 <h1>Upcoming games for {{ team.nickname }}</h1>
 
 {% import 'games.section.html.njk' as section %}
-{% for date, _games in games | orderByDate | groupByDay  %}
-  <h2>
-    <time datetime="{{ date | toDate | iso }}">
-      {{ date | toDate | easternDate }}
-    </time>
-  </h2>
-  {{ section.list(_games) }}
-{% endfor %}
+{{ section.list(games | orderByDate) }}
