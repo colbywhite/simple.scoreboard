@@ -1,11 +1,22 @@
 const Cache = require('@11ty/eleventy-cache-assets');
 const utils = require('../_utils/utils');
+const { DateTime } = require('luxon');
 
 const SPORT = 'basketball';
-const NBA_URL = 'https://data.nba.com/data/10s/v2015/json/mobile_teams/nba/2020/league/00_full_schedule.json';
+const NBA_URL = 'https://data.nba.com/data/10s/v2015/json/mobile_teams/nba/2021/league/00_full_schedule.json';
+/**
+ * Since the feed doesn't distinguish preseason games,
+ * all games before this date are considered preseason and thus ignored.
+ */
+const REGULAR_SEASON_START_DATE = DateTime.fromISO('2021-10-19T00:00:00-0400');
 
 function getNBASchedule() {
   return Cache(NBA_URL, {duration: '1d', type: 'json'});
+}
+
+function isRegularSeason(game) {
+    const gameDate = DateTime.fromISO(game.date.toISOString());
+    return gameDate > REGULAR_SEASON_START_DATE;
 }
 
 function parseRawGames(games) {
@@ -32,7 +43,8 @@ function parseRawGames(games) {
           sport: SPORT
         },
         date: (game.stt === 'TBD') ? new Date(`${game.gdte}T19:00:00-0400`) : new Date(`${game.etm}-0400`)
-      }));
+      }))
+        .filter(isRegularSeason);
     return games.concat(parsedMonth);
   }, []);
 }
