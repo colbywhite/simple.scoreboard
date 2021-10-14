@@ -13,8 +13,8 @@ function parseTeams(games) {
     .map(game => [game.home, game.away])
     .reduce((teams, currentTeams) => {
       currentTeams
-          .filter((t) => !garbageAbbreviations.includes(t.abbreviation.toLowerCase()))
-          .forEach(team => teams.set(team.abbreviation, team));
+          .filter(t => !garbageAbbreviations.includes(t.abbreviation.toLowerCase()))
+          .forEach(team => teams.set(team.logoClass, team));
       return teams;
     }, new Map());
   return Array.from(teamMap.values());
