@@ -7,9 +7,15 @@
                 </div>
                 <div class="description">{{ game.description }}</div>
                 <div class="team {{ game.away.logoClass }}">
+                    {% if game.away.rank %}
+                        {{ game.away.rank }}. &nbsp;
+                    {% endif %}
                     <a href="/{{ game.away.logoClass }}.html">{{ game.away.nickname }}</a>
                 </div>
                 <div class="team {{ game.home.logoClass }}">
+                    {% if game.home.rank %}
+                        {{ game.home.rank }}. &nbsp;
+                    {% endif %}
                     <a href="/{{ game.home.logoClass }}.html">{{ game.home.nickname }}</a>
                 </div>
                 <div class="gametime">
