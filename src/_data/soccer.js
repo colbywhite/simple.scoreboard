@@ -6,6 +6,7 @@
  */
 const Cache = require('@11ty/eleventy-cache-assets');
 const utils = require('../_utils/utils');
+const cheerio = require("cheerio");
 
 const SPORT = 'soccer';
 const MLS_ID = 98;
@@ -27,7 +28,31 @@ function getMLSSchedule() {
   return Cache(MLS_URL, {duration: '1d', type: 'json'});
 }
 
-function parseRawGames(games) {
+/**
+ * There are some teams whose abbreviation on powerrankingsguru.com don't match the ones on mlssoccer.com.
+ * This resolves the differences.
+ */
+const ABBREVIATION_MAP = {
+  nwe: 'ne',
+  nwy: 'rbny',
+  mnu: 'min',
+  dcu: 'dc',
+  lag: 'la',
+  san: 'sj',
+}
+
+function getRankings() {
+  const source = 'http://www.powerrankingsguru.com/soccer/mls/team-power-rankings.php';
+  return Cache(source, { duration: '1d', type: 'text' })
+      .then(cheerio.load)
+      .then(parser => parser('table.gfc-rankings-table > tbody > tr > td:nth-child(2) > div.gfc-team-name > span.abbrv'))
+      .then(spanNodes => spanNodes.toArray()
+          .map(node => node.children[0].data.toLowerCase())
+          .map(abbreviation => ABBREVIATION_MAP[abbreviation] || abbreviation)
+      );
+}
+
+function parseRawGames(games, rankings) {
   return games.map(game => ({
     code: game.slug,
     description: '',
@@ -39,6 +64,7 @@ function parseRawGames(games) {
       nickname: game.home.shortName, // TODO better model a team to avoid this
       city: game.home.shortName,
       logoClass: `${SPORT}-${game.home.abbreviation.toLowerCase()}`,
+      rank: findTeamRank(game.home.abbreviation, rankings),
       sport: SPORT
     },
     away: {
@@ -46,6 +72,7 @@ function parseRawGames(games) {
       nickname: game.away.shortName, // TODO better model a team to avoid this
       city: game.away.shortName,
       logoClass: `${SPORT}-${game.away.abbreviation.toLowerCase()}`,
+      rank: findTeamRank(game.away.abbreviation, rankings),
       sport: SPORT
     },
     date: new Date(game.matchDate)
@@ -56,7 +83,13 @@ function parseDescription(game) {
   return game.leagueMatchTitle || (game.competition.matchType === 'Regular') ? game.competition.name : game.competition.shortName
 }
 
-const getGames = getMLSSchedule().then(parseRawGames);
+function findTeamRank(teamName, rankings) {
+  const zeroIndexedRank = rankings.findIndex(name => teamName.toLowerCase() === name.toLowerCase());
+  return zeroIndexedRank + 1;
+}
+
+const getGames = Promise.all([getMLSSchedule(), getRankings()])
+    .then(([schedule, rankings]) => parseRawGames(schedule, rankings));
 const getTeams = getGames.then(utils.parseTeams)
 module.exports = Promise.all([getGames, getTeams])
   .then(([games, teams]) => {
