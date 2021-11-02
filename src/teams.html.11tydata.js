@@ -6,6 +6,9 @@ module.exports = {
       return data[sport].teamSchedules
           .get(abbreviation.toLowerCase())
           .filter(game => isInFuture(game));
+    },
+    title: data => {
+      return `${data.team.nickname} | Simple Sports Schedules`
     }
   }
 }

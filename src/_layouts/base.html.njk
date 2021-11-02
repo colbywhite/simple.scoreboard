@@ -3,13 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {% if sport === 'all' -%}
-        <title>{{ title }}</title>
-        {% set logos = collections.logos -%}
-    {% else %}
-        <title>{{ sport | capitalize }} schedule</title>
-        {% set logos = collections[sport + 'Logos'] -%}
-    {% endif %}
+    <title>{{ title }}</title>
     {% include 'preload-links.html.njk' %}
     <link rel="stylesheet" type="text/css" href="/css/index.css" media="screen"/>
     <style>
